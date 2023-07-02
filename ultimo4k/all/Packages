@@ -8468,8 +8468,8 @@ Version: 0.4-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: e1267f6702fc8056de065575652e92da
-SHA256sum: 98ad4457ba50b18b66883cfe1976bb62496240d1009502c5c3b36b8d7b1d326b
+MD5Sum: afb3ac23af4d12ac975a2fa023a66b2c
+SHA256sum: cec3642a6d41761c62ee90f0edf185e7fea0318bb06cd188c4cd21d2cb8953b0
 Size: 674
 Filename: livestreamersrv-dbg_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
@@ -8485,9 +8485,9 @@ Recommends: livestreamersrv (= 0.4-r0), python3-core-dev, streamlink-dev
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 197cbb47fe51ff17455dbd4440643eb7
-SHA256sum: 49f11905138af5939ab278cf7d55739e798478efade110516a2ab1adf342e1bf
-Size: 730
+MD5Sum: 0940a056b083dd0c6a2cc98defc3666b
+SHA256sum: b30065018076bf2a35611ccec43ed223888fdea168431def7da48605b7b672d0
+Size: 732
 Filename: livestreamersrv-dev_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Development files
@@ -8502,9 +8502,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 0f73d1bf0af3303b4341280ed5b86841
-SHA256sum: 976be8c2cd6659356b0dc2645a127661ecd24fa493692a21623af0ce01dbbacb
-Size: 76656
+MD5Sum: c85affe00413d69b05b763d70a5bbe21
+SHA256sum: 5c58f212271a18501ada6dc631acca9e2f6ea4de590838c0418e1426867ef41e
+Size: 76662
 Filename: livestreamersrv_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0
