@@ -9271,9 +9271,9 @@ Version: 1.0-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f65b52caf1e30861ca29961f2c53b17a
-SHA256sum: 6f7e28f273ffa4cf920de29c56e19cd18398f820942a6660a320cafa81653e8a
-Size: 836
+MD5Sum: 52910df7dbfe683fdb8cf189b0de9361
+SHA256sum: e7e7599faa28abc3ac225dee40b774a3880b6a99db4db8aeffb717ac9c3eb05e
+Size: 842
 Filename: os-release_1.0-r0_all.ipk
 Source: os-release.bb
 Description: Operating system identification
@@ -9408,14 +9408,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 3+git671+2823be00+2823be0e69-r0
+Version: 3+git672+11791cd0+11791cd379-r0
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 4c8cacbc30cc76a1cbd1e652a64b9974
-SHA256sum: e91049b6d42ec28ca4a4ce4f891e17e3fd1e0d6f7507ffe0869186167236d0f0
+MD5Sum: 6d8dc531f46475130bc80e9491ae8193
+SHA256sum: d9979cd44079457c8c72d03a34125c61300a189938de6d4aa2800a38ecc8b0ec
 Size: 568
-Filename: tuxbox-common-dbg_3+git671+2823be00+2823be0e69-r0_all.ipk
+Filename: tuxbox-common-dbg_3+git672+11791cd0+11791cd379-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Debugging files
 OE: tuxbox-common
@@ -9423,15 +9423,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 3+git671+2823be00+2823be0e69-r0
-Recommends: tuxbox-common (= 3+git671+2823be00+2823be0e69-r0), xz-dev
+Version: 3+git672+11791cd0+11791cd379-r0
+Recommends: tuxbox-common (= 3+git672+11791cd0+11791cd379-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 3ded148884711bac54e1f5c045486f5f
-SHA256sum: 9418ee1f2cf1aecbf4b0d19b4899a1b9e078131b43734a54c4b264b6a6d3f3c4
+MD5Sum: baee4c073107fd824af01c446d9def6c
+SHA256sum: 933bbaddb899766820d31b7af3f02c4f6e933db7d26e1a60680646d42782b17d
 Size: 608
-Filename: tuxbox-common-dev_3+git671+2823be00+2823be0e69-r0_all.ipk
+Filename: tuxbox-common-dev_3+git672+11791cd0+11791cd379-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Development files
 OE: tuxbox-common
@@ -9439,15 +9439,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common
-Version: 3+git671+2823be00+2823be0e69-r0
+Version: 3+git672+11791cd0+11791cd379-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 0ba5a98eb9f1e0a8a284328388d6d383
-SHA256sum: b021f84977d33832ec2ef1088640fb59b1b50bd257bb4b11da231fdeee97014e
-Size: 73124
-Filename: tuxbox-common_3+git671+2823be00+2823be0e69-r0_all.ipk
+MD5Sum: 3a0f81c031e01d2b9f85afca42f0832b
+SHA256sum: 10db6a4883fc67bba17d0403bf3615c017f6c5aa53644627d4bef1aaa3b0fbd7
+Size: 73026
+Filename: tuxbox-common_3+git672+11791cd0+11791cd379-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0
 OE: tuxbox-common
