@@ -4494,9 +4494,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fdcab4ae8eb806a6ecf9373fb7cd12db
-SHA256sum: ef8fd416618676f619c0ce60c40e0b6013a67fbf049b155f5a4a98b4fe9215f9
-Size: 1019508
+MD5Sum: 1c2415f1048c130b65a183636721d76c
+SHA256sum: 35a9f4792f36291c46a4b7cb05c3c0cd26b21a2892faacf5b72c3b95d7be3776
+Size: 1019386
 Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-13e-19e-23e-28e version 1.0+git-r0
@@ -4541,9 +4541,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0794200261037658eb74cd891f8979c7
-SHA256sum: ffcd1a7512fcbdcc5c934711947197fe0ff357d0a635617940f9185009d45421
-Size: 989540
+MD5Sum: 97532e1c06194cc24f5583aa8fb0b5f7
+SHA256sum: 1fd28cfe134de5351438ebe6c96ae1732f0c389cf82aa219fb1905ce12c485c9
+Size: 989412
 Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-19e-23e-28e version 1.0+git-r0
@@ -4588,9 +4588,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 32067135cbffcb9ca148151a5e9375b3
-SHA256sum: 0171615bdceacc6c40aaf65b45b5bbd9cfff16b2b5d153897cb1bc645ed7ba74
-Size: 38810
+MD5Sum: b4fedf8be0c0e506f5d9b50539668ccc
+SHA256sum: f502a91296b07dbb86798ec531dcebe86d6d851180f78903a82e383f585ec0c9
+Size: 38752
 Filename: enigma2-plugin-settings-hans-19e-23e-basis_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-basis.bb
 Description: enigma2-plugin-settings-hans-19e-23e-basis version 1.0+git-r0
@@ -4635,9 +4635,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9048ae12f8fc2735547449949e0cf4b2
-SHA256sum: 64c1a2d3c8d5f5d497bc3f4f26dd8f4041d823e90ea84c7ae0bc465e87d4bcca
-Size: 976586
+MD5Sum: 9d46e6c5968362a678d0864237b81a35
+SHA256sum: ce69c9b277ab49d2518b690cf081d647f129e6111fa85f5e97dc13dfea275e7a
+Size: 976502
 Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e.bb
 Description: enigma2-plugin-settings-hans-19e-23e version 1.0+git-r0
@@ -4713,9 +4713,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ab98d29ef88ff7da419ac8345a285cff
-SHA256sum: 8883754d6f33d74fd871b148964e3b45c7a3bc601447c09eaf36145a19d8b515
-Size: 1254596
+MD5Sum: d0de0ca251d5db8641cac6809c91d1b0
+SHA256sum: 7c5291f902635045b98c5f9ae1380719d00a403be3d7d1f47008c9ac782400b3
+Size: 1254448
 Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating version 1.0+git-r0
@@ -4729,9 +4729,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9550f5117c0abe814f28b4b0da3433c9
-SHA256sum: 81e258ac89e8b027f01bbd526de67b385f5b38292cd5a99508feee7c57f0ebcd
-Size: 1031944
+MD5Sum: 0be88038da67cb62a3460b463272ea9c
+SHA256sum: e180f362e97a3baa7342c2b6e44c8532022792c27f51d9e681b18d8618016259
+Size: 1031808
 Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e version 1.0+git-r0
@@ -4776,9 +4776,9 @@ Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 33c7f83ff429e77a4c41119876f3b086
-SHA256sum: ad5d865a4ac69ae8546206046cbb85f1ae1b260ef63347528ae896ebcc6f4796
-Size: 939142
+MD5Sum: e4ee4b91a22272e9de4e2f1ad6af0041
+SHA256sum: 6212f087a1d7786960d4b38af177bb5aa7443f5fbc80a6c73764c6fad0eefe54
+Size: 939090
 Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git47+634d4970+634d497bf4-r0_all.ipk
 Source: enigma2-plugin-settings-hans-kabelnl.bb
 Description: enigma2-plugin-settings-hans-kabelnl version 1.0+git-r0
@@ -6758,14 +6758,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullhd-dbg
-Version: 0.1+git2302+4aea2500+4aea250e64-r0
+Version: 0.1+git2303+d08d62a0+d08d62ac45-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: c89297d9ad804acb19d2ebe23faf5f31
-SHA256sum: 9c87f76990d0ffe84887b23bce2dafd93e9e3a663767ebe5c9f9bd643e372027
+MD5Sum: bcc679b579e5917ef7715e4a16f573c1
+SHA256sum: 96973e7ebd774e5e85b01eaa108d260c5cac065498a307e44277305b4e886b53
 Size: 578
-Filename: enigma2-plugin-skins-pli-fullhd-dbg_0.1+git2302+4aea2500+4aea250e64-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-fullhd-dbg_0.1+git2303+d08d62a0+d08d62ac45-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullhd.bb
 Description: enigma2-plugin-skins-pli-fullhd version 0.1+git-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-fullhd
@@ -6773,15 +6773,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullhd-dev
-Version: 0.1+git2302+4aea2500+4aea250e64-r0
-Recommends: enigma2-plugin-skins-pli-fullhd (= 0.1+git2302+4aea2500+4aea250e64-r0)
+Version: 0.1+git2303+d08d62a0+d08d62ac45-r0
+Recommends: enigma2-plugin-skins-pli-fullhd (= 0.1+git2303+d08d62a0+d08d62ac45-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 7e04049c6da29f2ddcda88619785e00c
-SHA256sum: 338af4d70743f454aa8670816f0a275d5abc382c62f35f6f0dc0381163ae62e9
-Size: 616
-Filename: enigma2-plugin-skins-pli-fullhd-dev_0.1+git2302+4aea2500+4aea250e64-r0_all.ipk
+MD5Sum: fe2128cdfcd12f8d0558f160d633c637
+SHA256sum: 2a0ab2dc336faf5c5c8749b8c3ffdcb120e5468bd576df40f19ca16b7552051e
+Size: 618
+Filename: enigma2-plugin-skins-pli-fullhd-dev_0.1+git2303+d08d62a0+d08d62ac45-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullhd.bb
 Description: enigma2-plugin-skins-pli-fullhd version 0.1+git-r0 - Development files
 OE: enigma2-plugin-skins-pli-fullhd
@@ -6789,14 +6789,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullhd
-Version: 0.1+git2302+4aea2500+4aea250e64-r0
+Version: 0.1+git2303+d08d62a0+d08d62ac45-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 806c54b96c3c1f2d27b3c1ca6222524d
-SHA256sum: 5e694133375028a593c7846b6bf6814209085beb939a8f9bc5653e7406742420
-Size: 483058
-Filename: enigma2-plugin-skins-pli-fullhd_0.1+git2302+4aea2500+4aea250e64-r0_all.ipk
+MD5Sum: 60ef8e8103e19ba6c9fade8b34033d3a
+SHA256sum: 61e753e5893687bc91df6f04bf3e73ea08035265862e87d7083cbe7e74746887
+Size: 483056
+Filename: enigma2-plugin-skins-pli-fullhd_0.1+git2303+d08d62a0+d08d62ac45-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullhd.bb
 Description: enigma2-plugin-skins-pli-fullhd version 0.1+git-r0
 OE: enigma2-plugin-skins-pli-fullhd
