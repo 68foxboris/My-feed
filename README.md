@@ -5,7 +5,10 @@ master branch,python 3.12.4,gcc 14.1,glibc-2.39,openssl 3.3.1,ci+,gstreamer 1.24
 vusolo2
 https://drive.google.com/file/d/1WUwKjOhw_rewdiSbRUzCJfbitKTSFg8I/view?usp=sharing
 
-Duo4kSE   
+vuduo2
+https://drive.google.com/file/d/1DFHjtvG6FBTcaBxKM3fLaEHz07mA6Kpa/view?usp=sharing
+
+duo4kSE   
 https://drive.google.com/file/d/1ys8RRlqUy4InUi4TvDAsMQda8Ndl4mqX/view?usp=sharing
 
 h9combo   
