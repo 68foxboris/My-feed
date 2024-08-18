@@ -842,15 +842,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-dbg
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libcurl-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython3-dbg, libsigc++-3-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e287124ff1e1aafcdea6f748b797ad6a
-SHA256sum: 516c2a76ad41486c49f7af165e8e5e67b6182fb7ecf05563c9afdb4267d1dd8c
+MD5Sum: fd744e1369a9d34812738e4450494a05
+SHA256sum: 337065468de703339c94d5f644a3d7ea25273d6dc1c730ad5a14e3c823c96d0f
 Size: 1167016
-Filename: enigma2-dbg_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-dbg_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Debugging files
 OE: enigma2
@@ -858,16 +858,16 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-dev
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2, libsigc++-3-dev
-Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, curl-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma-info-dev, enigma2 (= 3.12+git367+3348d1c0+3348d1c1ac-r0), enigma2-dhcp-wait-dev, enigma2-fonts-dev, enigma2-locale-meta-dev, enigma2-remote-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, genisoimage-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-cp1250-dev, glibc-gconv-iso8859-15-dev, hotplug-e2-helper-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libcurl-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython3-dev, libsigc++-3-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, oe-alliance-branding-dev, openssl-dev, python3-asyncio-dev, python3-codecs-dev, python3-core-dev, python3-crypt-dev, python3-dev, python3-difflib-dev, python3-fcntl-dev, python3-imaging-dev, python3-logging-dev, python3-mime-dev, python3-mmap-dev, python3-netclient-dev, python3-netifaces-dev, python3-netserver-dev, python3-numbers-dev, python3-pickle-dev, python3-pillow-dev, python3-process-dev, python3-puremagic-dev, python3-pyusb-dev, python3-requests-dev, python3-service-identity-dev, python3-shell-dev, python3-six-dev, python3-threading-dev, python3-treq-dev, python3-twisted-core-dev, python3-twisted-dev, python3-twisted-web-dev, python3-wifi-dev, python3-xml-dev, python3-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, wireless-tools-dev, wpa-supplicant-dev
+Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, curl-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma-info-dev, enigma2 (= 3.12+git368+46fe72a0+46fe72ae40-r0), enigma2-dhcp-wait-dev, enigma2-fonts-dev, enigma2-locale-meta-dev, enigma2-remote-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, genisoimage-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-cp1250-dev, glibc-gconv-iso8859-15-dev, hotplug-e2-helper-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libcurl-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython3-dev, libsigc++-3-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, oe-alliance-branding-dev, openssl-dev, python3-asyncio-dev, python3-codecs-dev, python3-core-dev, python3-crypt-dev, python3-dev, python3-difflib-dev, python3-fcntl-dev, python3-imaging-dev, python3-logging-dev, python3-mime-dev, python3-mmap-dev, python3-netclient-dev, python3-netifaces-dev, python3-netserver-dev, python3-numbers-dev, python3-pickle-dev, python3-pillow-dev, python3-process-dev, python3-puremagic-dev, python3-pyusb-dev, python3-requests-dev, python3-service-identity-dev, python3-shell-dev, python3-six-dev, python3-threading-dev, python3-treq-dev, python3-twisted-core-dev, python3-twisted-dev, python3-twisted-web-dev, python3-wifi-dev, python3-xml-dev, python3-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, wireless-tools-dev, wpa-supplicant-dev
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7e637b0828e20e6b74c3e237008fb4ee
-SHA256sum: 8e56258e926fbcc6cf5063296a8ca288ba57cfb4797b53ca7c5dce7fecdd54ee
+MD5Sum: a3c53f1da3aec7090429a75222bdde90
+SHA256sum: d2caea85fadd062af116c471b8dcb5ca99614e135e7b87f12d1ba224d584bf6e
 Size: 177702
-Filename: enigma2-dev_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-dev_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files
 OE: enigma2
@@ -905,15 +905,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ar
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: aa02daf5af744bc8afec4b59e3ded0d7
-SHA256sum: 3f9b24ab6c15feae5286ff116dea9fffd75e4c72d70f45854a5bed8f384b72b5
+MD5Sum: 364ad5b0f98c3eb78bf21cfc549576fd
+SHA256sum: 0a072825e64a754b72c7c89a9af07913f00c2a39676889db2dd06f708b3d829e
 Size: 77912
-Filename: enigma2-locale-ar_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-ar_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: ar
 OE: enigma2
@@ -921,15 +921,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-bg
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ac3f35a056f2bc32db7e126461675a58
-SHA256sum: 282c557b034a186f8599b3279964c514cf09b170037dd07f752411a873c068cf
+MD5Sum: 7994f9c8ea8a866ad210ec85308b8b4f
+SHA256sum: b6fe3e2a34f248c31ed8990d0b9742123aa0c58a057cefc84b39f6b8c1d95ab4
 Size: 131886
-Filename: enigma2-locale-bg_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-bg_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: bg
 OE: enigma2
@@ -937,15 +937,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ca
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b7f302880e0092d6c8544cfc4cc21fa5
-SHA256sum: 484009ceebf922e80cc98db7d6f0c4e8a1d7701ed70e9d2c03eee355fa1f9059
+MD5Sum: 86c4cd5ee27bc4cf8790c5da9437f349
+SHA256sum: 4fd1f5d59c428a6569ab1400cd24ea9463136cbe5815902ef3a20a7c0285c37b
 Size: 123628
-Filename: enigma2-locale-ca_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-ca_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: ca
 OE: enigma2
@@ -953,15 +953,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-cs
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 14bc899963b7b2cbce8c9179d10b69dc
-SHA256sum: 4a517ed8e8e0217b6170e0c8c03008e0f3cd52a9faa7c843437a6563c6ca86af
+MD5Sum: 6ff53fd8681d3e5573a026321a800b17
+SHA256sum: ef173c3c6015360f19ab3de5fd92c8e120c43a1c5ab959f79d80a38db03c51a6
 Size: 124770
-Filename: enigma2-locale-cs_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-cs_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: cs
 OE: enigma2
@@ -969,15 +969,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-da
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ed32e93a3aacaf5d0637c4880625ecb4
-SHA256sum: 7b631cb7a47151707cb30ee1cd8a7a3a6855be4400f2f20fbdaf01dce1c89e32
+MD5Sum: cd06d2d703b0c6102071138df376c291
+SHA256sum: 7dc7da9b589cc9e4deb758371a823d0d08459c108f9c077a6ee55a072c04a066
 Size: 77260
-Filename: enigma2-locale-da_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-da_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: da
 OE: enigma2
@@ -985,15 +985,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-de
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1743d4babc8adbd2881ba1ed40419952
-SHA256sum: d8cdb34d9ffb1e411753078d71fe1329b3d567912b6365915331fd403ce20c46
-Size: 121250
-Filename: enigma2-locale-de_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 90ee2a99c32d657f73ef5122574f0a55
+SHA256sum: bf4a288e40d4967a99ef1ac2ee1d32abb10817b4fbd80f140382bc8a611c8356
+Size: 121252
+Filename: enigma2-locale-de_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: de
 OE: enigma2
@@ -1001,15 +1001,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-el
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fb9c4bf7d87800bd2fccd242736d8c36
-SHA256sum: 1b5a4f0a7c881628ac98890da926f4e3a153fcecda77892da3cc25af6f645e81
+MD5Sum: d62413b9d0a71720f1dd242093da1b84
+SHA256sum: b8f9cfac21f23b36342937266d4305ec94f3a7c8cf4f8d18a8c51d8d1adbfd7d
 Size: 137562
-Filename: enigma2-locale-el_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-el_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: el
 OE: enigma2
@@ -1017,15 +1017,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-en
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 321aac48344807a427a07c90e8de6110
-SHA256sum: 38f329fa455784c12eb974fbf0311eed44a0a4956b411fe4e939532ba7423093
+MD5Sum: c3afae6bc39f1d3eaa972aeeaf048db2
+SHA256sum: c6bba03b7dd1b375c66c4c90bb5489780d7479d3a39e341834a782556fe69fc8
 Size: 40714
-Filename: enigma2-locale-en_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-en_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: en
 OE: enigma2
@@ -1033,15 +1033,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-es
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 31de54927c0cf2d859ad7fcc7ba3e5a5
-SHA256sum: 65b83856dbdbc97fc06e7f270793be759076975d81d0b26e287b3543f3eacbb8
+MD5Sum: ed47b345247d29befd71b4e247f9d330
+SHA256sum: 9edbe913d54332574d16e7711060eb479e8b065de42f6c7bc0362bae4fbfba4b
 Size: 120112
-Filename: enigma2-locale-es_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-es_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: es
 OE: enigma2
@@ -1049,15 +1049,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-et
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5ea76995eedd1d1c7eaaf71ed22b9c8d
-SHA256sum: c08cc2b07c6629001711322ba20d44644e73a270e2198ff88a4530cf33ee944e
+MD5Sum: 76d9787f19d64e0a8774d7d6ab0164f4
+SHA256sum: 03d645b767f8cab49aed0ddbfad5860ed2d0bf08edfdaae58a7f245b6bed3087
 Size: 97588
-Filename: enigma2-locale-et_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-et_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: et
 OE: enigma2
@@ -1065,15 +1065,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fa
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a54b594bb6621260e3433802ff651e98
-SHA256sum: 9c3ba2c24719d048fd5bee988c26ddc8c208a1d8016d943b57ebf1d2e126e9ee
-Size: 32080
-Filename: enigma2-locale-fa_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 04c4aa6d75ba82cd82fa26bbf0c81b01
+SHA256sum: 0f365dce840f205f49dae8e7798d1afc335a9f89e73f9eae4166157090a1bc40
+Size: 32078
+Filename: enigma2-locale-fa_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: fa
 OE: enigma2
@@ -1081,15 +1081,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fi
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6cedd4c494a0956f449e3a5f9627e813
-SHA256sum: 62d1ef6bca75873fe038aa5e4cc9efe1b0e31093a62c2193ab6ca5c912081fea
-Size: 93204
-Filename: enigma2-locale-fi_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: ea6bad355691ee9729b3b0108ca99fb7
+SHA256sum: ce41750c86349e3f0543b16a7dd678bd8ae6af358b1cbc36190e01c6824cf636
+Size: 93202
+Filename: enigma2-locale-fi_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: fi
 OE: enigma2
@@ -1097,15 +1097,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fr
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 385c3a510f92dbbc0566d0ae74c92c1b
-SHA256sum: 275beb204f0590ae33758e406ca79b67eaa864ecc24fc6cc33a1e9ecb4359d6f
-Size: 126582
-Filename: enigma2-locale-fr_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 3d82f36d3ef61e065cb7965ac7a4ea47
+SHA256sum: 52da8561182e4a0ece13db6077f170188510c52f55935731f4236cafb1a390f6
+Size: 126580
+Filename: enigma2-locale-fr_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: fr
 OE: enigma2
@@ -1113,15 +1113,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fy
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7356756e1e00bdaf73fe7dd11cf4940a
-SHA256sum: b958e946985eeeb7dd06e889887cbd42ee88196c070560f7896f8da7e8917c16
-Size: 21282
-Filename: enigma2-locale-fy_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 8ccdca5c32d645d9ffd4ca7398e70d5d
+SHA256sum: d211b6e8431c5c615d2645bcdf42806a58de62abdc6801aedbf56739ee97a888
+Size: 21280
+Filename: enigma2-locale-fy_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: fy
 OE: enigma2
@@ -1129,15 +1129,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-gl
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 92a7e6f9f92e587d2a412931df41fd80
-SHA256sum: 4460b182cd79188cdde7148616e7b551b5ac463d3cc120856d610069476d2ef6
+MD5Sum: b3d066298c554589f8032292ec734b83
+SHA256sum: 88958de5329917c3dd453417eb6d955a83637b0967a433d02a066d6622b63c9a
 Size: 115018
-Filename: enigma2-locale-gl_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-gl_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: gl
 OE: enigma2
@@ -1145,15 +1145,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-he
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b6e6a19f6d356e4d74047fd2b5fd3dab
-SHA256sum: 6fffd21ad3c8e18e0b58549243dd113d6057ed5a8275c4da51441b0fc947b3d3
+MD5Sum: 94c5b716cec9d09409f86f2945f8c720
+SHA256sum: e114a1659faaa80422ccbad7510f38ddd4429c95a3c1d913c120b1e271c74fd3
 Size: 22972
-Filename: enigma2-locale-he_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-he_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: he
 OE: enigma2
@@ -1161,15 +1161,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-hr
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0cd8692b77b86a975dc142f2d6cf3fa8
-SHA256sum: c371ae4c798f96955055c33440e6a23730b724c5b932d98b0fa3506e55ebbdbe
-Size: 117704
-Filename: enigma2-locale-hr_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 70817a3de1a90f66cf54613181ccc371
+SHA256sum: 3ae2511d42b5e652d56f321dde6749e3b1bad3a803dd62849d27f5e066daf2f4
+Size: 117702
+Filename: enigma2-locale-hr_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: hr
 OE: enigma2
@@ -1177,15 +1177,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-hu
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 53e07d6cedbe01473adbde7149ec47db
-SHA256sum: afa74314e97b341cff80f03f848e9d665273babb4c97e078951b384179454c25
-Size: 118334
-Filename: enigma2-locale-hu_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 39f9d4303d28689d00ed0e67a31db236
+SHA256sum: 2c68fdb2b6e9a05c0063b5d064634d4dbafd5d10107973464289f460e2a81633
+Size: 118332
+Filename: enigma2-locale-hu_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: hu
 OE: enigma2
@@ -1193,15 +1193,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-id
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 91c70747331219555d3a656236725141
-SHA256sum: 1217afa0f520cca6b4d5c1c2d4db3551a5f4e30641894ef7a839cb6ee7aef166
-Size: 98444
-Filename: enigma2-locale-id_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 907ab3ecccd31ef8fb4fdc5ed7e04714
+SHA256sum: 042120b6ac07f1eba5e8532503bcb445ead8a98ae674bae4f75cad6133067431
+Size: 98446
+Filename: enigma2-locale-id_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: id
 OE: enigma2
@@ -1209,15 +1209,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-is
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6f4d846e37e2d509537531c40d421f7e
-SHA256sum: 0c39f2e1fee421d5812a0e01b04daaa851e56aee19764dfa53c128b17b818f8c
+MD5Sum: 414e4516976012ad1aef7fc17079f77d
+SHA256sum: 0cfea87e324cd578b46fd7382c7e66c509e142eb4eb4a65683adca63e09394c4
 Size: 30064
-Filename: enigma2-locale-is_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-is_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: is
 OE: enigma2
@@ -1225,15 +1225,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-it
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 10fbdb4b53b40788dbfb81c00620b6b4
-SHA256sum: 01668c27073acff6cfab97af10e72cb45964405acaa31924e8517aec5fd2e08a
+MD5Sum: 3a47fc4800090467e9cc6a50e298f202
+SHA256sum: 300d7f5eb12e223367f08d05c48b3f020ec54bbfc17c1a4a078979866b9b2cfd
 Size: 113816
-Filename: enigma2-locale-it_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-it_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: it
 OE: enigma2
@@ -1241,15 +1241,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ku
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 84b6b7b947e1b44593469f1433f0b64a
-SHA256sum: 6fa0f1a1f657ea24a187a543570ed7f6ddb9a1b793db70172f0f7b1ca8f6a2ea
+MD5Sum: 5fd1f1df141600897ea5d2818464f339
+SHA256sum: 67e40ebffd12c6b3932323ac250d638f55add0a8d61ce7631ddd1c8811cc0414
 Size: 41968
-Filename: enigma2-locale-ku_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-ku_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: ku
 OE: enigma2
@@ -1257,15 +1257,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-lt
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c30d1546073a547f2a5a88e4227c75ee
-SHA256sum: ecd0d70a94b253d2ead9e0b1b5b6a54c72de33f0ef1a2d0c75cfd07f2625b4ef
+MD5Sum: 15a3fe13c569be11eadf37954e4039c5
+SHA256sum: f6f2c0ce78fd627384d30b61aab3553f2dda975e1b22d12cdf8355c2ebe97684
 Size: 122914
-Filename: enigma2-locale-lt_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-lt_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: lt
 OE: enigma2
@@ -1273,15 +1273,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-lv
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 671c03ccd62761b4e250c9695018cf3a
-SHA256sum: 5a347a18159d3b3a7dcb881d46f7a841eaac77661dc6dc72c1da6c4f98df2862
+MD5Sum: af5a6a3cbc58795edcf605302c327fe7
+SHA256sum: 848d1e845497107c1c5e4fae561fcd47e2531fdf880fd56a0812a2f3642edbc9
 Size: 119488
-Filename: enigma2-locale-lv_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-lv_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: lv
 OE: enigma2
@@ -1336,15 +1336,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-mk
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c4161683ab2809cd727f8412da22273b
-SHA256sum: 8328b2daba86a49a59854d33cc5cfd69d879f8cb19c7564c52171eb51d0cbc62
+MD5Sum: be342c5f36719ce9157b23a68849f740
+SHA256sum: a6d834a2741c6a8a3fe3352df28ed7af4a1294cb1b8888e436621dfe1ea9c70b
 Size: 128448
-Filename: enigma2-locale-mk_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-mk_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: mk
 OE: enigma2
@@ -1352,15 +1352,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-nb
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c27713b7a36e094ac2f7427f0d5b35d1
-SHA256sum: 9a459d1fc83a141286116fc915a63cfa7c79721ea6ca62ae1e8d49e319cbeedc
+MD5Sum: 3d14dcf5bc5aa1c8dbaa8cdd806c8455
+SHA256sum: affd53bc18d5028d307a0fe8d3e53c2c667852e1750347d940cd7f8d8f5dc52d
 Size: 116140
-Filename: enigma2-locale-nb_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-nb_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: nb
 OE: enigma2
@@ -1368,15 +1368,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-nl
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 65dce66d58f2c539e2111518b9a15da1
-SHA256sum: a330ed0295cfa61876322ee16b1da5316de647b63f6debaee7400dc9e7897999
+MD5Sum: 2d3e067c8b6e4d3c3df0dd6a60b70983
+SHA256sum: 9a2de6c71f77d3e3b63ec12d5f8c065cd441ee2be6a4bcaca66bf78596a90460
 Size: 126830
-Filename: enigma2-locale-nl_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-nl_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: nl
 OE: enigma2
@@ -1384,15 +1384,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-nn
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8ca568b642b91cb867b99dcdf29fafab
-SHA256sum: 7fd8b3c7799c5a903d4c8a3e53cfa1d7c38db63e23f4e9ebf7f6994535ff0d4c
+MD5Sum: 9d7ef02c19cd14beb7e602fb8058ea7c
+SHA256sum: 6e0b29d3fc948d56eef68a32bed7b661db570d0972828002f6397dde9104587b
 Size: 59610
-Filename: enigma2-locale-nn_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-nn_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: nn
 OE: enigma2
@@ -1400,15 +1400,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-pl
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b97d7d08cba17204ca48a1673a735276
-SHA256sum: 7f88055bc6c28b1d63b8b4d80b2ffbff1ed7229e80755a7574370431b31a514d
+MD5Sum: 9c8887a723ea622d4d61b25589bcaf20
+SHA256sum: 3512461bf68f33eaa81840ecca2a056b431aa0f70b6793d0e26bb64e8dc69afe
 Size: 116646
-Filename: enigma2-locale-pl_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-pl_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: pl
 OE: enigma2
@@ -1416,15 +1416,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-pt-br
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 437e5ed91372471499d70a5126f56676
-SHA256sum: 96c1e40fc8a186d52330d465cefb66da5dcf377e6eae017694a50df9a9c5105a
+MD5Sum: 2088d0937d3b5f7535640e04cf47aff2
+SHA256sum: 44c7cdb30a48889bbc5055906c3d2a6764eb5978ff2b11ffe096065f466861ba
 Size: 59354
-Filename: enigma2-locale-pt-br_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-pt-br_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: pt-br
 OE: enigma2
@@ -1432,15 +1432,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-pt
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f6c781a8ceeff03bc6e989f757a9b4f6
-SHA256sum: 66f24ed5375c980b2941317e701c7b30dd5a14f6dfc0bdfaa457db65837ceb2a
+MD5Sum: 89cdc3263556071008900153bb96b801
+SHA256sum: b2914907947c3f2f4c585cdb08893ce2db7609cff63e7669ed555204439aa5eb
 Size: 55330
-Filename: enigma2-locale-pt_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-pt_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: pt
 OE: enigma2
@@ -1448,15 +1448,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ro
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6c9badbf31997c3c19407feb69764e19
-SHA256sum: f4898cdc534809a94a1bda2a9e195e51f9eb48befabefc1d9b893c9c504f2fa5
+MD5Sum: 0c42e348077c4dfb63bd5daedcdea233
+SHA256sum: abcbded7dab7d76e72b1522d4fd778fb790377cc23536837676ab26d4a7946e1
 Size: 23128
-Filename: enigma2-locale-ro_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-ro_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: ro
 OE: enigma2
@@ -1464,15 +1464,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ru
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ca17ea8bb4a90fe0427e59751d45b393
-SHA256sum: c146d2dba78b917b4bb8ed606e87a1257bb963ede3ad9896de329718f79c089a
+MD5Sum: 214f7060386cadc97ea4eff6890536e4
+SHA256sum: 1066a71707550d8a1fccba06af3da938534eb4773090c6e6949b860361a03d04
 Size: 228962
-Filename: enigma2-locale-ru_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-ru_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: ru
 OE: enigma2
@@ -1480,15 +1480,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sk
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ad76d33ce3069c842f455d73a4148305
-SHA256sum: 3440de3d2509b23660cf2c93783ebd553771f8aa4f43f1385862464afc049b74
+MD5Sum: 0a0ed00e59827ab7005dca81b52d0abc
+SHA256sum: 0e72b054f559c03dc486636360f413c234c73d13106462d09aeb6961bcf89282
 Size: 124720
-Filename: enigma2-locale-sk_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-sk_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: sk
 OE: enigma2
@@ -1496,15 +1496,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sl
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0f1b7243f409b7e21ddc588b6cad4249
-SHA256sum: ee6263942915fbe2abde836bf78e00d07073fb4bf09d7011ae039c254cd4e8ad
+MD5Sum: ba1d250dc0f5c545a9a4e7bda6f65370
+SHA256sum: f6766956629fced30da9092dc1db3d9599cf0cccadb52162898404c2434a89f8
 Size: 67912
-Filename: enigma2-locale-sl_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-sl_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: sl
 OE: enigma2
@@ -1512,15 +1512,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sr
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 34764c4063945f73a66a1fc8e564afb6
-SHA256sum: 9ffabed4e065032c32dd1e6b79dbe2430b201e5b367181fb95765366bc879b5a
+MD5Sum: 3e2bd341178bb7ca71e007726d385deb
+SHA256sum: efb2c9e491b7a6bb5a93b27697e1fcd9629d545983ae42aa219fdd0f43bfeab7
 Size: 30236
-Filename: enigma2-locale-sr_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-sr_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: sr
 OE: enigma2
@@ -1528,15 +1528,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sv
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1761b36b082937b4dd4d02bab37de986
-SHA256sum: bf27b2557afbb8e93f19fbfa72a95e656753efa3c523a70ec8d2855a938b4d7f
+MD5Sum: 720b3c112cf17e02a40826efb6ed012d
+SHA256sum: 570729bb7555230178f796839b8c2a4c4261c0e5197c79af7b76d3490625ea4e
 Size: 78890
-Filename: enigma2-locale-sv_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-sv_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: sv
 OE: enigma2
@@ -1544,15 +1544,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-th
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d0f29da2757c321fce0b367d43b9d340
-SHA256sum: d7a59ecc155a732cc0a7565427cb9251ab40e4c1948d7a1d2ed0effe1b4bd9ef
-Size: 29430
-Filename: enigma2-locale-th_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 66c6eea8c37f926a7724bce34fd62188
+SHA256sum: 39aa659d00107485d10662bc50ef9cf0a08247afadebc32e21d49bf1def8f919
+Size: 29428
+Filename: enigma2-locale-th_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: th
 OE: enigma2
@@ -1560,15 +1560,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-tr
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e7c6febfd6efc01ce3e2c6b29b4bd88e
-SHA256sum: 46f90aa1b2a726c96f2b268890864ff1ee11d906da323c799134edb0520b76f2
+MD5Sum: 6d144a724ec7eefcdb67ce6ff3a08f33
+SHA256sum: 3bd7a5edcf02c3b31da6b7f3a13effcece506264f9e17317f495963ad9f17a06
 Size: 75842
-Filename: enigma2-locale-tr_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-tr_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: tr
 OE: enigma2
@@ -1576,15 +1576,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-uk
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3685a41428d0508fe8333cdf3781694b
-SHA256sum: 79e3249391685770decd4971a676aad0ca5feb39444c38e368c2b103113ea118
+MD5Sum: ff69abe5a5024c70c7eec562fae09e7f
+SHA256sum: 6792d3c6506e32e9e8f4bb7676920d32fd62a31544c9ab8d38a19e12c48ca922
 Size: 159102
-Filename: enigma2-locale-uk_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-uk_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: uk
 OE: enigma2
@@ -1592,15 +1592,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-vi
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9945c5564ae9efc7c25fa71d354afc79
-SHA256sum: 4becfa206c02703d382d5a4e6655c6fa405e4e82ee2cbb94a488591297f5985f
+MD5Sum: 7a18f27f2fd031f612fcfd7d52d08d49
+SHA256sum: 8c96178908f9fed825c22d7e3771b0c9b85f67ad3f10f430947a3f32e4ff90c1
 Size: 116522
-Filename: enigma2-locale-vi_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-vi_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: vi
 OE: enigma2
@@ -1608,15 +1608,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-zh-cn
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4af6de64ff126c28741be1b8ef8a92b6
-SHA256sum: 0ef76bec883f8c8cc140220493cb5a8f720c99117e5c7700ff0f005ffcfa37d9
+MD5Sum: 8d8510718ed2320eb774730a1bebbe52
+SHA256sum: ef84b684f5e705f9f06328f98e29cc5f1f7c8c6bb2cd98fde560cf8a8956363f
 Size: 113976
-Filename: enigma2-locale-zh-cn_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-locale-zh-cn_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: zh-cn
 OE: enigma2
@@ -1624,15 +1624,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-zh-hk
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: enigma2
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: dbf88d87d82377cd4f9d9cc596aac5dc
-SHA256sum: e1fd5dd9317b715bc76a1d709fcfd2c9e876b8377ed7e56bc578a7d9f769b601
-Size: 28238
-Filename: enigma2-locale-zh-hk_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 56869137d82b8c9a863e22109109084d
+SHA256sum: c067fbfac972e66dec255e123e0f1574c2bf58b7d119df41d2d5ae2c076111c3
+Size: 28236
+Filename: enigma2-locale-zh-hk_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: zh-hk
 OE: enigma2
@@ -1640,14 +1640,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-meta
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: df5c8f0e6c1ad0fa5c503236f4e930b8
-SHA256sum: 8c5ded60fe43ae6db2022b42ea3734e511ff091da10eb3eb7285850dbb6be2bb
+MD5Sum: e5135d5778ae831f5459e285281077f1
+SHA256sum: a17521866e736f49c834664334622e309f473ed23d33aab244d64c35e8a86814
 Size: 4696
-Filename: enigma2-meta_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-meta_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -2595,14 +2595,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 22772d888fda50151eb3e785782b6359
-SHA256sum: 5c5edf5233a422a95b350f9d622c72a2787e2d5fbe09bec37d3d16f86f4f69fd
+MD5Sum: 21d1ba7054a0e680f6fe593d7a244430
+SHA256sum: 981dbcede403064e4880d2d388ce487e554205afdf337602dd3e99cf9a247add
 Size: 5852
-Filename: enigma2-plugin-extensions-cutlisteditor-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-cutlisteditor-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor (sources)
 OE: enigma2
@@ -2610,15 +2610,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: aio-grab
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6f8a0b6b7e1d010444ff0cca7ec60494
-SHA256sum: d5770fa2462232978c1587379d4d7c9921feb453c7ef87eea2aa9e92d07bd6c3
+MD5Sum: f7e11928e47f30be6fed079d947e4a93
+SHA256sum: 32c6d1c13c2a0a7160c0dbf0591549ecc7860fecb38606adc065d8e01f428b41
 Size: 13066
-Filename: enigma2-plugin-extensions-cutlisteditor_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-cutlisteditor_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor
 OE: enigma2
@@ -2626,14 +2626,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b3af0797d6cead8409302e72f37a8749
-SHA256sum: 08f0e2fd875aa514eab0072fc6a0e494f7e38c564dbc5b104572818416be8b87
+MD5Sum: 4dbc0cfde5943f1cedd9ba3d0866d29e
+SHA256sum: 294b725a17b0dd8eb5a633bd7b45ef033cd240ae2724bedb36ceb5ce7e04f8b9
 Size: 25898
-Filename: enigma2-plugin-extensions-dvdburn-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-dvdburn-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn (sources)
 OE: enigma2
@@ -2641,15 +2641,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: dvd+rw-tools, dvdauthor, genisoimage, mjpegtools, python3-imaging, python3-pillow, replex
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ea1aa235ecde25b135ca5bf97c1c7fb6
-SHA256sum: 66355ce8e6df067e42898cfb37ab6d963713f028e9d66e2ab50ed7bfd41f0bc0
+MD5Sum: 66623b5939e9c6e19c4ce384458665bb
+SHA256sum: 0c31902b47f3d0b93796069708751873d7526e92281890d61b11fe265d2b5db1
 Size: 851296
-Filename: enigma2-plugin-extensions-dvdburn_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-dvdburn_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn
 OE: enigma2
@@ -2657,14 +2657,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e03dae434726d43e7541cf1cc4e7d208
-SHA256sum: 755075504cd5a3db8a6e0d52383cb8c79094591622d57160b3ba0cdef2a802ec
+MD5Sum: a34ea473cd2f5ec83a6b0029769f5e27
+SHA256sum: a8719caa6c3c2764ee9707a15d2fd4cfa647ada2aeb7b294a1f76ada6f594adb
 Size: 1924
-Filename: enigma2-plugin-extensions-dvdplayer-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-dvdplayer-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer (sources)
 OE: enigma2
@@ -2672,15 +2672,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Recommends: kernel-module-udf
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bb2556aa9109cf6874676a8617bbae44
-SHA256sum: 7af1e08fa01eedafcea07c2b17c44151549c3fae686f648b4160e814822d6d56
+MD5Sum: 2091642f5c9134cf631dcfb11f879abe
+SHA256sum: 4ad072aeecdc1e5ba786ea34c13b59aaba6b70588c11e55bbcf03bcd7c5c200b
 Size: 3984
-Filename: enigma2-plugin-extensions-dvdplayer_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-dvdplayer_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer
 OE: enigma2
@@ -2688,14 +2688,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6c620088d713c6558f0ac968ed3bd0eb
-SHA256sum: 83f62ac60af59714f1e88030ff3f9ff466ea8b6ca9b27aae62a7770851d2b9ea
-Size: 17144
-Filename: enigma2-plugin-extensions-graphmultiepg-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 8cc962051fc0bfff32d8e1f3fd11187e
+SHA256sum: d2077e19837e589d762720a415c732a06d9afb805a3bdb18fa0e998ddd5a9553
+Size: 17142
+Filename: enigma2-plugin-extensions-graphmultiepg-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg (sources)
 OE: enigma2
@@ -2703,14 +2703,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f35869ea2c8d0d4f987923c3f5414de4
-SHA256sum: da49ef529b0f1e2411f9f98baaaa7c5a1de1328e4b5a10e5c1e9fa59fb063bcb
+MD5Sum: c49c86427f24b108929a11da2ed387b4
+SHA256sum: ad91707c0f206ccea461bba54c1cb1c5803a68a660259ae775758bcf6e36e69e
 Size: 45452
-Filename: enigma2-plugin-extensions-graphmultiepg_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-graphmultiepg_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg
 OE: enigma2
@@ -2798,14 +2798,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 960127bbb9e01a57499eda7f4f47e386
-SHA256sum: b5201ea1068005c7f516e82d6896eccff550971f865b0f977c1aa600162074e4
+MD5Sum: 38fbf03d1d58a2b9caf96605a12770dd
+SHA256sum: 097b3e12bd8f9d36c36dd61071b8c913857f745d13894aba77ecf1f782f41a9b
 Size: 12868
-Filename: enigma2-plugin-extensions-mediaplayer-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-mediaplayer-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer (sources)
 OE: enigma2
@@ -2813,14 +2813,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1d7f95753d6557e5777c4260aa31a024
-SHA256sum: 1435050e753502ebe32e1a885cfef647c24157ab08e496b95fe8c475e7717bd6
+MD5Sum: 117b5bc7ce7a641275e7ba96fa9fe11a
+SHA256sum: 33caa9fa810538841c79a96d4d2f412600410ed1c16a078d0629a74083a09fa4
 Size: 36704
-Filename: enigma2-plugin-extensions-mediaplayer_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-mediaplayer_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer
 OE: enigma2
@@ -2828,14 +2828,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 41abc6be5f0b60da148f7e08ef99bd3e
-SHA256sum: 4969fc4e8e09c6df5dba4e10ca9eb8e2e24fe3a55b9128c72bd5d486185c0caf
+MD5Sum: 387d836002ba1de19204229bc568c945
+SHA256sum: 914dc1f48db030f984b0503776c28312e0625762ea5c59fb25a75993e3b10027
 Size: 2014
-Filename: enigma2-plugin-extensions-mediascanner-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-mediascanner-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner (sources)
 OE: enigma2
@@ -2843,14 +2843,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7c63677d48fc0b69c232923308edcd48
-SHA256sum: 0aae79f42348fcc7987ab827b0c19bb32348d82d17a90c8797e20a47f613ff7c
+MD5Sum: 5a129f1299fbb8860c0b7e6a20f324ca
+SHA256sum: 51d982f83b2bf9fef603584dbdec99b086643cebbd896ebe1004cefc2e0d3f80
 Size: 6928
-Filename: enigma2-plugin-extensions-mediascanner_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-mediascanner_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner
 OE: enigma2
@@ -2858,14 +2858,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 303e19775dc0f289924a02842b38c18c
-SHA256sum: 43917c4b1ee7b6869fdbb63a7ea75bba95ba9251f1ee0f5b5041b73a713eba1a
+MD5Sum: 1d231b7354d9b375c1df23295bc27979
+SHA256sum: 25f493158363f2c7c9a5272881da3195ff7e28a6be361f5542e1087bf203b7f1
 Size: 7060
-Filename: enigma2-plugin-extensions-pictureplayer-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-pictureplayer-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer (sources)
 OE: enigma2
@@ -2873,14 +2873,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 81c91b4d4a37db584809cccdb235d504
-SHA256sum: 8490f101a8ec502016c55a90dc4b01dbdcefe51c45cbc9f3f7a033eaa4334e89
+MD5Sum: 3353336ccb5a69e56dbd7559f65ee632
+SHA256sum: 2a39d48daf0202a92732b3ee52bbc263ec9c2b92312e6e2ed9512ab2a5135a5b
 Size: 22410
-Filename: enigma2-plugin-extensions-pictureplayer_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-pictureplayer_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer
 OE: enigma2
@@ -2982,15 +2982,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-dbg
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libcurl-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython3-dbg, libsigc++-3-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0b5757380c02d11ff3d7dbdb36898cdb
-SHA256sum: 844fb7adede4b6b570a25f8538a28265ab8fbd2f161d73d0d3819174913d5992
+MD5Sum: 96b9a82ac2df685a241d3ee74422dd5b
+SHA256sum: def7b674f262e0e7ffd6cd7a1acaf74f2c360aa180bbce5380caf31bdec3c45e
 Size: 15859900
-Filename: enigma2-plugin-extensions-socketmmi-dbg_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-socketmmi-dbg_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (debug)
 OE: enigma2
@@ -2998,14 +2998,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d4d9570d8c4b8918006a072406ce23ac
-SHA256sum: 3f4cb5674f7045bd0129dfd9ff0eebe86d22d4c320059a6286d4e5dce4352ed8
+MD5Sum: c1cf24aa84e2e5b4c223391fbf52e940
+SHA256sum: 31eeaf7c89aebf201a7528c281faf2d093ba812c0955fdf945aa218357a789a5
 Size: 1516
-Filename: enigma2-plugin-extensions-socketmmi-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-socketmmi-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (sources)
 OE: enigma2
@@ -3013,14 +3013,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-staticdev
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8e5c54c676ee3732613df188445dabd9
-SHA256sum: 269e61628f65b51592171c82a9c329c71c1d66f2bb18e7a00571dcfa34669236
+MD5Sum: a354223f8bd38304b3eee9205a7275a2
+SHA256sum: 1a99fb8370fbc35e7cdfbfcd549959451fb9e65735f9cb0633660831c622e592
 Size: 130598
-Filename: enigma2-plugin-extensions-socketmmi-staticdev_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-socketmmi-staticdev_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (static development)
 OE: enigma2
@@ -3028,15 +3028,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libstdc++6 (>= 14.1.0), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libxml2 (>= 2.12.8)
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 071fd35c099e6ea1df87abb78f59106d
-SHA256sum: 088a0931bb4bfc8784bcfaf190695f23eab9a4c528fd4e20fd0e3589f8c7f39b
+MD5Sum: 24f8d934e2fa41aee3eaa1859b0ec838
+SHA256sum: 1e66dd1c6aa6680a156aea96dfaa32d38e45b342034cdeb090a4eada6956a7d0
 Size: 12628
-Filename: enigma2-plugin-extensions-socketmmi_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-extensions-socketmmi_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
 OE: enigma2
@@ -3091,31 +3091,15 @@ OE: enigma2-plugin-extensions-stalker-qt
 License: CLOSED
 Priority: optional
 
-Package: enigma2-plugin-softcams-mgcamd-v135a-arm
-Version: 1.35a-r0
-Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libcrypto-compat, libgcc1 (>= 14.1.0), libxcrypt-compat, libz1 (>= 1.3.1), softcam-support
-Section: base
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 420c515bf31f412a8aa5d5f5ef2cd2e5
-SHA256sum: c8df1344bd865453c1f72ab05bdf5eb44adffd8beea69ca5e7fdb9a9bf238c05
-Size: 366120
-Filename: enigma2-plugin-softcams-mgcamd-v135a-arm_1.35a-r0_pulse4kmini.ipk
-Source: enigma2-plugin-softcams-mgcamd-v135a-arm.bb
-Description: mgcamd softcam 1.35a
-OE: enigma2-plugin-softcams-mgcamd-v135a-arm
-License: CLOSED
-Priority: optional
-
 Package: enigma2-plugin-systemplugins-animationsetup-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b2dc5365d52cefc4ade5a380808ca909
-SHA256sum: 7b8fc4841f5aa91f2ee8c35c44ae951e24aecf7c58db38f61d759ec0f7c18242
+MD5Sum: 401049381b14fe62b866aa7bc76380d5
+SHA256sum: 3823c651d4f33a5ace7dc87d454350338d32c5db96eafd65f2d6069df5743062
 Size: 3086
-Filename: enigma2-plugin-systemplugins-animationsetup-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-animationsetup-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-animationsetup (sources)
 OE: enigma2
@@ -3123,14 +3107,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-animationsetup
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6ad90c1f7c97463df6730622c10d6610
-SHA256sum: 1b76cb4a347a54751c426370e914a2c3badb30d22541c6e5dda74c786b8965f3
+MD5Sum: 69ce414437fdc2f34bb304d5a47e107a
+SHA256sum: fbbc25a20f128ad4c3609654dbbebc5a1f3d10f63905fb7df8fd1cbe0eeccd5f
 Size: 6714
-Filename: enigma2-plugin-systemplugins-animationsetup_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-animationsetup_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-animationsetup
 OE: enigma2
@@ -3184,14 +3168,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d1ab09f4a5f27a69d81e7938b4869c3d
-SHA256sum: 5775fc3c82e661ecdec8ed7294366e347330f485922fabd6f25671e1fd26253b
+MD5Sum: 5ea127019774b0964659110a31812d6b
+SHA256sum: 3e0d2faf8340a0fb8d4266742cc33041a2408fba117389406958304e5872070a
 Size: 3852
-Filename: enigma2-plugin-systemplugins-cablescan-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-cablescan-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan (sources)
 OE: enigma2
@@ -3199,14 +3183,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5bb244f5eeb4fd90635f53b7aa0958f8
-SHA256sum: f37009fa47c0fa08209b93fe50c689d7b04afb9ffd22a2fc93b90eb078f25102
+MD5Sum: f7aca24f6a1e43591aea146bc0c2c77c
+SHA256sum: c7a6c0ac39ae1f8ddc32b837f9610b5ff1a1830d70daacb50fcf1e7dfad8ab8c
 Size: 9532
-Filename: enigma2-plugin-systemplugins-cablescan_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-cablescan_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan
 OE: enigma2
@@ -3214,14 +3198,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3b014be057c76f3f5a1a1639f302aecb
-SHA256sum: 000b6367fb60765d83a9492b6a0f72c29dac989e9ff4e5cb862d814935045c6c
+MD5Sum: fda2caf3ca2e32fd65732699edc9ee7b
+SHA256sum: 6bcf8605300d320ab52cd9e84ac1081a56d8395c9486802a7651bb766d97e256
 Size: 7014
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment (sources)
 OE: enigma2
@@ -3229,14 +3213,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0d78fd22397c1cdcc09125e5d2addc1e
-SHA256sum: 215d5e0ae40a99864d28b648a8412ec93d6dc275cd3778be7fede51ffffae548
+MD5Sum: 61f5af1476bd4b2ba5a89d0b0b1b2698
+SHA256sum: 153286cf142dc58a3b4150e399047734d2cf9653dfd610573faae694855bfd27
 Size: 17582
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment
 OE: enigma2
@@ -3311,14 +3295,14 @@ License: LGPL-2.1-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4027a8c21e119cd38c8b632b411e0a76
-SHA256sum: ae7f8b344f6caa98f1e0a80d7ce559dca8e114b5961a1528c0bd4d58b7c3b187
-Size: 2646
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 3d05f2446e39bb84d6ada1d3da11ad5f
+SHA256sum: e37ad21df0935db7281f58ed189fda084744d672c834912f557ebcf2a295fa71
+Size: 2644
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner (sources)
 OE: enigma2
@@ -3326,14 +3310,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5bd06d69a011947d94efd7ff088eb608
-SHA256sum: fa2575398e81f2e913b45a69c68b5119e32d673f6d305a8d54b028b930984f70
+MD5Sum: 11e4831cc92c32dc9031dd4ac68d48c9
+SHA256sum: 2fa78b0d4ca8804f425e70229a19fb537f1cd0ed2db00ea2888013bc9e2f1aa2
 Size: 4780
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner
 OE: enigma2
@@ -3341,14 +3325,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8a216f7b21d3688586c3c448e3271737
-SHA256sum: 428f083dffd91109bbf71641aa574173ba5c975122385cb96bb8636e4f10d9b5
+MD5Sum: ff8577244cccb9968381cc8f398e3c2c
+SHA256sum: 865c22c49e0a0da2086f904321f9925d80d83663807bf9952808187f71871373
 Size: 6816
-Filename: enigma2-plugin-systemplugins-diseqctester-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-diseqctester-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester (sources)
 OE: enigma2
@@ -3356,14 +3340,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2fe0e1196172e9025475d2776074958f
-SHA256sum: 5f48898ad4c53bd770ae20571f1adee65472e5f7853092c043f13692f42188ec
+MD5Sum: 4a74a19f24f9aa8b9d5dc38599596092
+SHA256sum: 89c44bf679b27e3c9835520562ebf01f99e32b92ef1f7f3821ac8d589a928b29
 Size: 16036
-Filename: enigma2-plugin-systemplugins-diseqctester_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-diseqctester_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester
 OE: enigma2
@@ -3371,14 +3355,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastchannelchange-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 74d54ef79023372b0e152c14bf6e712f
-SHA256sum: 36b8e2e8d32d664d66f28ca31d744a2864fb98e7df626fa97120ea8437ca6cdb
+MD5Sum: ebe7eda1b9693d1853f61a1507cda6ba
+SHA256sum: 6e47e9b57a81f8782201d9738b671ec0d711059ee77ef1a3b22096a5c236e966
 Size: 5102
-Filename: enigma2-plugin-systemplugins-fastchannelchange-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-fastchannelchange-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-fastchannelchange (sources)
 OE: enigma2
@@ -3386,14 +3370,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastchannelchange
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e39727f0948f6235d343169b90a7a634
-SHA256sum: 4908abcfce773517e8103016cbba470dc96794555e986a408ffd050a517ab471
+MD5Sum: 2ec795573d41f8fb38f8bef43f8f1ec3
+SHA256sum: 1e1640e06c69103f899bf7eeafa494478373876bbe9af1319a0a38ca4c14306e
 Size: 12806
-Filename: enigma2-plugin-systemplugins-fastchannelchange_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-fastchannelchange_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-fastchannelchange
 OE: enigma2
@@ -3401,14 +3385,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 94b30cdb1789f659ad65677cf2a7e83a
-SHA256sum: 63a90fa3c00ebfb199c4b1dde2b3d62d4e216b56de015369f64571689c7e9e43
+MD5Sum: 49b1da2ed9276610cce00bcb9386a638
+SHA256sum: 22fad205f4d71fac0e09a651f4e235f12d99ff97819e7bdb4172c71f27600cb7
 Size: 5250
-Filename: enigma2-plugin-systemplugins-fastscan-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-fastscan-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan (sources)
 OE: enigma2
@@ -3416,14 +3400,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4bd068a059778beeae1fe4acfbd49548
-SHA256sum: cf342ce82736167d23523c810e0aeb41706ce8b3e76e0696400e9fe8ecf41128
+MD5Sum: 5ce698a31a84592e23b2dded992eb72f
+SHA256sum: 61eb9b316d1048b6807a3b72fe85b9ecce2e98c97a5fd98c178b512141c9c948
 Size: 13402
-Filename: enigma2-plugin-systemplugins-fastscan_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-fastscan_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan
 OE: enigma2
@@ -3431,14 +3415,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a5ab4d4800a9c5d25b74b468b4769508
-SHA256sum: fe437bd7087b709b8e53b0f58eb7ac65328ac8e06a80dcfbce2a6325318e376e
+MD5Sum: e543ea22770b879ae31fd4c50e1da876
+SHA256sum: a647b853dac4ea1155dafc2984248e949a852ba28499d8a60e320792bd4ee916
 Size: 3222
-Filename: enigma2-plugin-systemplugins-hdmicec-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-hdmicec-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec (sources)
 OE: enigma2
@@ -3446,14 +3430,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f97e97574f85408ded9f5d366f04970e
-SHA256sum: 970fbc8a7e7d396f95e99cca04eaf797e37bc51e30de2fe5a6bd697d0232a7da
+MD5Sum: 1f946bfa48f30aea225a0a14a4e06929
+SHA256sum: 02b7dd176c879fb91d36d8f45e680eada438005bb0b44d4b9757b89ead6415d3
 Size: 6542
-Filename: enigma2-plugin-systemplugins-hdmicec_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-hdmicec_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec
 OE: enigma2
@@ -3461,14 +3445,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d44deee743ff9a5e5935c45e9583d64c
-SHA256sum: 520608835352b3bc2b0d4acec0c134acbdaf2d216fb985453134e04cbd29980d
+MD5Sum: 7d6701eb5f3522842b64a2b15934f86c
+SHA256sum: 77845e32112347d402be4f24b2257856cbd1eccab1f9716e8d80bda597b387b0
 Size: 3140
-Filename: enigma2-plugin-systemplugins-hotplug-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-hotplug-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug (sources)
 OE: enigma2
@@ -3476,15 +3460,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: hotplug-e2-helper
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d7f813f7aff1f274d0d26669223d97a0
-SHA256sum: aa8c7563a1569060c97ee56b6852f6c5501dd1f25d7009d847a83e0ce1c0a33e
+MD5Sum: c8ce4451074dbd64e5a1c3d4fd0ed75e
+SHA256sum: d149dd056c46263995aa1167b2942bbc75ff93118f369891fc2d7a90b74cc50f
 Size: 6104
-Filename: enigma2-plugin-systemplugins-hotplug_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-hotplug_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug
 OE: enigma2
@@ -3492,14 +3476,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-lcnscanner-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 10499fadacf16a7d31389eb3f5e66b91
-SHA256sum: 66ffc99e95aa6b905f87c5a8ee3799f37554fe656085540fdb8e3d42bcc72ab7
+MD5Sum: 69d9ebaec66e877351e40c7d17edf896
+SHA256sum: 5efbba8f48e660fe5c79b8f5ad8897c2ce33d70030fc344c999f36f8df45e789
 Size: 7062
-Filename: enigma2-plugin-systemplugins-lcnscanner-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-lcnscanner-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-lcnscanner (sources)
 OE: enigma2
@@ -3507,16 +3491,16 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-lcnscanner
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Replaces: enigma2-plugin-systemplugins-terrestrialscan
 Conflicts: enigma2-plugin-systemplugins-terrestrialscan
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: db6c6feb51cba4b5f0c90945d33830d9
-SHA256sum: e813406878807b53e5c6d60ba79b5ffee920df786f7dc131bd941f9be1cc5924
+MD5Sum: 8ea267a4c55b485b840ff4ac27c37686
+SHA256sum: b21ad28759370ffd8b268b7654d35171c118103112167ff77d29d03f9b800e21
 Size: 22394
-Filename: enigma2-plugin-systemplugins-lcnscanner_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-lcnscanner_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-lcnscanner
 OE: enigma2
@@ -3524,14 +3508,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 16975a529c1d74b4d6705e44752abd37
-SHA256sum: d4909480ddb4bb7a234be9bd390d656ccae1e9868504c3de6590712db5edad32
+MD5Sum: 0daf6d60efb0cf076ee48a209009d8dc
+SHA256sum: 3316f739f95992e44f3012a4cb555f5d9b9c32f660ea8707ae9702bc54d574f8
 Size: 4606
-Filename: enigma2-plugin-systemplugins-networkwizard-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-networkwizard-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard (sources)
 OE: enigma2
@@ -3539,14 +3523,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b4cbb1e47a34fdd7e61155880e1e865a
-SHA256sum: 740d964f53c49cf478ead7971cfbfd75dcb7c55c8b3d104a15d024d70eef840b
+MD5Sum: 36e79f2a9ac275b15eab320d3f59c311
+SHA256sum: de442b49ed2cc8f3dae1f4dab50787f8fb4201e48f4a48f4449a387ddc82d16f
 Size: 12064
-Filename: enigma2-plugin-systemplugins-networkwizard_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-networkwizard_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard
 OE: enigma2
@@ -3554,14 +3538,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e7944d4ee7acebc9b6e51c02da05661c
-SHA256sum: 186d22735dd65b68f42e9f6fd0d0eff7b9df6ea0d4dd2ff429363293c12b9a62
+MD5Sum: 7b3c4a93333e62e787a9a8d17b9e0640
+SHA256sum: 01bd0809e94d1551a3689df1c54411252dc00dedac933d2ce00b4586836afe25
 Size: 2488
-Filename: enigma2-plugin-systemplugins-osd3dsetup-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-osd3dsetup-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup (sources)
 OE: enigma2
@@ -3569,14 +3553,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: edf964d0b96fc237d35aab07c77f1992
-SHA256sum: d7f67a7d032418860b0e0953a9b0e312ca8faaf7cce71bbdfa6f69b19f473327
+MD5Sum: 92a583a9d62110c7153d5da8fec9609e
+SHA256sum: 0f94856b52029606135fb98f5b072bdd29bc55fa4953d655f81d23145ede5442
 Size: 5518
-Filename: enigma2-plugin-systemplugins-osd3dsetup_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-osd3dsetup_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup
 OE: enigma2
@@ -3584,14 +3568,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3ca480c6646b7bf5508bda886c1dc491
-SHA256sum: fb1855f77e7bbb1661f7e63b0ace71ba2f8f49d1c13817d4cd5e35f97a7a05dc
+MD5Sum: b0fc5bde336916155b5325e26bcfdff8
+SHA256sum: 4f3c9c0eb71728bf080d266420997dc157eef8330c5c25e35fdef26f1e2c4d03
 Size: 4544
-Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup (sources)
 OE: enigma2
@@ -3599,14 +3583,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5db4c8b86757f3b5d4bd23e59256dd89
-SHA256sum: 3ac07d2996a1cc0e51422007273c0adb028709a62af32c4870b70e84eab839b9
+MD5Sum: 04cdb7faa277ece74e4bd198e3260fd7
+SHA256sum: 2337105162c96f13b5fdaba06a4c08b562fbd5afe6e1c923a7dbf16307d530f3
 Size: 9732
-Filename: enigma2-plugin-systemplugins-osdpositionsetup_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-osdpositionsetup_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup
 OE: enigma2
@@ -3614,14 +3598,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bfab0f691fc547f1f5ef8ff6ddbafdd2
-SHA256sum: 2c2faff1cfe316d91810dfebf0508d00caec845a160ea8b489b8059ea4094c01
+MD5Sum: 05b28a585d6c7429745f9debc6c04e49
+SHA256sum: e8ae56a1b1239e060e847c6c53b427598347828c146789bda44a8957b2ce7cb6
 Size: 17994
-Filename: enigma2-plugin-systemplugins-positionersetup-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-positionersetup-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup (sources)
 OE: enigma2
@@ -3629,14 +3613,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8d7d442a89c0dec2bed4ff260788bdfc
-SHA256sum: f623c750690d90549d32426e30dc83f3de503e0cfc656f3719927d5fe040d3ca
+MD5Sum: c6031ecaf753a789ae781793fc02c02e
+SHA256sum: 30a16a2c8fc1598f798b449dd2492e05f59006a59294c0bfadbfc99aeaf772b6
 Size: 46704
-Filename: enigma2-plugin-systemplugins-positionersetup_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-positionersetup_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup
 OE: enigma2
@@ -3644,14 +3628,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 95980bb4a4c69563949b8705734b3dae
-SHA256sum: d2a4924b8eab644b590470557298b2b6ee75fb46f580fb273e9b0fd1ba0804fc
+MD5Sum: c4bdea8687c93389b9e1a4a819e58d6b
+SHA256sum: 95215e6d3bdaa918faa9befaf75b021df22ed1f3645f639ba5718e7ecf786319
 Size: 2088
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol (sources)
 OE: enigma2
@@ -3659,14 +3643,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9ba6e0e263f0c5d2ef2a1a2def612da7
-SHA256sum: 26d8a42277ac3e527da26e46d44a028050cc4c017e055481e7d1c9fda85be240
+MD5Sum: d7e06eec1e68de6d42ccf7412bfe0024
+SHA256sum: caaa6a213e8197ddb25bccd67f693c5679ca62bd6bcf613025dd430adb589f79
 Size: 3934
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol
 OE: enigma2
@@ -3674,14 +3658,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e64be4301cb77b7b8188d6976eccb340
-SHA256sum: 27cc970763a11d5d54ba362f5336db8571a9ff8ce9b55c3e9ca2b9ed544cf77c
+MD5Sum: 6f965cadf49a3aec57ba4ec39590e3a8
+SHA256sum: 65dfa90c19bc3e5a913702611173026d460c5d4a749a4336c6da5839df457f6c
 Size: 6950
-Filename: enigma2-plugin-systemplugins-satfinder-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-satfinder-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder (sources)
 OE: enigma2
@@ -3689,14 +3673,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0dcab406c96879746389587a376f98b7
-SHA256sum: 67f22fcff791223213abbdf955ab41438c1fffc94d051f1e35c570226cfc4290
+MD5Sum: 01e0d032c0c649cc88e5fd04c75268cb
+SHA256sum: c6ed746cffe65fb3ee8878d16b6c3d8f3616dc21b15e7845992246daad1b2ff6
 Size: 16804
-Filename: enigma2-plugin-systemplugins-satfinder_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-satfinder_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
 OE: enigma2
@@ -3704,14 +3688,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 72cf8e9805b283c3bd84d64a65b8995e
-SHA256sum: 0ce7697a1fceb6e83c1f89b01cbcad48230b8c6eee04c3e54d28cfefadc952dc
+MD5Sum: 5f794cfd1b1331d0243cffe193398411
+SHA256sum: c913d4802471a59758b7915b9e96e370b896ab622e6d6b920b72013bd351fa1a
 Size: 19570
-Filename: enigma2-plugin-systemplugins-softwaremanager-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-softwaremanager-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager (sources)
 OE: enigma2
@@ -3719,15 +3703,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: python3-twisted-web
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: dfaa2c67a0944d390820768ecd727472
-SHA256sum: 0c87b4f65f8d520685e570d355f088ebf4598dae1e76e2f54973f8fbec6f1caf
+MD5Sum: b624b3d30c7e1f324134c257810aa3ee
+SHA256sum: 6c90e13a8ea33f7f07a975f9fa4a3b5ccc8d883851a9d64c69aea7032ce565aa
 Size: 69126
-Filename: enigma2-plugin-systemplugins-softwaremanager_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-softwaremanager_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager
 OE: enigma2
@@ -3735,14 +3719,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 06afbf94ce5f9dfdd9ec8dda79a12131
-SHA256sum: 16b9cea0a48a8c4e6198291a7888977f761a087182c0a3482d4ee5a661c38828
+MD5Sum: a1b4a17a6ea3512d33f4ac429ae2e79d
+SHA256sum: 3f6b4ade9b969f16606b8756785bf5829382b1bc712776dda07eb51e001b45af
 Size: 2340
-Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup (sources)
 OE: enigma2
@@ -3750,14 +3734,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bd8d33c4a5e5487e8d7d5e356c71f71f
-SHA256sum: 9dc6eb5dd024c1dafac6e75657e536c6580e5e69c140b908ed92e12b542d54d9
+MD5Sum: b5ab330424f508e2263b9e4f81d29b56
+SHA256sum: b933a505b23d4b0034ec22de58e914dac22c77960f924229197b29774e74c351
 Size: 4964
-Filename: enigma2-plugin-systemplugins-videoclippingsetup_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-videoclippingsetup_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup
 OE: enigma2
@@ -3765,14 +3749,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1fc79efd195a76ee7674f2fe04f79268
-SHA256sum: 506a41c5e6cb88a578b059c19425fc97a690a5adbf2c1fd050786327d917c237
+MD5Sum: 4e1043d687f4248eca2842c9b0020991
+SHA256sum: cd0be1ede208e17d6c9677c4f4387b4f2bb4d6d11e109017e5ecb38ef5af8092
 Size: 6014
-Filename: enigma2-plugin-systemplugins-videoenhancement-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-videoenhancement-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement (sources)
 OE: enigma2
@@ -3780,14 +3764,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 37079f501d320bd6e5d763a4462bafec
-SHA256sum: cdbe0077879447d0611d73f38a7381cc7a7f8a4b37d1e5a7f08bdbf38b14da68
+MD5Sum: 2464bae7f2cb26f8fe623ed8f737d678
+SHA256sum: 84462b5f600c3031c292453fcb5065352ea748a8f57c899a845cafef2a026f9a
 Size: 15282
-Filename: enigma2-plugin-systemplugins-videoenhancement_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-videoenhancement_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement
 OE: enigma2
@@ -3795,14 +3779,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fe071a909ae23c087d634f0014eccdfa
-SHA256sum: 3d0c994f6b0df2328e18923f22973db9e4b4c3d1080e02a73b2635420af69d9c
+MD5Sum: 0d6a67936f6cc069ec66da53795eb803
+SHA256sum: fee3374cb0f5c6ec825703374577aa2ec9031b4feba6c44ba11de92074b34283
 Size: 10894
-Filename: enigma2-plugin-systemplugins-videomode-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-videomode-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode (sources)
 OE: enigma2
@@ -3810,14 +3794,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f2c3a5d256808e65dec6b5f77c3d069d
-SHA256sum: 4b7589e6713fac33adcac35d820c9bcc8bb9601738605d722637e137c9f74169
-Size: 34132
-Filename: enigma2-plugin-systemplugins-videomode_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 5dc999d379940991895e2406e0093126
+SHA256sum: e5201a7fee9f2687de6d39e1655ddc0ac919a6c87867bed27caa12238c29672e
+Size: 34130
+Filename: enigma2-plugin-systemplugins-videomode_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode
 OE: enigma2
@@ -3825,14 +3809,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b03cbf0d1dc7e2b96550bbeac92dacb8
-SHA256sum: c9497f52253f6c003421a985d5c2550d5a5d84746f90bc71d9994129955bb4e5
+MD5Sum: 5aa8de91dabc02cbf52e592268ba41b6
+SHA256sum: c6cc8d888fd595232ced52a76cecbe6d000869a4f200fb18bf4071d86160ab2a
 Size: 4984
-Filename: enigma2-plugin-systemplugins-videotune-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-videotune-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune (sources)
 OE: enigma2
@@ -3840,14 +3824,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c87607f1314e32b7d1bc50087ed38deb
-SHA256sum: ffc55ed7a84d7c53bf6dd43e7b0c9073cb5f427a88828bb3638865ebb62e506a
-Size: 72172
-Filename: enigma2-plugin-systemplugins-videotune_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 8fd8f05dea876df7a89199622d4dec9f
+SHA256sum: 64214a3885bfddde7f20565ceb40e6dca50f4fb00c65ebe1b55bff9c24bcc4c8
+Size: 72170
+Filename: enigma2-plugin-systemplugins-videotune_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune
 OE: enigma2
@@ -3855,14 +3839,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 566d0e86c9dad55a0f319a63b3555c22
-SHA256sum: 06482b758fc8456df719fab9f3216727bdf69b9d9a3e098e1325983e3111893f
+MD5Sum: 8012ef21d246c849ed7026aa41ef8bad
+SHA256sum: e6ad61b341d4f445cbd2001adf1c6fa2f2915661b13711e220564887c3d59b33
 Size: 8956
-Filename: enigma2-plugin-systemplugins-wirelesslan-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-wirelesslan-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan (sources)
 OE: enigma2
@@ -3870,15 +3854,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: python3-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 79217fdf1eca254031ff776cf7de3b86
-SHA256sum: bfcdc5b164f938ac3851a9f5a4f15e59f105abe80f77bcf0f061d81bf63daa95
+MD5Sum: 3679d1c3f16973a0d2f36fa7003eec3c
+SHA256sum: 24995f32eb974bd419aa8cfe14df3579edbd7605d1758021886ded56f36295bb
 Size: 22002
-Filename: enigma2-plugin-systemplugins-wirelesslan_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-plugin-systemplugins-wirelesslan_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan
 OE: enigma2
@@ -3886,14 +3870,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-src
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5998e4fd25433238d4d382ec1df8601c
-SHA256sum: 2941a984434205993204f6c9316e20e1cf7578ea227724e4d97a8c4f8f314c07
-Size: 787486
-Filename: enigma2-src_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: 2e3bb12e3181eeb33342b35f1d13cdc7
+SHA256sum: e5521e1ad733cadb8fe15788e682e1c152bbb5f1496a548b44f4a27f1235c2fc
+Size: 787482
+Filename: enigma2-src_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Source files
 OE: enigma2
@@ -3901,15 +3885,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-staticdev
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
-Depends: enigma2-dev (= 3.12+git367+3348d1c0+3348d1c1ac-r0)
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
+Depends: enigma2-dev (= 3.12+git368+46fe72a0+46fe72ae40-r0)
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 37091383a72d367f3a156f925abb57a8
-SHA256sum: 6e7421d0cf466eff5e42b7618d6c3f93b1c6afeb825ff440176fba53c06cbf76
+MD5Sum: 2f7236f9a238611a813279d7c568dca3
+SHA256sum: 7b95a47e5302db111a923ca17376999e9ee181820309951224fe880b60d50499
 Size: 7080
-Filename: enigma2-staticdev_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+Filename: enigma2-staticdev_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files (Static Libraries)
 OE: enigma2
@@ -3917,7 +3901,7 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2
-Version: 3.12+git367+3348d1c0+3348d1c1ac-r0
+Version: 3.12+git368+46fe72a0+46fe72ae40-r0
 Depends: alsa-conf, enigma-info, enigma2-dhcp-wait, enigma2-fonts, enigma2-locale-meta, enigma2-remote, ethtool, font-valis-enigma, glibc-gconv-cp1250, glibc-gconv-iso8859-15, libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.39+git0+c7c3f5bf80), libcrypt2 (>= 4.4.36), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.8.0), libdreamdvd0 (>= 1.1+git220+375e7910+375e791cd0), libdvbsi++1 (>= 0.3.9+git130+f3c40ea0+f3c40ea6da), libfreetype6 (>= 2.13.2), libfribidi0 (>= 1.0.15), libgcc1 (>= 14.1.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.80.2), libgomp1 (>= 14.1.0), libjpeg62 (>= 3.0.1), libpng16-16 (>= 1.6.43), libpython3.12-1.0 (>= 3.12.4), libsigc-3.0-0 (>= 3.6.0), libssl3 (>= 3.3.1), libstdc++6 (>= 14.1.0), libtuxtxt0 (>= 2.0+git82+14027950+1402795d66), libtuxtxt32bpp0 (>= 2.0+git82+14027950+1402795d66), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libxml2 (>= 2.12.8), oe-alliance-branding, python3-asyncio, python3-codecs, python3-core, python3-crypt, python3-difflib, python3-fcntl, python3-logging, python3-mime, python3-mmap, python3-netclient, python3-netifaces, python3-netserver, python3-numbers, python3-pickle, python3-pillow, python3-process, python3-puremagic, python3-pyusb, python3-requests, python3-service-identity, python3-shell, python3-six, python3-threading, python3-treq, python3-twisted-core, python3-twisted-web, python3-xml, python3-zopeinterface
 Replaces: enigma2-plugin-pli-softcamsetup, enigma2-plugin-systemplugins-skinselector
 Conflicts: enigma2-plugin-pli-softcamsetup, enigma2-plugin-systemplugins-skinselector
@@ -3925,10 +3909,10 @@ Recommends: enigma2-plugin-skins-pli-fullhd, glib-networking, glibc-gconv-utf-16
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 090dfe6501b335ff002fc1d5bc25ebe5
-SHA256sum: eac4b3cea228db6ce2d6b0b8c5c267728a07bcec7dfb16d9e25395e0c16740ed
-Size: 5100654
-Filename: enigma2_3.12+git367+3348d1c0+3348d1c1ac-r0_pulse4kmini.ipk
+MD5Sum: dad1aa6dd26fd882fd3550f396c72a84
+SHA256sum: b5099a2cec84755d469f9f98075a7b915ff1af35273247701bfc42fa1247f01b
+Size: 5100556
+Filename: enigma2_3.12+git368+46fe72a0+46fe72ae40-r0_pulse4kmini.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -6334,24 +6318,6 @@ Filename: kernel-image-uimage-4.4.35_4.4.35-4_pulse4kmini.ipk
 Source: linux-abcom_4.4.35.bb
 Description: linux-abcom version 4.4.35-4
 OE: linux-abcom
-License: GPL-2.0-only
-Priority: optional
-
-Package: kernel-module-8188eu-4.4.35
-Version: 1.0-r0
-Depends: kernel-4.4.35
-Provides: kernel-module-8188eu
-Section: kernel/modules
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8aa0136dd48fcef5c57cbffc6b79a151
-SHA256sum: 8786e711638f6277ae88d028f6a1d699190d0ee599d1194c0155bdfce39d1ede
-Size: 393390
-Filename: kernel-module-8188eu-4.4.35_1.0-r0_pulse4kmini.ipk
-Source: kernel-module-rt8188eu_1.0.bb
-Description: 8188eu kernel module
-OE: kernel-module-rt8188eu
-HomePage: http://www.realtek.com.tw
 License: GPL-2.0-only
 Priority: optional
 
@@ -12472,56 +12438,6 @@ OE: linux-abcom
 License: GPL-2.0-only
 Priority: optional
 
-Package: kernel-module-rt8188eu-dbg
-Version: 1.0-r0
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b322fa398063c04cedc675cc88075123
-SHA256sum: e9db8f27962aa79ba9bfaab600e4035373f6dd3dea9a03d94b494c837c043344
-Size: 146950
-Filename: kernel-module-rt8188eu-dbg_1.0-r0_pulse4kmini.ipk
-Source: kernel-module-rt8188eu_1.0.bb
-Description: Ralink 8188EU v1.0 - Debugging files
-OE: kernel-module-rt8188eu
-HomePage: http://www.realtek.com.tw
-License: GPL-2.0-only
-Priority: optional
-
-Package: kernel-module-rt8188eu-dev
-Version: 1.0-r0
-Recommends: kernel-4.4.35-dev, kernel-module-8188eu-4.4.35-dev, kernel-module-rt8188eu (= 1.0-r0)
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0d29b88cdb2749e969d0593a12371eaa
-SHA256sum: df5092c9ccbf444798ffdf3a4dee65562370686cd9075cb75d02b303a461ab57
-Size: 666
-Filename: kernel-module-rt8188eu-dev_1.0-r0_pulse4kmini.ipk
-Source: kernel-module-rt8188eu_1.0.bb
-Description: Ralink 8188EU v1.0 - Development files
-OE: kernel-module-rt8188eu
-HomePage: http://www.realtek.com.tw
-License: GPL-2.0-only
-Priority: optional
-
-Package: kernel-module-rt8188eu
-Version: 1.0-r0
-Depends: kernel-module-8188eu-4.4.35
-Section: kernel/modules
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b8e8bf429cb3939a9e3df51181affcf4
-SHA256sum: 58868b03b8c85e248d3290f75fa6db269e290307e28c515d022d471e61ef352b
-Size: 570
-Filename: kernel-module-rt8188eu_1.0-r0_pulse4kmini.ipk
-Source: kernel-module-rt8188eu_1.0.bb
-Description: Ralink 8188EU v1.0
-OE: kernel-module-rt8188eu
-HomePage: http://www.realtek.com.tw
-License: GPL-2.0-only
-Priority: optional
-
 Package: kernel-module-rtk-btusb-4.4.35
 Version: git-r0
 Depends: kernel-4.4.35, kernel-module-bluetooth-4.4.35
@@ -14332,9 +14248,9 @@ Recommends: glibc-dbg, jsoncpp-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dc4f44d421e5ea481506a5228247949e
-SHA256sum: 690b4680d6bdd84b60f890b1d307a7a5ed8897d4616f7d2a5b8e6e7f7628b550
-Size: 1402312
+MD5Sum: 5c52fa1d9178a2ccce49995d102d9b1e
+SHA256sum: 2739f17361fd03bf6fea5580b8fe66c37d905e811c43986cfc4641afdbf35afa
+Size: 1402314
 Filename: kodi-addon-pvr-argustv-dbg_21.0.0+git0+c2c62174e9-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-argustv.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14364,9 +14280,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libjsoncpp25 (>= 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8311304be471bd71a55a51a5bbc1eabf
-SHA256sum: 2d8a43a3237e4acd4d8362c1a2818298c5cde3b36e2e7937ab2e36db79b91432
-Size: 3421970
+MD5Sum: 872c3e8645e0f48bcba2ec93be528353
+SHA256sum: 2fbaa8e1642f180f04286053d119b081482e31c71035c4c76d670f2f7980c71e
+Size: 1869766
 Filename: kodi-addon-pvr-argustv_21.0.0+git0+c2c62174e9-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-argustv.bb
 Description: Kodi Media Center PVR plugins
@@ -14380,8 +14296,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e27667e580e1b5859ef1141ea0bfa5c0
-SHA256sum: 41dd059c05e60f9a35c32c1edbd36233334e144708ccd5906dc0b947f49e5b48
+MD5Sum: b9af8356724203802a6e286eb4a5efc2
+SHA256sum: 82ba431de20f376ac7d92186421ab4ebfa6185809a6981270b793a28da8f8bde
 Size: 389900
 Filename: kodi-addon-pvr-demo-dbg_21.0.1+git0+29a2e1c671-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-demo.bb
@@ -14412,9 +14328,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8db9b80d690a5bdcf609a881472bacd0
-SHA256sum: 514599781fbaac5cdd1ce7469116349c8f3552b4810060a54f6417b7d5b375ad
-Size: 734028
+MD5Sum: f8876a05052a6fb8f45b4676d1b59264
+SHA256sum: 9a04eedf060af09285198e40ac538f850ba09e396edc3fa899118734c780d9d6
+Size: 734388
 Filename: kodi-addon-pvr-demo_21.0.1+git0+29a2e1c671-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins
@@ -14428,8 +14344,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 92cf310956f170bda34598293b9a28e7
-SHA256sum: c5355bd59ea780af098dfcfa23c04eaa34b9a208766c724e23ce5a60ee6dd600
+MD5Sum: c7a98f183c8253fb9f4b6cee150329c4
+SHA256sum: 045604f71b73c36f5654734650321b83fa139e96caacf8b25027c6f826ce8bc4
 Size: 1911350
 Filename: kodi-addon-pvr-dvblink-dbg_21.1.1+git0+310e5e4c26-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvblink.bb
@@ -14460,9 +14376,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ce900ff831c0de08351a2e146c429480
-SHA256sum: 2eca2bcb0c592c4ebc2a19f1b01d96397841a9e54e67409e7a991e584c731a80
-Size: 6901800
+MD5Sum: 385ae56412e73825eca050ab2221a2dd
+SHA256sum: 16ff0f7e5a92ebeb64d57365c7fbbb66e472ca424571dd66599f4b6d99d8e4ef
+Size: 6904304
 Filename: kodi-addon-pvr-dvblink_21.1.1+git0+310e5e4c26-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins
@@ -14476,8 +14392,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 30abd3ffab68034d3e749d76a9c8d06f
-SHA256sum: d7b44146795b47b26c2217efffcc82b94d155eb80d949e4522ae045094439d30
+MD5Sum: 3c71c1fff7e10940b9563cbc374d687a
+SHA256sum: 4b4fcb9b31afc4e7f8d84f45f7ed80a4d95dabf36542049388e4a3f9085a7af0
 Size: 1352888
 Filename: kodi-addon-pvr-dvbviewer-dbg_21.1.0+git0+dbe2b315ab-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
@@ -14508,9 +14424,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b6dd76e1477bd9e076c30fea09f9fb45
-SHA256sum: 4c8da2ece47e94950eb5db9c843d47879a9c018e7bc142fcc044cc7faa390a32
-Size: 1831366
+MD5Sum: 4b0e531a8f22cd09e4608dfce018b6f8
+SHA256sum: bf3cb0ebfc066ee55f73539ed75e98f43d90a6e435a6d3936f91591ebe9926e1
+Size: 1831390
 Filename: kodi-addon-pvr-dvbviewer_21.1.0+git0+dbe2b315ab-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
 Description: Kodi Media Center PVR plugins
@@ -14524,8 +14440,8 @@ Recommends: glibc-dbg, jsoncpp-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4b5f841b5d8d7111a42ecb1c45e0b8cd
-SHA256sum: 7ae12d9d1f0fe4dbfc81c5e585bfb452a1576e1491db2cd737b4506fa27eb1c2
+MD5Sum: 6c5e7ca1d03a37d6760cd77ec79f2134
+SHA256sum: 4fc21fd041732b4064ff150d49f2b43757102a780bf615db4e2e8f43384e6f53
 Size: 562588
 Filename: kodi-addon-pvr-filmon-dbg_21.0.1+git0+3c062719c8-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-filmon.bb
@@ -14556,9 +14472,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libjsoncpp25 (>= 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 71d415dd445ae325fc64d06afd3de0db
-SHA256sum: db9f606273b0183eeeda3eeba2f1b742dad3f3e03978e6e3fadda7105428c30e
-Size: 844038
+MD5Sum: a4378d753c07782773107ca61b5945e7
+SHA256sum: ed24c21f1da5869ad3fbc4e1b1f52aa4fe3f88ec2fb64734d3e590be3200f65e
+Size: 877232
 Filename: kodi-addon-pvr-filmon_21.0.1+git0+3c062719c8-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-filmon.bb
 Description: Kodi Media Center PVR plugins
@@ -14572,9 +14488,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2451fa4573ff420dca34ae126ce4b68f
-SHA256sum: 47fd4053c0f7b40b568bef7cfe42e523d4ecf991bf254188b822996aaada6050
-Size: 2661414
+MD5Sum: a90eb7428a9897ba227022d21615884b
+SHA256sum: 572f1846c6ec8af6f4b36d5591ce6c7a0ebe844f66190afa4844e97efabf31fb
+Size: 2661416
 Filename: kodi-addon-pvr-hts-dbg_21.2.4+git0+fc5926c394-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14604,9 +14520,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e902b30adbb25b8f318cf86b78dfc2c0
-SHA256sum: 457b8186f72ce9c0c016b76565d3b63dfe4da31df399a7c1a9c9ea77bc8b3772
-Size: 8871722
+MD5Sum: 7c4b4bf66642e7815317b2fec6ee56c7
+SHA256sum: 9820753425cff0d63e825d3548029539f8543eac4846f295ededbe07048f16e7
+Size: 8875946
 Filename: kodi-addon-pvr-hts_21.2.4+git0+fc5926c394-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins
@@ -14620,8 +14536,8 @@ Recommends: glibc-dbg, libgcc-dbg, liblzma-dbg, libstdc++-dbg, pugixml-dbg, zlib
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 95f3f6113ab98dc54c36b7e7dc5ac931
-SHA256sum: 6ea0f1ed4ad9fd9a30e3aa35c11109b71cc04104f8031d74d5f2a52443b78ba9
+MD5Sum: 8209e4d58e396a1669ecbdfcbc4b64f7
+SHA256sum: 9f743053f1bed78773e02258f7b23b74200867ee3279043b705eb5cddfdbb0ad
 Size: 5034528
 Filename: kodi-addon-pvr-iptvsimple-dbg_21.8.4+git0+847750a3d3-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
@@ -14652,9 +14568,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 99722b335f78c57a9bbe600190c5af4d
-SHA256sum: cd25b9b5ab071291db0592e46cfae1b1d3cd20d4026317da629fb2f46d0b3d10
-Size: 17772870
+MD5Sum: b5da12b09e9d41cc1238779293b1b0fa
+SHA256sum: 6baf5172bed17250de2959e61e6352ace0fb4cd1a972fb20d47f75a875d67035
+Size: 17771254
 Filename: kodi-addon-pvr-iptvsimple_21.8.4+git0+847750a3d3-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
@@ -14668,8 +14584,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8bfeed0a0e73a7ac626d8194549c9680
-SHA256sum: 2bda29cd20258ce33d8f244be26ea60eb7302ea53a6ddaf4ee09d0407dd3efb4
+MD5Sum: 3c85bfa43ea8f85cd877d52b69f62d47
+SHA256sum: 5bd8f931f69ba68c0b0c0da796737f18da09eb9d0ff735d3b16ecf54f7d8fcc5
 Size: 2993650
 Filename: kodi-addon-pvr-nextpvr-dbg_21.0.3+git0+4a78d27d0d-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-nextpvr.bb
@@ -14700,9 +14616,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 96b2d652f04d356d379ed032b5f010da
-SHA256sum: 25aa384f3b8b3afb30f184db3cce923eb0a8712b625e74f67658fcf079cb4d99
-Size: 10143604
+MD5Sum: 9ab5f71f25d77604782542b0a49585ef
+SHA256sum: 95f0c18dc799b8e8ce729622edfe914b4214165b93921d0ec8867fa1b6ae00cf
+Size: 10144076
 Filename: kodi-addon-pvr-nextpvr_21.0.3+git0+4a78d27d0d-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins
@@ -14716,8 +14632,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 630ac6230def642ce30523a2e0ebacb7
-SHA256sum: b27ad2c93cbfff05d5935d7d60918a7731759163c7e18fc4791ab66fe8b53bc5
+MD5Sum: 8f51f6fd38576627d42eb2800b7257da
+SHA256sum: b08903c9f758d3fcf5476911651ab1d5751abb60b1a48f9cadb359d1fbf9bffc
 Size: 258008
 Filename: kodi-addon-pvr-njoy-dbg_21.0.0+git0+90598ecb25-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-njoy.bb
@@ -14748,9 +14664,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e450e8c00a3142110512937d2a95a55a
-SHA256sum: 95e2e0ac6cf1838d1ddb364643b504aa66a75393efae3cfb75a6d1742dea1db9
-Size: 404168
+MD5Sum: f7a1e78474e37bf710a6cdb63f6b733e
+SHA256sum: 32a9e9c368a8efdfee937dfade5eb717bfb7c15c0c76e644d7a3f33b93c79d28
+Size: 404354
 Filename: kodi-addon-pvr-njoy_21.0.0+git0+90598ecb25-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-njoy.bb
 Description: Kodi Media Center PVR plugins
@@ -14764,8 +14680,8 @@ Recommends: glibc-dbg, jsoncpp-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 949186735771a87e9a525a8e86033881
-SHA256sum: 5fb0cf111118d227722d4e93003ff3d85319ca0885997f881a60a965ebeb94b6
+MD5Sum: 83999fdaace1133ff821f9f1d67f68e7
+SHA256sum: a1dc66d3eee14920d7446999f462ebf856b120285ee3427fe5b1143abe2e809d
 Size: 630568
 Filename: kodi-addon-pvr-pctv-dbg_21.0.0+git0+621f16b54a-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-pctv.bb
@@ -14796,9 +14712,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libjsoncpp25 (>= 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 64d017c4ba2dc93a81ad0bc23aaeb302
-SHA256sum: 70628fea9178cd2bfe30ba1ac6f3ce962fb04ce771544373b331c4c2c7ac71e2
-Size: 857514
+MD5Sum: fedd5330c33040c21b80c980a671c44f
+SHA256sum: 97851e7b61bf351afc072bedb5f96ed40c44687e1ae26de9fc6753b4381e3c03
+Size: 857502
 Filename: kodi-addon-pvr-pctv_21.0.0+git0+621f16b54a-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-pctv.bb
 Description: Kodi Media Center PVR plugins
@@ -14812,9 +14728,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: aff5f72d3d37502ac82b7fab89a974ad
-SHA256sum: 3ccf80ce0d02ebdfafcf11cbbf46cfa243b14688cea8d3005b5df6cec1302e39
-Size: 1881400
+MD5Sum: f0eb48b1f5e5001c3d1ea717d2ed693a
+SHA256sum: 43f1cf648347d1ee15ca68c5dfe79f3912c8a8b1dbd80207cb0f1cbb22374c20
+Size: 1881402
 Filename: kodi-addon-pvr-vbox-dbg_21.1.2+git0+e81884abdd-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14844,9 +14760,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d3ad0abcd7ededbd1c8f0d6c92b33101
-SHA256sum: f28e15c9ffb4eb229fe8ce9be63418bf5e522ed759fef995f605a5d59fa0bfe4
-Size: 2342052
+MD5Sum: c3b5e04817bbf098d8d7d552347fe610
+SHA256sum: ecbebca8ea7c12c12b2436b6ca7b8635ec0b75b6eee0b0d9008e0c243e00234f
+Size: 2342050
 Filename: kodi-addon-pvr-vbox_21.1.2+git0+e81884abdd-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins
@@ -14860,8 +14776,8 @@ Recommends: abcom-mali-3798mv200-dbg, glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1f967c4846b9c19195ec778ea9411e31
-SHA256sum: 7ef2bbe37f8209024295e54a2e428e10946f222df932bda93a40a5b58a246c11
+MD5Sum: d0dc5b0de53e110210328bb387ce6f9d
+SHA256sum: 0f5e6ccad40da65667eb765e416105575fdaf037260acc998b996b1dd27e991e
 Size: 1538914
 Filename: kodi-addon-pvr-vdr.vnsi-dbg_21.1.1+git0+3a1b449d74-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
@@ -14892,9 +14808,9 @@ Depends: abcom-mali-3798mv200 (>= 1.0), libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7739af627d361cd0ca05f1a0cdc8d02c
-SHA256sum: 6d81b1b73d0d558f19383f83829d9d79b3f9230bb6e8b26d16644877b7953c2e
-Size: 2039086
+MD5Sum: 3c558a3ea4c234ffbae06403d36e4bc5
+SHA256sum: 00f946baf98e3e338525bb301da3b854dc5f0cd1ef7b94f8fd653fd1db256e8e
+Size: 2039112
 Filename: kodi-addon-pvr-vdr.vnsi_21.1.1+git0+3a1b449d74-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
 Description: Kodi Media Center PVR plugins
@@ -14908,9 +14824,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 07127853c7811bc06436a03d727705b5
-SHA256sum: 074104060ab081013e0ebea61e46ef0ce2e44280bf59322ff18504c82e485eab
-Size: 7957742
+MD5Sum: f9349f12ef348f9f7c347d7866dd4a26
+SHA256sum: c2927ee430465e60b1f58f42732177dbd221b35a10e2f56f63ff9b809138593f
+Size: 7957744
 Filename: kodi-addon-pvr-vuplus-dbg_21.2.0+git0+3cc5547eb5-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14940,9 +14856,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dd59a08a1bba7284ce8e39d079c0758c
-SHA256sum: 12d883785e4c97e5f8b27d62e778f1b4472bd8ed88cd63b8c1379d56b06a768c
-Size: 27796412
+MD5Sum: 4bcd1b6ad06a2e18d10a9b105d9ad5bb
+SHA256sum: a7172c69f75743d8f7605adbcd89556f1e8fb2a9fba0864ad5bf7f1e03d851c0
+Size: 27794536
 Filename: kodi-addon-pvr-vuplus_21.2.0+git0+3cc5547eb5-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins
@@ -14956,8 +14872,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0c56091971ac5cf87e0c3e8a041d9d72
-SHA256sum: 71dc87e32406f6a18491ddd147a9e5c10ef8d5c3f3fab30eedf49d22136eb25f
+MD5Sum: 3c47a413290ee6711609a4646b2646f7
+SHA256sum: 7967083895e7044fd814f9e543572499365417c3afe8240d2d6956629aae67ed
 Size: 712750
 Filename: kodi-addon-pvr-wmc-dbg_21.0.1+git0+5013975759-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-wmc.bb
@@ -14988,9 +14904,9 @@ Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: efc6af8e07b820f9eddeff10cfe84f5a
-SHA256sum: f1ad25c5a9b0ace444f83570ce71a80a1d00b77a0e9cb72946091a85d1cf9d3f
-Size: 1134652
+MD5Sum: 61a6003d3ff15213d20adc8aeb803675
+SHA256sum: 9ded547ae507f993ccda3e23fe2328e79c3216ff3b0665577d94c21a434328bc
+Size: 1194986
 Filename: kodi-addon-pvr-wmc_21.0.1+git0+5013975759-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins
@@ -15004,9 +14920,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ef7a7c94ef1a34f0b343b4ec60af540f
-SHA256sum: 0427e71d437388eff2a46a13bbd896ea7ff611dc482b90130325eef41057e4e7
-Size: 152470
+MD5Sum: 4f96e7baa36074b990bf0ad7bab772bf
+SHA256sum: 5b75b271dc2887210898dfe860b2d636474334155c4cd85cfc07a9fad271bbb4
+Size: 152472
 Filename: kodi-platform-dbg_22.0.0-r0_pulse4kmini.ipk
 Source: kodi-platform_22.0.0.bb
 Description: Platform support library used by libCEC and binary add-ons for Kodi - Debugging files
@@ -15022,9 +14938,9 @@ Recommends: glibc-dev, kodi-platform (= 22.0.0-r0), libgcc-dev, libkodiplatform-
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d23fd56f0db407cf8d6aecbe15f84049
-SHA256sum: c25eaf6f50aa693b45fcbf45d28c00ae81a876edb575587e6b089cc90cbe9bb4
-Size: 2740
+MD5Sum: 0d1e7a8349c8b04872673926e6d01020
+SHA256sum: 90985ad8e69505d8c0bf4bf5380fcd44020f9de2c684c979e09828187e2ca53f
+Size: 2742
 Filename: kodi-platform-dev_22.0.0-r0_pulse4kmini.ipk
 Source: kodi-platform_22.0.0.bb
 Description: Platform support library used by libCEC and binary add-ons for Kodi - Development files
@@ -15076,8 +14992,8 @@ Provides: libkodiplatform
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b4f7ad3ff30a84257e49a84946b46777
-SHA256sum: 9926729d38965562630e7b818404fed404068c5c3bbc9d2b22073f55f37467db
+MD5Sum: ee02cdee0507a69bcce199d5e625f717
+SHA256sum: 4ef3692bd373c72c927bf5c6cdd9d24e91f01e34fca1e83387e05f301f0e2636
 Size: 18706
 Filename: libkodiplatform21.0_22.0.0-r0_pulse4kmini.ipk
 Source: kodi-platform_22.0.0.bb
@@ -16916,15 +16832,15 @@ License: CLOSED
 Priority: optional
 
 Package: satipclient-dbg
-Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r1
+Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r0
 Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9269fbad044517d70d55c269b71dbb94
-SHA256sum: 22ab0faecda0d518abfcfa1f5154a497fab1d50ba2c65e00a0a34cd8660099b4
+MD5Sum: 4bf64dcbac6f5ee962f3efc767e7f89e
+SHA256sum: 814eb0b830f1a659a2be0688829995d0dd8b3ef2e87042ebf6f3f0827c3909fa
 Size: 310046
-Filename: satipclient-dbg_1.0+git97+1c2ef4c0+1c2ef4c136-r1_pulse4kmini.ipk
+Filename: satipclient-dbg_1.0+git97+1c2ef4c0+1c2ef4c136-r0_pulse4kmini.ipk
 Source: satipclient.bb
 Description: satip client using vtuner - Debugging files
 OE: satipclient
@@ -16932,15 +16848,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: satipclient-dev
-Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r1
-Recommends: glibc-dev, initscripts-dev, libgcc-dev, libstdc++-dev, satipclient (= 1.0+git97+1c2ef4c0+1c2ef4c136-r1), update-rc.d-dev
+Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r0
+Recommends: glibc-dev, initscripts-dev, libgcc-dev, libstdc++-dev, satipclient (= 1.0+git97+1c2ef4c0+1c2ef4c136-r0), update-rc.d-dev
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ede733308c4fb9c9962878b839b46897
-SHA256sum: 608dd75ee1c83c2ccec7a80755b42d996d445e811236fd87cbd7d959ae950295
+MD5Sum: bd9082149a886eb9a94b771d8bfe2bdd
+SHA256sum: 6052a0eeb856286c913dec5fb9cdc221da417a93b672b468d2e38768f04dcd50
 Size: 668
-Filename: satipclient-dev_1.0+git97+1c2ef4c0+1c2ef4c136-r1_pulse4kmini.ipk
+Filename: satipclient-dev_1.0+git97+1c2ef4c0+1c2ef4c136-r0_pulse4kmini.ipk
 Source: satipclient.bb
 Description: satip client using vtuner - Development files
 OE: satipclient
@@ -16948,16 +16864,16 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: satipclient
-Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r1
+Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r0
 Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libstdc++6 (>= 14.1.0)
 Recommends: update-rc.d
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 590e716c6877076bf8ce87f7f08c1793
-SHA256sum: 59ee6344a0ee18e872153fa4f6fffcd0026e2c08c2a07f82bcbfd8931562b155
+MD5Sum: 1f7dec45586c20b6329e24b4cb0903c5
+SHA256sum: 46a2039db77a9e8aede94c9f5df177cbeba320315417820d83a099a939c40d7d
 Size: 30172
-Filename: satipclient_1.0+git97+1c2ef4c0+1c2ef4c136-r1_pulse4kmini.ipk
+Filename: satipclient_1.0+git97+1c2ef4c0+1c2ef4c136-r0_pulse4kmini.ipk
 Source: satipclient.bb
 Description: satip client using vtuner
 OE: satipclient
@@ -17011,15 +16927,15 @@ License: MIT
 Priority: optional
 
 Package: stb-kodi-pulse4kmini-dbg
-Version: 21.0-Omega-r2
+Version: 21.1-Omega-r2
 Recommends: abcom-mali-3798mv200-dbg, alsa-lib-dbg, bluez5-dbg, dav1d-dbg, dbus-lib-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libdvdnav-dbg, libgcc-dbg, libgstpbutils-1.0-dbg, libinput-dbg, libiso9660++-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-mainloop-glib-dbg, libpulse-simple-dbg, libpython3-dbg, libsmbclient-dbg, libsqlite3-dbg, libssl-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, shairplay-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b3ee8183df5e22c1dc3b55cc74c129a2
-SHA256sum: a9d3e8fdc8f956f397e704592df542cb7289b59bf89d79c8c5fb42105e4a8b7f
-Size: 220295682
-Filename: stb-kodi-pulse4kmini-dbg_21.0-Omega-r2_pulse4kmini.ipk
+MD5Sum: 7ef48d8316e4b2be2e7049b194572854
+SHA256sum: d01aea875d839ca4361437f8845ef375ec4025e4dbed3239a876bca73de6b6f0
+Size: 220310806
+Filename: stb-kodi-pulse4kmini-dbg_21.1-Omega-r2_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_21.bb
 Description: Kodi Media Center - Debugging files
 OE: stb-kodi-pulse4kmini
@@ -17028,15 +16944,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: stb-kodi-pulse4kmini-dev
-Version: 21.0-Omega-r2
-Recommends: abcom-mali-3798mv200-dev, alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dav1d-dev, dbus-lib-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, kodi-addon-peripheral-joystick-omega-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libdvdcss-dev, libdvdnav-dev, libdvdread-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660++-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-mainloop-glib-dev, libpulse-simple-dev, libpython3-dev, libsmbclient-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libssl-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, shairplay-dev, spdlog-dev, sqlite3-dev, stb-kodi-pulse4kmini (= 21.0-Omega-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
+Version: 21.1-Omega-r2
+Recommends: abcom-mali-3798mv200-dev, alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dav1d-dev, dbus-lib-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, kodi-addon-peripheral-joystick-omega-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libdvdcss-dev, libdvdnav-dev, libdvdread-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660++-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-mainloop-glib-dev, libpulse-simple-dev, libpython3-dev, libsmbclient-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libssl-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, shairplay-dev, spdlog-dev, sqlite3-dev, stb-kodi-pulse4kmini (= 21.1-Omega-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bc019c37e3f2db6da2b465fa857d45ca
-SHA256sum: 9efb5819269931f5031ea53025d8aeff13bbae77583d8a73b3cb058d3a22bf1b
-Size: 284544
-Filename: stb-kodi-pulse4kmini-dev_21.0-Omega-r2_pulse4kmini.ipk
+MD5Sum: d25c029e9a3eec80e830f810554fcb33
+SHA256sum: c4be7f921cc458ffe513cde28d77b36b6ae387dc202913fdcea78264e1f7b076
+Size: 284564
+Filename: stb-kodi-pulse4kmini-dev_21.1-Omega-r2_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_21.bb
 Description: Kodi Media Center - Development files
 OE: stb-kodi-pulse4kmini
@@ -17045,14 +16961,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: stb-kodi-pulse4kmini-doc
-Version: 21.0-Omega-r2
+Version: 21.1-Omega-r2
 Section: doc
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 15115410592d534bdccff8eb64aad524
-SHA256sum: 7d47abb3a76cabb558458315712a3f0d4af5e91c6febe57c761eaee3e420c783
-Size: 7074
-Filename: stb-kodi-pulse4kmini-doc_21.0-Omega-r2_pulse4kmini.ipk
+MD5Sum: c5c753ed5e259433854ec7ddcf5ccb61
+SHA256sum: 7f9f16067f3371163730f4a6fb5ab410293b4c2daf880d32bc01e466266da967
+Size: 7072
+Filename: stb-kodi-pulse4kmini-doc_21.1-Omega-r2_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_21.bb
 Description: Kodi Media Center - Documentation files
 OE: stb-kodi-pulse4kmini
@@ -17061,17 +16977,17 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: stb-kodi-pulse4kmini
-Version: 21.0-Omega-r2
-Depends: abcom-mali-3798mv200 (>= 1.0), bluez5 (>= 5.50), dav1d (>= 1.4.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.24.6), kodi-addon-peripheral-joystick-omega, lcms (>= 2.16), libasound2 (>= 1.2.12), libass9 (>= 0.17.2), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.0.2+git0+5ff181c025), libavfilter10 (>= 7.0.2+git0+5ff181c025), libavformat61 (>= 7.0.2+git0+5ff181c025), libavutil59 (>= 7.0.2+git0+5ff181c025), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.39+git0+c7c3f5bf80), libcap (>= 2.70), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.8.0), libdbus-1-3 (>= 1.14.10), libdvdnav4 (>= 6.1.1), libfreetype6 (>= 2.13.2), libfribidi0 (>= 1.0.15), libgcc1 (>= 14.1.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.80.2), libgstpbutils-1.0-0 (>= 1.24.6), libharfbuzz0 (>= 8.5.0), libinput10 (>= 1.26.1), libiso9660++0 (>= 2.1.0), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre1 (>= 8.45), libplist-2.0-4 (>= 2.3.0+git0+2cd858c679), libpng16-16 (>= 1.6.43), libpostproc58 (>= 7.0.2+git0+5ff181c025), libpulse-mainloop-glib0 (>= 17.0), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.12-1.0 (>= 3.12.4), libsmbclient0 (>= 4.19.7), libsqlite3-0 (>= 3.45.3), libssl3 (>= 3.3.1), libstdc++6 (>= 14.1.0), libswresample5 (>= 7.0.2+git0+5ff181c025), libswscale8 (>= 7.0.2+git0+5ff181c025), libtag1 (>= 1.13.1), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.1), libxkbcommon0 (>= 1.7.0), libxml2 (>= 2.12.8), libxslt (>= 1.1.39), libz1 (>= 1.3.1), shairplay (>= 0.9.0+git158+096b61a0+096b61ad14)
+Version: 21.1-Omega-r2
+Depends: abcom-mali-3798mv200 (>= 1.0), bluez5 (>= 5.50), dav1d (>= 1.4.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.24.6), kodi-addon-peripheral-joystick-omega, lcms (>= 2.16), libasound2 (>= 1.2.12), libass9 (>= 0.17.2), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.0.2+git0+7e69129d2f), libavfilter10 (>= 7.0.2+git0+7e69129d2f), libavformat61 (>= 7.0.2+git0+7e69129d2f), libavutil59 (>= 7.0.2+git0+7e69129d2f), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.39+git0+c7c3f5bf80), libcap (>= 2.70), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.8.0), libdbus-1-3 (>= 1.14.10), libdvdnav4 (>= 6.1.1), libfreetype6 (>= 2.13.2), libfribidi0 (>= 1.0.15), libgcc1 (>= 14.1.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.80.2), libgstpbutils-1.0-0 (>= 1.24.6), libharfbuzz0 (>= 8.5.0), libinput10 (>= 1.26.1), libiso9660++0 (>= 2.1.0), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre1 (>= 8.45), libplist-2.0-4 (>= 2.3.0+git0+2cd858c679), libpng16-16 (>= 1.6.43), libpostproc58 (>= 7.0.2+git0+7e69129d2f), libpulse-mainloop-glib0 (>= 17.0), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.12-1.0 (>= 3.12.4), libsmbclient0 (>= 4.19.7), libsqlite3-0 (>= 3.45.3), libssl3 (>= 3.3.1), libstdc++6 (>= 14.1.0), libswresample5 (>= 7.0.2+git0+7e69129d2f), libswscale8 (>= 7.0.2+git0+7e69129d2f), libtag1 (>= 1.13.1), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.1), libxkbcommon0 (>= 1.7.0), libxml2 (>= 2.12.8), libxslt (>= 1.1.39), libz1 (>= 1.3.1), shairplay (>= 0.9.0+git158+096b61a0+096b61ad14)
 Provides: kodi, virtual-kodi
 Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-charmap-utf-8, glibc-gconv-ibm437, glibc-gconv-ibm850, glibc-gconv-unicode, glibc-gconv-utf-32, glibc-localedata-en-us, kodi-addon-inputstream-adaptive-omega, kodi-addon-inputstream-ffmpegdirect-omega, kodi-addon-inputstream-rtmp-omega, kodi-addon-inputstreamhelper, kodi-addon-visualization.goom-omega, kodi-addon-visualization.matrix-omega, kodi-addon-visualization.pictureit-omega, kodi-addon-visualization.shadertoy-omega, kodi-addon-visualization.spectrum-omega, libcec, libcurl, libnfs, nss, os-release, python3, python3-compression, python3-ctypes, python3-difflib, python3-html, python3-json, python3-mechanize, python3-netclient, python3-profile, python3-pycryptodomex, python3-shell, python3-sqlite3, python3-xmlrpc, tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdata-asia, tzdata-atlantic, tzdata-australia, tzdata-europe, tzdata-pacific, xkeyboard-config
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0be0e4161b28c452527658c5be463438
-SHA256sum: 06581a1ffbdcf43fd14c175378225d796d661216aabc72e3face09cdd3219ce1
-Size: 28369442
-Filename: stb-kodi-pulse4kmini_21.0-Omega-r2_pulse4kmini.ipk
+MD5Sum: e604ac55e25f003d3d814a8a74c6a246
+SHA256sum: c598ef1ccf8aed12a766d888f3f82c8fe209a8d792067715f4ff2d65a991ff82
+Size: 28369346
+Filename: stb-kodi-pulse4kmini_21.1-Omega-r2_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_21.bb
 Description: Kodi Media Center
 OE: stb-kodi-pulse4kmini

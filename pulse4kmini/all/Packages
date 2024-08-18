@@ -12103,31 +12103,15 @@ OE: settings-autorestore
 License: GPL-2.0-only
 Priority: optional
 
-Package: softcam-support
-Version: 2-r0
-Recommends: update-rc.d
-Section: base
-Architecture: all
-Maintainer: PLi team
-MD5Sum: fb13ef4e97ab2d8da2fc5e5b5b937acd
-SHA256sum: 2808bb6d89b12b5f8d699d28af5936e5d37e7e18df1bb22e5c72ab1ae2655386
-Size: 888
-Filename: softcam-support_2-r0_all.ipk
-Source: softcam-support.bb
-Description: Start, stop and select softcams.
-OE: softcam-support
-License: GPL-2.0-only
-Priority: optional
-
 Package: tuxbox-common-dbg
-Version: 3+git748+17f01ad0+17f01adc1b-r0
+Version: 3+git749+5e5d77d0+5e5d77d11f-r0
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 66acdc744e3d1d6288df39ad3f17a08c
-SHA256sum: 0bbf7f4bdcadd69cf71801ad1a69fe0ae96e1733f553a8cb486848c5bafb5967
-Size: 564
-Filename: tuxbox-common-dbg_3+git748+17f01ad0+17f01adc1b-r0_all.ipk
+MD5Sum: 98bed866b88ff496e61b40592a625076
+SHA256sum: 735f8c108d0d343475732a7d0210220d7003deab0fda4e5a629c4ef07127c8f6
+Size: 566
+Filename: tuxbox-common-dbg_3+git749+5e5d77d0+5e5d77d11f-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Debugging files
 OE: tuxbox-common
@@ -12135,15 +12119,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 3+git748+17f01ad0+17f01adc1b-r0
-Recommends: tuxbox-common (= 3+git748+17f01ad0+17f01adc1b-r0), xz-dev
+Version: 3+git749+5e5d77d0+5e5d77d11f-r0
+Recommends: tuxbox-common (= 3+git749+5e5d77d0+5e5d77d11f-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: aeb3369957c860426c31a0ebae0befa6
-SHA256sum: c2b1d0aa9ae70bcb1cc78cdc870ab828d23667335e8269426a16f9f579432e16
+MD5Sum: d63bd14565909589e0bef09b93a7b080
+SHA256sum: aace6a0dab324e0050b8cb39a2ed0d7371b959f5b81c44160b165c520ba243c7
 Size: 608
-Filename: tuxbox-common-dev_3+git748+17f01ad0+17f01adc1b-r0_all.ipk
+Filename: tuxbox-common-dev_3+git749+5e5d77d0+5e5d77d11f-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Development files
 OE: tuxbox-common
@@ -12151,15 +12135,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common
-Version: 3+git748+17f01ad0+17f01adc1b-r0
+Version: 3+git749+5e5d77d0+5e5d77d11f-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 3d7e04a33b9aa6c3fddcf7b98293081f
-SHA256sum: b0ff46e90cdf8e0a44756c1a9507d40ac631130232f2b48fd4b3a7c3a97fedf4
-Size: 72942
-Filename: tuxbox-common_3+git748+17f01ad0+17f01adc1b-r0_all.ipk
+MD5Sum: 7e41d397844ef95b2780d051c4623622
+SHA256sum: b508c341b8a4b558de2246d64063e2d6360ffbd4e9d1f60e0d69ee68064973a3
+Size: 72864
+Filename: tuxbox-common_3+git749+5e5d77d0+5e5d77d11f-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0
 OE: tuxbox-common
