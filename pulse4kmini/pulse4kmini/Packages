@@ -3091,6 +3091,22 @@ OE: enigma2-plugin-extensions-stalker-qt
 License: CLOSED
 Priority: optional
 
+Package: enigma2-plugin-softcams-mgcamd-v135a-arm
+Version: 1.35a-r0
+Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libcrypto-compat, libgcc1 (>= 14.1.0), libxcrypt-compat, libz1 (>= 1.3.1), softcam-support
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 420c515bf31f412a8aa5d5f5ef2cd2e5
+SHA256sum: c8df1344bd865453c1f72ab05bdf5eb44adffd8beea69ca5e7fdb9a9bf238c05
+Size: 366120
+Filename: enigma2-plugin-softcams-mgcamd-v135a-arm_1.35a-r0_pulse4kmini.ipk
+Source: enigma2-plugin-softcams-mgcamd-v135a-arm.bb
+Description: mgcamd softcam 1.35a
+OE: enigma2-plugin-softcams-mgcamd-v135a-arm
+License: CLOSED
+Priority: optional
+
 Package: enigma2-plugin-systemplugins-animationsetup-src
 Version: 3.12+git382+2dd86220+2dd86227ad-r0
 Section: base
@@ -15215,24 +15231,6 @@ OE: qtsensors
 License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
 Priority: optional
 
-Package: libqt5xmlpatterns-dbg
-Version: 5.15.12+git0+6e0917d518-r0
-Provides: qtxmlpatterns-dbg
-Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, qtbase-dbg, qtdeclarative-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dfc7f17d8b3f7e4a6d6c25e0d8fde990
-SHA256sum: 3f5928460749bed707329d32b7e80ebcfda792dfec301e7c925449888de0aec3
-Size: 39552770
-Filename: libqt5xmlpatterns-dbg_5.15.12+git0+6e0917d518-r0_pulse4kmini.ipk
-Source: qtxmlpatterns_git.bb
-Description: qtxmlpatterns version 5.15.12+git-r0 - Debugging files
-OE: qtxmlpatterns
-HomePage: http://www.qt.io
-License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
-Priority: optional
-
 Package: libqt5xmlpatterns-dev
 Version: 5.15.12+git0+6e0917d518-r0
 Depends: qtbase-dev, qtxmlpatterns
@@ -16232,22 +16230,6 @@ OE: packagegroup-base
 License: MIT
 Priority: optional
 
-Package: qtbase-dbg
-Version: 5.15.12+git0+e439142257-r0
-Recommends: abcom-mali-3798mv200-dbg, dbus-lib-dbg, directfb-dbg, freetype-dbg, glibc-dbg, libcrypto-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpcre2-16-dbg, libpng-dbg, libssl-dbg, libstdc++-dbg, libudev-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c744f14c45ede5ca8a52f87ba5e5f3b3
-SHA256sum: bbf86ebb467ac12792f5a34fbbb16b6f125b0b4ddb34b15b5c1e2a9614c8de74
-Size: 229189560
-Filename: qtbase-dbg_5.15.12+git0+e439142257-r0_pulse4kmini.ipk
-Source: qtbase_git.bb
-Description: qtbase version 5.15.12+git-r0 - Debugging files
-OE: qtbase
-License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
-Priority: optional
-
 Package: qtbase-dev
 Version: 5.15.12+git0+e439142257-r0
 Depends: qtbase
@@ -16326,22 +16308,6 @@ OE: qtbase
 License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
 Priority: optional
 
-Package: qtbase-staticdev
-Version: 5.15.12+git0+e439142257-r0
-Depends: qtbase-dev (= 5.15.12+git0+e439142257-r0)
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 947e80f68b8b5a32ba4792459d699add
-SHA256sum: d54305e264a91b1bbce475cc7691ec4b2fc36bf9dc053f5f112c80b94d235baa
-Size: 34125780
-Filename: qtbase-staticdev_5.15.12+git0+e439142257-r0_pulse4kmini.ipk
-Source: qtbase_git.bb
-Description: qtbase version 5.15.12+git-r0 - Development files (Static Libraries)
-OE: qtbase
-License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
-Priority: optional
-
 Package: qtbase-tools
 Version: 5.15.12+git0+e439142257-r0
 Depends: libc6 (>= 2.39+git0+c7c3f5bf80), libgcc1 (>= 14.1.0), libstdc++6 (>= 14.1.0), perl
@@ -16372,23 +16338,6 @@ Filename: qtbase_5.15.12+git0+e439142257-r0_pulse4kmini.ipk
 Source: qtbase_git.bb
 Description: qtbase version 5.15.12+git-r0
 OE: qtbase
-License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
-Priority: optional
-
-Package: qtdeclarative-dbg
-Version: 5.15.12+git0+105e610548-r0
-Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, qtbase-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e2e151d2284bada8ae2055609aa0612d
-SHA256sum: 5a2fa922ce3743cfc10f9b0b148a507227e64f835b837b1cb42932ea6c1554c4
-Size: 169151168
-Filename: qtdeclarative-dbg_5.15.12+git0+105e610548-r0_pulse4kmini.ipk
-Source: qtdeclarative_git.bb
-Description: qtdeclarative version 5.15.12+git-r0 - Debugging files
-OE: qtdeclarative
-HomePage: http://www.qt.io
 License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
 Priority: optional
 
@@ -16718,22 +16667,6 @@ OE: qtquickcontrols
 License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
 Priority: optional
 
-Package: qtwebkit-dbg
-Version: 5.15.12+git0+10cd6a106e-r0
-Recommends: abcom-mali-3798mv200-dbg, glibc-dbg, libgcc-dbg, libicui18n-dbg, libicuuc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsqlite3-dbg, libstdc++-dbg, libwebp-dbg, libxml2-dbg, libxslt-dbg, qtbase-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 18ad09e96616bbbcf05ede4f335e0b25
-SHA256sum: 4ecb7360d610e32145c704ea537426021ba2a658dec09c6f1d5406e4cce8e531
-Size: 680491956
-Filename: qtwebkit-dbg_5.15.12+git0+10cd6a106e-r0_pulse4kmini.ipk
-Source: qtwebkit_git.bb
-Description: qtwebkit version 5.15.12+git-r0 - Debugging files
-OE: qtwebkit
-License: BSD-3-Clause & LGPL-2.0-or-later | GPL-2.0-only
-Priority: optional
-
 Package: qtwebkit-dev
 Version: 5.15.12+git0+10cd6a106e-r0
 Depends: qtbase-dev, qtwebkit
@@ -17053,23 +16986,6 @@ OE: shadow-securetty
 License: MIT
 Priority: optional
 
-Package: stb-kodi-pulse4kmini-dbg
-Version: 21.1-Omega-r2
-Recommends: abcom-mali-3798mv200-dbg, alsa-lib-dbg, bluez5-dbg, dav1d-dbg, dbus-lib-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libdvdnav-dbg, libgcc-dbg, libgstpbutils-1.0-dbg, libinput-dbg, libiso9660++-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-mainloop-glib-dbg, libpulse-simple-dbg, libpython3-dbg, libsmbclient-dbg, libsqlite3-dbg, libssl-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, shairplay-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 414d3a0ddf4013e6686399f8b5a879fc
-SHA256sum: b068ae9e8488f7be20c6931a570b2a8275d5fadcef3955e3ea0a7ca5846d7611
-Size: 220310806
-Filename: stb-kodi-pulse4kmini-dbg_21.1-Omega-r2_pulse4kmini.ipk
-Source: stb-kodi-pulse4kmini_21.bb
-Description: Kodi Media Center - Debugging files
-OE: stb-kodi-pulse4kmini
-HomePage: https://kodi.tv/
-License: GPL-2.0-only
-Priority: optional
-
 Package: stb-kodi-pulse4kmini-dev
 Version: 21.1-Omega-r2
 Recommends: abcom-mali-3798mv200-dev, alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dav1d-dev, dbus-lib-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, kodi-addon-peripheral-joystick-omega-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libdvdcss-dev, libdvdnav-dev, libdvdread-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660++-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-mainloop-glib-dev, libpulse-simple-dev, libpython3-dev, libsmbclient-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libssl-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, shairplay-dev, spdlog-dev, sqlite3-dev, stb-kodi-pulse4kmini (= 21.1-Omega-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
@@ -17200,23 +17116,6 @@ Size: 9608
 Filename: webkit-classic-browser_1.1+git15+6570b0b0+6570b0bb47-r0_pulse4kmini.ipk
 Source: webkit-classic.bb
 Description: WebKit web rendering engine for the GTK+ platform
-OE: webkit-classic
-HomePage: http://www.webkitgtk.org/
-License: BSD-3-Clause & LGPL-2.0-or-later
-Priority: optional
-
-Package: webkit-classic-dbg
-Version: 1.1+git15+6570b0b0+6570b0bb47-r0
-Recommends: at-spi2-core-dbg, cairo-dbg, directfb-dbg, fontconfig-dbg, freetype-dbg, gdk-pixbuf-dbg, glib-2.0-dbg, glibc-dbg, gtk+-dbg, harfbuzz-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsoup-2.4-dbg, libsqlite3-dbg, libstdc++-dbg, libxml2-dbg, pango-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3a11c999133e587d54591ae9efbb09bc
-SHA256sum: ee79869c71e9e02db6a4ed732393fb515d691e453356c24b8ead90b67eadb77e
-Size: 198982450
-Filename: webkit-classic-dbg_1.1+git15+6570b0b0+6570b0bb47-r0_pulse4kmini.ipk
-Source: webkit-classic.bb
-Description: WebKit web rendering engine for the GTK+ platform - Debugging files
 OE: webkit-classic
 HomePage: http://www.webkitgtk.org/
 License: BSD-3-Clause & LGPL-2.0-or-later

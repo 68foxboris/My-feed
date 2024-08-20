@@ -12103,6 +12103,22 @@ OE: settings-autorestore
 License: GPL-2.0-only
 Priority: optional
 
+Package: softcam-support
+Version: 2-r0
+Recommends: update-rc.d
+Section: base
+Architecture: all
+Maintainer: PLi team
+MD5Sum: fb13ef4e97ab2d8da2fc5e5b5b937acd
+SHA256sum: 2808bb6d89b12b5f8d699d28af5936e5d37e7e18df1bb22e5c72ab1ae2655386
+Size: 888
+Filename: softcam-support_2-r0_all.ipk
+Source: softcam-support.bb
+Description: Start, stop and select softcams.
+OE: softcam-support
+License: GPL-2.0-only
+Priority: optional
+
 Package: tuxbox-common-dbg
 Version: 3+git751+4f51a820+4f51a82075-r0
 Section: devel
