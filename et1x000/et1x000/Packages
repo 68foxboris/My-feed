@@ -2808,9 +2808,9 @@ Recommends: glibc-dbg, libcurl-dbg, libxml2-dbg, zlib-dbg
 Section: devel
 Architecture: et1x000
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 99a8d0614e77767d0f40d9915b9b0cd7
-SHA256sum: a8f52abc391314ffd504704bced28c52eea1b9f2352c1246b9a9f4bb538764cd
-Size: 728
+MD5Sum: e5cb161ccc1af7bc3724de356d086ceb
+SHA256sum: ec871f8b3d378bc528929d6e780616813128d41d8a1c9c4129685cef0c7abdfe
+Size: 732
 Filename: enigma2-plugin-systemplugins-crossepg-dbg_0.9.1+gitr561+927249e0+927249e5e9-r4_et1x000.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: enigma2-plugin-systemplugins-crossepg version 0.9.1+gitr-r4 - Debugging files
@@ -2825,9 +2825,9 @@ Recommends: curl-dev, enigma2-dev, enigma2-plugin-systemplugins-crossepg (= 0.9.
 Section: devel
 Architecture: et1x000
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f32a1c01dafb93ec0d78b73c04bca8c9
-SHA256sum: 48a29ecf4c25692e94be2a1cf076edfd99f589f31ac4ae2643c5ace617dbcb9b
-Size: 790
+MD5Sum: b21d341f89961339bd23859b0979599f
+SHA256sum: 9aa30cad301d8f959078303ad6c9e19f38feefe51da8f6b63c89506cdb63e4de
+Size: 792
 Filename: enigma2-plugin-systemplugins-crossepg-dev_0.9.1+gitr561+927249e0+927249e5e9-r4_et1x000.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: enigma2-plugin-systemplugins-crossepg version 0.9.1+gitr-r4 - Development files
@@ -2841,9 +2841,9 @@ Version: 0.9.1+gitr561+927249e0+927249e5e9-r4
 Section: devel
 Architecture: et1x000
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fbe5db8040ef96734a11091542465677
-SHA256sum: 6b64bfb7ae2ab6ce6c4e29fff4340b9ff75148c65119cbcdbf55e19ce04c3c9f
-Size: 28410
+MD5Sum: f01bad6e229014b399751d14c86dfa4b
+SHA256sum: fbf07eee126068fcb2557aed614a33fd293730a7395e5f8845b861513ebe22a8
+Size: 28408
 Filename: enigma2-plugin-systemplugins-crossepg-src_0.9.1+gitr561+927249e0+927249e5e9-r4_et1x000.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: enigma2-plugin-systemplugins-crossepg version 0.9.1+gitr-r4 - Source files
@@ -2858,9 +2858,9 @@ Depends: enigma2, libc6 (>= 2.39+git0+c7c3f5bf80), libcurl4 (>= 8.8.0), libxml2 
 Section: base
 Architecture: et1x000
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0e53634a7e7c1712c60d557649990075
-SHA256sum: bd15cbe804e5e5d74e88e3fc999aba01d57af3e1a522df195d6a706399ea9706
-Size: 405216
+MD5Sum: 0321bb1e145681e044d4fbe2b7249a7e
+SHA256sum: 735cb32d2f8ba246805ca28b38a046845fbc066add2fee5154fe5b2dd39a8475
+Size: 405208
 Filename: enigma2-plugin-systemplugins-crossepg_0.9.1+gitr561+927249e0+927249e5e9-r4_et1x000.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: systemplugins-crossepg
@@ -17121,23 +17121,6 @@ OE: shadow-securetty
 License: MIT
 Priority: optional
 
-Package: stb-kodi-et1x000-dbg
-Version: 21.1-Omega-r2
-Recommends: alsa-lib-dbg, bluez5-dbg, dav1d-dbg, dbus-lib-dbg, et-v3ddriver-et1x000-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libdvdnav-dbg, libgcc-dbg, libgstpbutils-1.0-dbg, libinput-dbg, libiso9660++-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-mainloop-glib-dbg, libpulse-simple-dbg, libpython3-dbg, libsmbclient-dbg, libsqlite3-dbg, libssl-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, shairplay-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
-Section: devel
-Architecture: et1x000
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b0acc67c9c8c01ff9450354f42d50497
-SHA256sum: 10c91e5b53742563ca3b3dc38dc1bf3d7a2c429f499950183df986bdc3f73c20
-Size: 219507882
-Filename: stb-kodi-et1x000-dbg_21.1-Omega-r2_et1x000.ipk
-Source: stb-kodi-et1x000_21.bb
-Description: Kodi Media Center - Debugging files
-OE: stb-kodi-et1x000
-HomePage: https://kodi.tv/
-License: GPL-2.0-only
-Priority: optional
-
 Package: stb-kodi-et1x000-dev
 Version: 21.1-Omega-r2
 Recommends: alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dav1d-dev, dbus-lib-dev, et-dvb-modules-kodi-et1x000-dev, et-v3ddriver-et1x000-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, kodi-addon-peripheral-joystick-omega-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libdvdcss-dev, libdvdnav-dev, libdvdread-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660++-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-mainloop-glib-dev, libpulse-simple-dev, libpython3-dev, libsmbclient-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libssl-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, platform-util-et1x000-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, shairplay-dev, spdlog-dev, sqlite3-dev, stb-kodi-et1x000 (= 21.1-Omega-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
@@ -17196,9 +17179,9 @@ Recommends: boost-program-options-dbg, glibc-dbg, libgcc-dbg, libstdc++-dbg, lib
 Section: devel
 Architecture: et1x000
 Maintainer: PLi team
-MD5Sum: 735cd04b14253beec52374bdfd163341
-SHA256sum: 17610ef44942c524fc4edf1eb095980cc2d74c53ba07052fec85050ea58123cf
-Size: 1434788
+MD5Sum: 85939e878efdd5ba4dbf5058ba77946d
+SHA256sum: b8c2565f6a27ea306e6d42790595155b4de9e56bb13386f91878517360f55485
+Size: 1434782
 Filename: streamproxy-dbg_2+git148+0b4eddc0+0b4eddcc7f-r0_et1x000.ipk
 Source: streamproxy.bb
 Description: streamproxy version 2+git-r0 - Debugging files
@@ -17212,9 +17195,9 @@ Recommends: boost-dev, boost-program-options-dev, enigma2-plugin-systemplugins-t
 Section: devel
 Architecture: et1x000
 Maintainer: PLi team
-MD5Sum: c3fe8f6fba1f21a0ec6a1b6acbc6e980
-SHA256sum: e80223e2c30105a56010d19a46eda0710b4d1a5d6ce0a5b446b463ad673d0c9a
-Size: 704
+MD5Sum: ca88c15ca0d7fa39fedebd5b4d43e206
+SHA256sum: d12b81d9625ac51f4e6ce4c1ef85d7863a8fedfd3c1553df04530a69afa622e1
+Size: 702
 Filename: streamproxy-dev_2+git148+0b4eddc0+0b4eddcc7f-r0_et1x000.ipk
 Source: streamproxy.bb
 Description: streamproxy version 2+git-r0 - Development files
@@ -17229,8 +17212,8 @@ Recommends: update-rc.d
 Section: base
 Architecture: et1x000
 Maintainer: PLi team
-MD5Sum: fe4964bbed972839189644e94d204892
-SHA256sum: 57c594c17ecc585ceb9e02c591e284f789a805e89fcfcadeca1fa3fe518a5f3d
+MD5Sum: 87b71205af2a3a805e41a6c58349354c
+SHA256sum: df7ccd9cc783bc62c8f58523e84cb0e84764a6c520b7d24ec67a87c3d4b85ab3
 Size: 83252
 Filename: streamproxy_2+git148+0b4eddc0+0b4eddcc7f-r0_et1x000.ipk
 Source: streamproxy.bb
@@ -17268,23 +17251,6 @@ Size: 9608
 Filename: webkit-classic-browser_1.1+git15+6570b0b0+6570b0bb47-r0_et1x000.ipk
 Source: webkit-classic.bb
 Description: WebKit web rendering engine for the GTK+ platform
-OE: webkit-classic
-HomePage: http://www.webkitgtk.org/
-License: BSD-3-Clause & LGPL-2.0-or-later
-Priority: optional
-
-Package: webkit-classic-dbg
-Version: 1.1+git15+6570b0b0+6570b0bb47-r0
-Recommends: at-spi2-core-dbg, cairo-dbg, directfb-dbg, fontconfig-dbg, freetype-dbg, gdk-pixbuf-dbg, glib-2.0-dbg, glibc-dbg, gtk+-dbg, harfbuzz-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsoup-2.4-dbg, libsqlite3-dbg, libstdc++-dbg, libxml2-dbg, pango-dbg, zlib-dbg
-Section: devel
-Architecture: et1x000
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2cc71a575319b203f3424f703a52e768
-SHA256sum: d018b82a21d04eacf67d0b4d5fdbc75162e1010a14bc4d03b08e712f82e27d7d
-Size: 198982448
-Filename: webkit-classic-dbg_1.1+git15+6570b0b0+6570b0bb47-r0_et1x000.ipk
-Source: webkit-classic.bb
-Description: WebKit web rendering engine for the GTK+ platform - Debugging files
 OE: webkit-classic
 HomePage: http://www.webkitgtk.org/
 License: BSD-3-Clause & LGPL-2.0-or-later
