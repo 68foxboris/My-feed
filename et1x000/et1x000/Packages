@@ -2464,69 +2464,6 @@ OE: enigma2
 License: GPL-2.0-only
 Priority: optional
 
-Package: enigma2-plugin-extensions-openmultiboot-dbg
-Version: 1.3+git247+6b352000+6b352001d3-r4
-Section: devel
-Architecture: et1x000
-Maintainer: oe-alliance
-MD5Sum: d50c58d038342c63dca77165a6e38d78
-SHA256sum: 1b94533231fd5d62a381094c9ac57eaed50cb2ff2f531609765921ab39414db5
-Size: 588
-Filename: enigma2-plugin-extensions-openmultiboot-dbg_1.3+git247+6b352000+6b352001d3-r4_et1x000.ipk
-Source: enigma2-plugin-extensions-openmultiboot.bb
-Description: Multi boot loader for enigma2 - Debugging files
-OE: enigma2-plugin-extensions-openmultiboot
-License: GPL-2.0-only
-Priority: optional
-
-Package: enigma2-plugin-extensions-openmultiboot-dev
-Version: 1.3+git247+6b352000+6b352001d3-r4
-Recommends: enigma2-dev, enigma2-plugin-extensions-openmultiboot (= 1.3+git247+6b352000+6b352001d3-r4), kernel-module-nandsim-dev, lzo-dev, openmultiboot-dev, python3-dev
-Section: devel
-Architecture: et1x000
-Maintainer: oe-alliance
-MD5Sum: b1577222548321e49944db5d9824dcd5
-SHA256sum: 1ac76cc602988cab811e7370f8dd7ff1cf6715d8e61cbf94f3a9fc9de10b0110
-Size: 660
-Filename: enigma2-plugin-extensions-openmultiboot-dev_1.3+git247+6b352000+6b352001d3-r4_et1x000.ipk
-Source: enigma2-plugin-extensions-openmultiboot.bb
-Description: Multi boot loader for enigma2 - Development files
-OE: enigma2-plugin-extensions-openmultiboot
-License: GPL-2.0-only
-Priority: optional
-
-Package: enigma2-plugin-extensions-openmultiboot-po
-Version: 1.3+git247+6b352000+6b352001d3-r4
-Depends: enigma2-plugin-extensions-openmultiboot
-Section: base
-Architecture: et1x000
-Maintainer: oe-alliance
-MD5Sum: 797fa3687fc3a7392096fff62460a94a
-SHA256sum: 1d22f5c5d14dbcd8a002ab17045f50c4496f6af1687d663239bcbeb0db742ae2
-Size: 13864
-Filename: enigma2-plugin-extensions-openmultiboot-po_1.3+git247+6b352000+6b352001d3-r4_et1x000.ipk
-Source: enigma2-plugin-extensions-openmultiboot.bb
-Description: extensions-openmultiboot (translations)
-OE: enigma2-plugin-extensions-openmultiboot
-License: GPL-2.0-only
-Priority: optional
-
-Package: enigma2-plugin-extensions-openmultiboot
-Version: 1.3+git247+6b352000+6b352001d3-r4
-Depends: enigma2, kernel-module-nandsim, lzo, openmultiboot
-Section: base
-Architecture: et1x000
-Maintainer: oe-alliance
-MD5Sum: bb937048fa7c0504a346733c2a5e9a5a
-SHA256sum: ac3c4caaa1c5cebffb2808be5c7b6e077404a4c96857b674f26c50299f176a7d
-Size: 487418
-Filename: enigma2-plugin-extensions-openmultiboot_1.3+git247+6b352000+6b352001d3-r4_et1x000.ipk
-Source: enigma2-plugin-extensions-openmultiboot.bb
-Description: extensions-openmultiboot
-OE: enigma2-plugin-extensions-openmultiboot
-License: GPL-2.0-only
-Priority: optional
-
 Package: enigma2-plugin-extensions-pictureplayer-src
 Version: 3.12+git422+484c6900+484c690026-r0
 Section: base
@@ -15947,15 +15884,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: openmultiboot-dbg
-Version: 1.3+git124+fd923630+fd92363885-r1
+Version: 1.0+git124+fd923630+fd92363885-r0
 Recommends: freetype-dbg, glibc-dbg, json-c-dbg
 Section: devel
 Architecture: et1x000
 Maintainer: oe-alliance
-MD5Sum: 27b6e94c00663c1810313e2c8722a38d
-SHA256sum: 544b6eaa908e8c5da87d427e53728131b2d8e6356a6a85e9d1d62c29ea571dfd
-Size: 117934
-Filename: openmultiboot-dbg_1.3+git124+fd923630+fd92363885-r1_et1x000.ipk
+MD5Sum: 4edacf51c5ab1d47ae097adfe249a075
+SHA256sum: 98ad3cf27c9f061500396c41b736cc260945cda5cdb2284ef5f0ade95d430b65
+Size: 117898
+Filename: openmultiboot-dbg_1.0+git124+fd923630+fd92363885-r0_et1x000.ipk
 Source: openmultiboot.bb
 Description: Multi boot loader for enigma2 - Debugging files
 OE: openmultiboot
@@ -15963,15 +15900,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: openmultiboot-dev
-Version: 1.3+git124+fd923630+fd92363885-r1
-Recommends: freetype-dev, glibc-dev, json-c-dev, openmultiboot (= 1.3+git124+fd923630+fd92363885-r1)
+Version: 1.0+git124+fd923630+fd92363885-r0
+Recommends: freetype-dev, glibc-dev, json-c-dev, openmultiboot (= 1.0+git124+fd923630+fd92363885-r0)
 Section: devel
 Architecture: et1x000
 Maintainer: oe-alliance
-MD5Sum: cead1e28b416b03127dccaab84d3b26a
-SHA256sum: 7ad6af579d1043c0885ce4f4d47bfa4ab76ffd4d1fb1a0a7fad2604dd674caf0
-Size: 630
-Filename: openmultiboot-dev_1.3+git124+fd923630+fd92363885-r1_et1x000.ipk
+MD5Sum: 1b42f45821ddbbd2d6ebc9b89350dc10
+SHA256sum: b5dbc729922cb939d92ec622c306fbe5cb93fe7a00066a16cfe3edaeba2db7a5
+Size: 628
+Filename: openmultiboot-dev_1.0+git124+fd923630+fd92363885-r0_et1x000.ipk
 Source: openmultiboot.bb
 Description: Multi boot loader for enigma2 - Development files
 OE: openmultiboot
@@ -15979,15 +15916,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: openmultiboot
-Version: 1.3+git124+fd923630+fd92363885-r1
+Version: 1.0+git124+fd923630+fd92363885-r0
 Depends: libc6 (>= 2.40+git0+6daa771045), libfreetype6 (>= 2.13.3), libjson-c5 (>= 0.17)
 Section: base
 Architecture: et1x000
 Maintainer: oe-alliance
-MD5Sum: a10f8979ba393ed43ab9cb53e1a7dc46
-SHA256sum: 51d3b0bd04d1c20f38dba35e4e4982ee96a3cc589b5c60f7dae05b7798636f83
-Size: 46508
-Filename: openmultiboot_1.3+git124+fd923630+fd92363885-r1_et1x000.ipk
+MD5Sum: 067367ca78865b64cc66bd54b9fc8b87
+SHA256sum: 937f444c318935e3b58936abb818c286aa2be501b5d51adfedf8f938cd317c50
+Size: 44940
+Filename: openmultiboot_1.0+git124+fd923630+fd92363885-r0_et1x000.ipk
 Source: openmultiboot.bb
 Description: Multi boot loader for enigma2
 OE: openmultiboot
@@ -16913,23 +16850,6 @@ OE: shadow-securetty
 License: MIT
 Priority: optional
 
-Package: stb-kodi-et1x000-dbg
-Version: 21.1-Omega-r2
-Recommends: alsa-lib-dbg, bluez5-dbg, dav1d-dbg, dbus-lib-dbg, et-v3ddriver-et1x000-dbg, fmt-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libdvdnav-dbg, libgcc-dbg, libgstpbutils-1.0-dbg, libinput-dbg, libiso9660++-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-mainloop-glib-dbg, libpulse-simple-dbg, libpython3-dbg, libsmbclient-dbg, libsqlite3-dbg, libssl-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, shairplay-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
-Section: devel
-Architecture: et1x000
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 055113b262bb26c4ec1ee41ad0370371
-SHA256sum: 61a812ca1fdf43751d35a805fa35e57a611a3fae00805f7cfeb5005ab512cd2f
-Size: 217373592
-Filename: stb-kodi-et1x000-dbg_21.1-Omega-r2_et1x000.ipk
-Source: stb-kodi-et1x000_21.bb
-Description: Kodi Media Center - Debugging files
-OE: stb-kodi-et1x000
-HomePage: https://kodi.tv/
-License: GPL-2.0-only
-Priority: optional
-
 Package: stb-kodi-et1x000-dev
 Version: 21.1-Omega-r2
 Recommends: alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dav1d-dev, dbus-lib-dev, et-dvb-modules-kodi-et1x000-dev, et-v3ddriver-et1x000-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, kodi-addon-peripheral-joystick-omega-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libdvdcss-dev, libdvdnav-dev, libdvdread-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660++-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-mainloop-glib-dev, libpulse-simple-dev, libpython3-dev, libsmbclient-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libssl-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, platform-util-et1x000-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, shairplay-dev, spdlog-dev, sqlite3-dev, stb-kodi-et1x000 (= 21.1-Omega-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
@@ -17060,23 +16980,6 @@ Size: 9604
 Filename: webkit-classic-browser_1.1+git15+6570b0b0+6570b0bb47-r0_et1x000.ipk
 Source: webkit-classic.bb
 Description: WebKit web rendering engine for the GTK+ platform
-OE: webkit-classic
-HomePage: http://www.webkitgtk.org/
-License: BSD-3-Clause & LGPL-2.0-or-later
-Priority: optional
-
-Package: webkit-classic-dbg
-Version: 1.1+git15+6570b0b0+6570b0bb47-r0
-Recommends: at-spi2-core-dbg, cairo-dbg, directfb-dbg, fontconfig-dbg, freetype-dbg, gdk-pixbuf-dbg, glib-2.0-dbg, glibc-dbg, gtk+-dbg, harfbuzz-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsoup-2.4-dbg, libsqlite3-dbg, libstdc++-dbg, libxml2-dbg, pango-dbg, zlib-dbg
-Section: devel
-Architecture: et1x000
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 68e7f348993d10af4cead94b214b004d
-SHA256sum: 592bfe4a31db971f6d349846224d4eb0aac75cff1219bdd587cc670200c2b9e3
-Size: 199022210
-Filename: webkit-classic-dbg_1.1+git15+6570b0b0+6570b0bb47-r0_et1x000.ipk
-Source: webkit-classic.bb
-Description: WebKit web rendering engine for the GTK+ platform - Debugging files
 OE: webkit-classic
 HomePage: http://www.webkitgtk.org/
 License: BSD-3-Clause & LGPL-2.0-or-later
