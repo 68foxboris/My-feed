@@ -2658,14 +2658,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-iptv-org-playlists-dbg
-Version: 1.0+git9+270d8490+270d849704-r0
+Version: 1.0+git10+4d0456a0+4d0456a218-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 316766b790853513143f31f9411e92f5
-SHA256sum: 4bf06d164c305c675006a6d608e5ed83e51a50339010482598106b1a8aa06fc4
-Size: 646
-Filename: enigma2-plugin-extensions-iptv-org-playlists-dbg_1.0+git9+270d8490+270d849704-r0_all.ipk
+MD5Sum: 3d1b8e655ceefff3ccd2b0225a8946e2
+SHA256sum: 36f47e12ee70076ca90f18ed9611a94aeb21ee505904a62d891013a80d1fe235
+Size: 644
+Filename: enigma2-plugin-extensions-iptv-org-playlists-dbg_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
 Description: enigma2-plugin-extensions-iptv-org-playlists version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-extensions-iptv-org-playlists
@@ -2674,15 +2674,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-iptv-org-playlists-dev
-Version: 1.0+git9+270d8490+270d849704-r0
-Recommends: enigma2-plugin-extensions-iptv-org-playlists (= 1.0+git9+270d8490+270d849704-r0), python3-requests-dev
+Version: 1.0+git10+4d0456a0+4d0456a218-r0
+Recommends: enigma2-plugin-extensions-iptv-org-playlists (= 1.0+git10+4d0456a0+4d0456a218-r0), python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 8f054c52055f857980ee7a99e469bdc3
-SHA256sum: 5aed8efcbba3d6f5750ddc0c50f7992afa4a4d66cc124a8de4b7e9b2f67400a6
+MD5Sum: 9042aa2e1ab1e16eb5bb647a50fdcbf9
+SHA256sum: 59fa90686ece492878735be876e9b7c5a6e8071e9382ffd5790e732ffdb70812
 Size: 694
-Filename: enigma2-plugin-extensions-iptv-org-playlists-dev_1.0+git9+270d8490+270d849704-r0_all.ipk
+Filename: enigma2-plugin-extensions-iptv-org-playlists-dev_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
 Description: enigma2-plugin-extensions-iptv-org-playlists version 1.0+git-r0 - Development files
 OE: enigma2-plugin-extensions-iptv-org-playlists
@@ -2691,14 +2691,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-iptv-org-playlists-src
-Version: 1.0+git9+270d8490+270d849704-r0
+Version: 1.0+git10+4d0456a0+4d0456a218-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 476458b692892f7f0501b193fd56c540
-SHA256sum: 2fc0b7421e80425f1078fd63333aa50ff82f469f20e5f6b01aa905b82f6cba9e
-Size: 7154
-Filename: enigma2-plugin-extensions-iptv-org-playlists-src_1.0+git9+270d8490+270d849704-r0_all.ipk
+MD5Sum: 56e53419c688df5cb527eb494c83f928
+SHA256sum: df62230bb4aab7f9b7ec3ec6d899051f078b89c615ba6eb58ed20098c85413a3
+Size: 7208
+Filename: enigma2-plugin-extensions-iptv-org-playlists-src_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
 Description: enigma2-plugin-extensions-iptv-org-playlists version 1.0+git-r0 - Source files
 OE: enigma2-plugin-extensions-iptv-org-playlists
@@ -2707,15 +2707,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-iptv-org-playlists
-Version: 1.0+git9+270d8490+270d849704-r0
+Version: 1.0+git10+4d0456a0+4d0456a218-r0
 Depends: python3-requests
 Section: base
 Architecture: all
 Maintainer: Huevos
-MD5Sum: f1b476c4996b8b26131600eeb1db3ac7
-SHA256sum: d4436a9942a6bcb47c53a239b971e8c44b557184430ca3422523c9596e4a412d
-Size: 23682
-Filename: enigma2-plugin-extensions-iptv-org-playlists_1.0+git9+270d8490+270d849704-r0_all.ipk
+MD5Sum: af25af3b8be511088cbe45bba8e67d68
+SHA256sum: 2aeb444a09e7ff5461ca8955ff5b07069a74cb7d2fbd370ff966ca88c6abcae7
+Size: 23916
+Filename: enigma2-plugin-extensions-iptv-org-playlists_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
 Description: enigma2-plugin-extensions-iptv-org-playlists version 1.0+git-r0
 OE: enigma2-plugin-extensions-iptv-org-playlists
@@ -7581,14 +7581,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dbg
-Version: 1.0+git40+9d462120+9d46212a72-r0
+Version: 1.0+git41+7d492180+7d492181b3-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: fe2232c0b3b784608b55a257fb1ad533
-SHA256sum: f623d417ff8542d203728ec5f5cad2cac109c66cd2748efb4e94792c5de33aa2
-Size: 620
-Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git40+9d462120+9d46212a72-r0_all.ipk
+MD5Sum: 5bd947cc86699a067b6094b0d9f4cee5
+SHA256sum: 55e68288531a0e41f96a7bffddda9352c3b15d59b8445f3e031eba2bca130738
+Size: 622
+Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git41+7d492180+7d492181b3-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7597,15 +7597,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dev
-Version: 1.0+git40+9d462120+9d46212a72-r0
-Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git40+9d462120+9d46212a72-r0)
+Version: 1.0+git41+7d492180+7d492181b3-r0
+Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git41+7d492180+7d492181b3-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 688b3ec9bd12f8a25abd28f1c14f21e1
-SHA256sum: 9c28d6ddb65bee627d2b07a1bf6aff2cb58d5d531a5c4ecfdeaa1fce93154ed0
-Size: 654
-Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git40+9d462120+9d46212a72-r0_all.ipk
+MD5Sum: 2e7c5fae6ca6f07904dc2d8e3b79d50c
+SHA256sum: 3dbe67c975eb17c191ed3a9cd616d2c2e101f583686b3ddea5bd59e2af81f391
+Size: 658
+Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git41+7d492180+7d492181b3-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Development files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7614,14 +7614,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-src
-Version: 1.0+git40+9d462120+9d46212a72-r0
+Version: 1.0+git41+7d492180+7d492181b3-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 8bb725735792a19a564769ffe999e6d7
-SHA256sum: c49fc237bdaecafd0f4c69b2b222c6be5f338547059bb47bd169cc5e1a5bae75
-Size: 11710
-Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git40+9d462120+9d46212a72-r0_all.ipk
+MD5Sum: 566e15d0ca3a64109c19631e801111b9
+SHA256sum: 4f7d51f0792a39b80e8139e422009dd8a8e607e16393a1d741ab2956d3b6cc44
+Size: 11770
+Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git41+7d492180+7d492181b3-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Source files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7630,14 +7630,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv
-Version: 1.0+git40+9d462120+9d46212a72-r0
+Version: 1.0+git41+7d492180+7d492181b3-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 27529efca8c1352493cd4d011254d160
-SHA256sum: 789d622b7fc1935a3022bb59ce1585d982a54958626e58b0a2bb4dd5cd727450
-Size: 27264
-Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git40+9d462120+9d46212a72-r0_all.ipk
+MD5Sum: ecbd6518a9dccb63d772645785c05f51
+SHA256sum: 040098396062c70ae9ba78199f3e27f79086936b70bcaf9428f9c1e6319ec564
+Size: 27330
+Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git41+7d492180+7d492181b3-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -12587,14 +12587,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 3+git771+3be54b80+3be54b840a-r0
+Version: 3+git772+142582b0+142582b629-r0
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: a2c7fa135aa2cb84aeb144f0d17cce73
-SHA256sum: 66719b201f2707909efd95917574092612b35002a374ddcf111ca3181203dc35
+MD5Sum: ad2cb6997ef76d3a23efc31aebc24d84
+SHA256sum: 532e2331c7c4cf37b5f86b97dd670cab9e0a9101012fac54de7c5b2f21d4eb61
 Size: 568
-Filename: tuxbox-common-dbg_3+git771+3be54b80+3be54b840a-r0_all.ipk
+Filename: tuxbox-common-dbg_3+git772+142582b0+142582b629-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Debugging files
 OE: tuxbox-common
@@ -12602,15 +12602,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 3+git771+3be54b80+3be54b840a-r0
-Recommends: tuxbox-common (= 3+git771+3be54b80+3be54b840a-r0), xz-dev
+Version: 3+git772+142582b0+142582b629-r0
+Recommends: tuxbox-common (= 3+git772+142582b0+142582b629-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: d0df06f861187c54a2a5c1a4897b0a75
-SHA256sum: d8ea49d8398b11d9695b995486734873040a25ae811ad18789ce692873887607
-Size: 608
-Filename: tuxbox-common-dev_3+git771+3be54b80+3be54b840a-r0_all.ipk
+MD5Sum: a1f64ab869ede84a1df77baf9b8a4c92
+SHA256sum: 15b3422cca19a643f4287013502042f6fc6a49ee08e64d4631263f143383e0a3
+Size: 610
+Filename: tuxbox-common-dev_3+git772+142582b0+142582b629-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Development files
 OE: tuxbox-common
@@ -12618,15 +12618,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common
-Version: 3+git771+3be54b80+3be54b840a-r0
+Version: 3+git772+142582b0+142582b629-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 4e094141b9e0f715a5deb21d83d2575e
-SHA256sum: a05ffe0566f408fb33e97e244480377a7c86a69eb3699d2542371e850866bba9
-Size: 72820
-Filename: tuxbox-common_3+git771+3be54b80+3be54b840a-r0_all.ipk
+MD5Sum: 0ff82563e3e973306ec5e08ac5b07e1f
+SHA256sum: b71a2553c434e945c65b5227d6330fd6417fc16a9a57e7bc259f88f1712481be
+Size: 72796
+Filename: tuxbox-common_3+git772+142582b0+142582b629-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0
 OE: tuxbox-common
