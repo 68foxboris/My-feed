@@ -7696,12 +7696,13 @@ Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv
 Version: 1.0+git103+eec4d4b0+eec4d4b5ad-r0
+Recommends: enigma2-plugin-extensions-tmdb
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 8f19befba8b581dfb4a5468d37e59f1c
-SHA256sum: 4ac797ad3bf4e3a2f8e867e722604a217b697bb7c5a5e493ed4e8fb74273e99f
-Size: 61974
+MD5Sum: c184906a4289721f27ff82e049aa0c34
+SHA256sum: d6a4437aa8fa93dba11160b07ff606cc0e5f6ae473e8d6ac7a39657b55b93be9
+Size: 61994
 Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git103+eec4d4b0+eec4d4b5ad-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0
