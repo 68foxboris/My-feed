@@ -9,16 +9,16 @@ vuduo2
 
 
 duo4kSE   
-https://drive.google.com/file/d/12m8sVpRaaYv3u3_tQ4bM13BhY-UycXJL/view?usp=sharing
+
 
 h9combo   
-https://drive.google.com/file/d/1FBvjDHfJj411IjYWzPHXWtgrD1Bhd1qi/view?usp=sharing
+https://drive.google.com/file/d/1J8NHHaEXVRTcjvVhzHaBvyAuxTxD4HJ3/view?usp=sharing
 
 et11000
-https://drive.google.com/file/d/1-e2mTmYAtDGUpnWd0828cTOvURWJJc8A/view?usp=sharing
+https://drive.google.com/file/d/1LyNkkZ1Ku2WOUNXJATxJzwICyvwH25de/view?usp=sharing
 
 pulse4Kmini
-https://drive.google.com/file/d/1n5_lP3NeiKmLC1ga5c2jB30gGbHkJK1l/view?usp=sharing
+https://drive.google.com/file/d/1T0i6tCA-JHiEppvxaJonQ_7w6ZqtDUkq/view?usp=sharing
 
 sf8008
 
