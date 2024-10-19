@@ -12,19 +12,19 @@ vuduo2
 
 
 vuultimo4k
-https://drive.google.com/file/d/1iOaXyHDv3dBwgs4Z1KCTuZba7jiZOdRP/view?usp=sharing
+
 
 duo4kSE   
 
 
 h9combo   
-https://drive.google.com/file/d/1jzwq8FdMtPeLbQdZuj9cO0JHeWZjIhmi/view?usp=sharing
+
 
 et11000
-https://drive.google.com/file/d/1vqa5YcpBUGIwpi6y8h3o-QdCMZF-LgsX/view?usp=sharing
+
 
 pulse4Kmini
-https://drive.google.com/file/d/12dIFnhgiqy-EIRGRHsmK8TO3sr9YvzGh/view?usp=sharing
+
 
 sf8008
 
@@ -33,4 +33,4 @@ hd51
 
 
 dm920
-https://drive.google.com/file/d/1uJLPlqBfPArtbeMOjqNtghUWKBXIAy37/view?usp=sharing
+
