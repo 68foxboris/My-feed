@@ -16850,23 +16850,6 @@ OE: shadow-securetty
 License: MIT
 Priority: optional
 
-Package: stb-kodi-et1x000-dbg
-Version: 22-Piers-r0
-Recommends: alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, et-v3ddriver-et1x000-dbg, exiv2-dbg, fmt-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glibc-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libgcc-dbg, libinput-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre2-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-simple-dbg, libpython3-dbg, libsqlite3-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
-Section: devel
-Architecture: et1x000
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 84c36f6ffda9530ac80eb65a7cfbbc79
-SHA256sum: 64391539a8acff09dc03ca232e3e08efe333616327306688a0bd400c408d97f4
-Size: 227324126
-Filename: stb-kodi-et1x000-dbg_22-Piers-r0_et1x000.ipk
-Source: stb-kodi-et1x000_22.bb
-Description: Kodi Media Center - Debugging files
-OE: stb-kodi-et1x000
-HomePage: https://kodi.tv/
-License: GPL-2.0-only
-Priority: optional
-
 Package: stb-kodi-et1x000-dev
 Version: 22-Piers-r0
 Recommends: alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dbus-lib-dev, et-dvb-modules-kodi-et1x000-dev, et-v3ddriver-et1x000-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gnutls-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libdvdcss-dev, libdvdnav-dev, libdvdread-dev, libgcc-dev, libinput-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre2-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-simple-dev, libpython3-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, mpeg2dec-dev, platform-util-et1x000-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, spdlog-dev, sqlite3-dev, stb-kodi-et1x000 (= 22-Piers-r0), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
@@ -16997,23 +16980,6 @@ Size: 9604
 Filename: webkit-classic-browser_1.1+git15+6570b0b0+6570b0bb47-r0_et1x000.ipk
 Source: webkit-classic.bb
 Description: WebKit web rendering engine for the GTK+ platform
-OE: webkit-classic
-HomePage: http://www.webkitgtk.org/
-License: BSD-3-Clause & LGPL-2.0-or-later
-Priority: optional
-
-Package: webkit-classic-dbg
-Version: 1.1+git15+6570b0b0+6570b0bb47-r0
-Recommends: at-spi2-core-dbg, cairo-dbg, directfb-dbg, fontconfig-dbg, freetype-dbg, gdk-pixbuf-dbg, glib-2.0-dbg, glibc-dbg, gtk+-dbg, harfbuzz-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsoup-2.4-dbg, libsqlite3-dbg, libstdc++-dbg, libxml2-dbg, pango-dbg, zlib-dbg
-Section: devel
-Architecture: et1x000
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 59491ed2be5a91b8d9fad2da7dac911b
-SHA256sum: ea8329a611aee54b87a33b17effae57ea0248ed110631636e39f13bdb45aae89
-Size: 199008334
-Filename: webkit-classic-dbg_1.1+git15+6570b0b0+6570b0bb47-r0_et1x000.ipk
-Source: webkit-classic.bb
-Description: WebKit web rendering engine for the GTK+ platform - Debugging files
 OE: webkit-classic
 HomePage: http://www.webkitgtk.org/
 License: BSD-3-Clause & LGPL-2.0-or-later
