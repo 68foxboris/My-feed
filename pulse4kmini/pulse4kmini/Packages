@@ -766,9 +766,9 @@ Conflicts: enigma-kernel-module
 Section: base
 Architecture: pulse4kmini
 Maintainer: OpenPLi team
-MD5Sum: 292c2d164b9f5081a91480b2b99c2d5a
-SHA256sum: 19633f69f81f8084dc8812271e40e8d5bc65097185ca6d45cd4e99381623628a
-Size: 1338
+MD5Sum: fddbf520853ac15c72786e8696db47b4
+SHA256sum: 4db2112b74b5128d99e5ca72507554cc71cb7488fe0ab46ad1ceaba97f7202dd
+Size: 1332
 Filename: enigma-info_20241110-r0_pulse4kmini.ipk
 Source: enigma-info.bb
 Description: enigma.info used by BoxInfo
@@ -14359,9 +14359,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0cb5ac6675f64ddc3e6bd0a9fe45f8ce
-SHA256sum: af14fe9060bc76fd9aa4c5057001dfd1610cb2b480b8eec66785a6b45622eeab
-Size: 2019044
+MD5Sum: 815a93cc63f30c4408b3d6980532d7e0
+SHA256sum: 78e4307a67b8482d190047c486c719f408b8befcde5e3a95deb2e53c136ab97b
+Size: 2019070
 Filename: kodi-addon-pvr-argustv_22.2.0+git0+e7b832923c-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-argustv.bb
 Description: Kodi Media Center PVR plugins
@@ -14407,9 +14407,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1170aac28e36b975866e2d957cf2fb06
-SHA256sum: a4c505db120dfdb3a3c25876ad37951af215e324550d90a80409c2dd5fb3effe
-Size: 863054
+MD5Sum: 44767bad59a3dfa717ce73f4be95a77b
+SHA256sum: da3902e575f7e5dd78d088fe6d08b8e9fdb29f66c13b23bef33bf01da4f4a235
+Size: 863200
 Filename: kodi-addon-pvr-demo_22.4.0+git0+c2f610fee1-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins
@@ -14423,9 +14423,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3eeadf9780e16e6ac86a9fe36d4c8c5d
-SHA256sum: 0352019edb675f54c93dc960e7d7fbe9d9229e8df6c39753a7de1b5dceed7c78
-Size: 2024442
+MD5Sum: fae668bdb20fb0a1ca38c01d69e34454
+SHA256sum: 5b97d443bce41c4d8bd13508ea11842bc3b54b8486ada2c807e19b2374781220
+Size: 2024444
 Filename: kodi-addon-pvr-dvblink-dbg_22.2.0+git0+98e63d10fa-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14455,9 +14455,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 90777c657c423640c6673ed9b982dec0
-SHA256sum: ecf20778b406ba4a35d1873adf0b3f6282e14e58550a41fa5c7235e43727e2d9
-Size: 7113430
+MD5Sum: dbaa0b9bd9b9f8033da6781bea6d2fce
+SHA256sum: e6196398825e6f9f1b0c0d6c82bdcdc4bc3f422c5e06509ba98faab0aacea2b7
+Size: 7113314
 Filename: kodi-addon-pvr-dvblink_22.2.0+git0+98e63d10fa-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins
@@ -14471,8 +14471,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c61df9324dbef57e06004248d3d889a5
-SHA256sum: 338fdc5db023252048e0a3f963a007ea518307935280642e455360987fdc09e1
+MD5Sum: 5cabbaf9fd2a93b039bd11e61d95dbba
+SHA256sum: bef0902b7cb69814a5e5ad63844babc5de27e09cdc1221c9a25d5f4d184971a3
 Size: 1516926
 Filename: kodi-addon-pvr-dvbviewer-dbg_22.2.0+git0+390a9507ce-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
@@ -14503,9 +14503,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d5d6184c7107cf612cdf8b1f975e2782
-SHA256sum: b03f85af01a9dab5c0c355a7d83ccf01528242bfbc6d1dea7adc29c4225ac6fc
-Size: 3202116
+MD5Sum: 32c8a9a47d74ed1f0390c24ef1ee8dc2
+SHA256sum: 0ebdabe48479b456e50626b51a5f85b709ff3d05f2e731ade9d836c3c2e622e9
+Size: 2000462
 Filename: kodi-addon-pvr-dvbviewer_22.2.0+git0+390a9507ce-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
 Description: Kodi Media Center PVR plugins
@@ -14551,9 +14551,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7875e7256b4e9c1d0145c61119531834
-SHA256sum: 1c0d414b15f3a2e784dd4ca8c1ec48efc4606c58d37226ec7e2bc17df464345c
-Size: 892100
+MD5Sum: 20b24ac096bc560aef5cfb6ffef2c0e0
+SHA256sum: 6056b8bffc0b9b7d2a0f1c6724d2a60a5f7d08affd881a87aaad881718bec51f
+Size: 892092
 Filename: kodi-addon-pvr-filmon_22.2.0+git0+7b8d28b3a4-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-filmon.bb
 Description: Kodi Media Center PVR plugins
@@ -14567,8 +14567,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4dc4ce805ada825577a83d601021e15a
-SHA256sum: 19b0d24a12cea805d8db2b06d7cd5b41482526d163d24edcc05ed83cba0fbeb2
+MD5Sum: a6f50971258d11561517f91b64cbf02e
+SHA256sum: 876b5c2eec792dc70d13e18a55c4b140c7586abdaa9433274dd062699c34c3dc
 Size: 3032110
 Filename: kodi-addon-pvr-hts-dbg_22.5.0+git0+54ef280632-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-hts.bb
@@ -14599,9 +14599,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ce63f762eb56df03849b6fd42b5fab7e
-SHA256sum: e0194cb4082ccb710469aff855183af7876f2bc67357645ba5930b077e7bacce
-Size: 10106080
+MD5Sum: 7e91ca892daff68521042dfcbacf1a4c
+SHA256sum: f7dde9f448bafc780e091f4f8a335b7fd93a7f4613a3306e5532a8c5c2584e13
+Size: 10106226
 Filename: kodi-addon-pvr-hts_22.5.0+git0+54ef280632-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins
@@ -14647,9 +14647,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: da5255bf0739293cd5061128ad51ffb3
-SHA256sum: c962b255a39d7cbddf44e9e1a480d8fc4558714279fcf36caf8ca77ca942a8ba
-Size: 18668182
+MD5Sum: ad4b8a82b7f4e6447a4398efd4dfe254
+SHA256sum: 77f2fa5712c84878185e72f17a6f70a4bebbd071325f56da681876c9f2585617
+Size: 18668260
 Filename: kodi-addon-pvr-iptvsimple_22.3.0+git0+cbd3294ca1-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
@@ -14663,8 +14663,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg, zlib-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5a6df00f61b49b12b0793d62a4701e55
-SHA256sum: fcb4f1eee1444f7f0e6c9060a65b8d7f64ca9cc30290f4f0ea3ba35e261ca487
+MD5Sum: 2d7d46c92b409de18e188dc884614d18
+SHA256sum: 2fef29f46d5519df97d50f06c9917ff38a1ce9b721f117a331bc28da712420a7
 Size: 3293870
 Filename: kodi-addon-pvr-nextpvr-dbg_22.3.0+git0+9bf83f5939-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-nextpvr.bb
@@ -14695,9 +14695,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a5c7e48b5194ff07880c21f31f63f55e
-SHA256sum: 8dfad13d614508efcd7aeb2c3bd60c72b8a4fab1249593906f9bf24e890ff65b
-Size: 11050322
+MD5Sum: 0ab814974c489b2c8e12e93cb5a54bbc
+SHA256sum: 35b382d024a9a9e4f54a6f30b253f34b85aae5333fc11cfe18a4739926b9cee5
+Size: 11050502
 Filename: kodi-addon-pvr-nextpvr_22.3.0+git0+9bf83f5939-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins
@@ -14743,9 +14743,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3b89733d1a8c456beeaf417da7a80d38
-SHA256sum: cc5c2a5bed5593cbae88d82b3f51e6553bc2adcf485f3170d92205b58a814402
-Size: 430484
+MD5Sum: 89d3f2653fe9b59abaa692d7312316a5
+SHA256sum: 4091e65a0e341b6e7157426377d2060a5b49f2cb0191ab3c6324b083f062013c
+Size: 430430
 Filename: kodi-addon-pvr-njoy_22.2.0+git0+25088daf72-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-njoy.bb
 Description: Kodi Media Center PVR plugins
@@ -14791,9 +14791,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 64ea0698e08ab349fe70b488e37d8055
-SHA256sum: 1921937f183bd39e5cbafc2f973218fe0f1d779f67d45eb24621cf0a05a9d036
-Size: 909594
+MD5Sum: 99614da38152d693b6365fd044991e5f
+SHA256sum: 288f00fe6473a079b5099bc4c78cbd46c2421383d9ee1af9430398d5aa58cbb5
+Size: 909602
 Filename: kodi-addon-pvr-pctv_22.2.0+git0+19a470e927-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-pctv.bb
 Description: Kodi Media Center PVR plugins
@@ -14839,9 +14839,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 00c870a0d8c57e75e950e75f0fd7da75
-SHA256sum: b168ca4b56f9a99029d8bb642764ae468714c62ed7d707bd11cc4f5212de0483
-Size: 5298600
+MD5Sum: 88efe4a7ebf3e26d48c63a588b7e4688
+SHA256sum: 12a1927b338094a376f3f40cce031cd7ad21fdf170ababb55041a633b4da3d6a
+Size: 5298620
 Filename: kodi-addon-pvr-vbox_22.2.0+git0+25909cefd9-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins
@@ -14887,9 +14887,9 @@ Depends: abcom-mali-3798mv200 (>= 1.0), libc6 (>= 2.40+git0+7073164add), libgcc1
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f60b69bf64e4391a3826871685ff7cca
-SHA256sum: 34ecab7460090b22754b248f10c75848a9506f0be21ebc63f314c9cb71033a67
-Size: 3917798
+MD5Sum: ceba0974a01bdc36d57a763666eacbeb
+SHA256sum: 17bd8c2828b00f8f070226068bd86758ca26265acf7509af773c694526919628
+Size: 3917800
 Filename: kodi-addon-pvr-vdr.vnsi_22.2.0+git0+724f744646-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
 Description: Kodi Media Center PVR plugins
@@ -14903,9 +14903,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fe1d3df97889a4b40e71187ccc92a6ab
-SHA256sum: 7d6671bb6cb8a257e5c03f1706a113a9b680dfcc6ff459bc37ea45e112af926d
-Size: 8340698
+MD5Sum: 93de2021eb16ad1c80548a70abc09da5
+SHA256sum: ebd406afa5ddaa27922eb38c84c97459e27f94eaeaf600c1d1a7bea98f72a7e6
+Size: 8340696
 Filename: kodi-addon-pvr-vuplus-dbg_22.2.0+git0+1606537fde-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14935,9 +14935,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c9ed7e50cb055312b42ee397b509d758
-SHA256sum: cd7af9192cd7224d1123db15f386fc88c7a0d1265db4cb759096a717a870929f
-Size: 29011948
+MD5Sum: 27a3e30aee2c2c84fff777422482a412
+SHA256sum: bf5b8aac6a16fb11ca5fdbf10d09778dd2873a4aeb315780374fc79a80338070
+Size: 29012204
 Filename: kodi-addon-pvr-vuplus_22.2.0+git0+1606537fde-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins
@@ -14951,9 +14951,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ae3d31ddbf5c578b225a1a49ea8b202d
-SHA256sum: 9c32ba510345b6164aff722549e95a06f730f8f457c2c27d45f14b9205b15b7d
-Size: 786574
+MD5Sum: af424e4e71e17f9afce7ae10802f3859
+SHA256sum: 4d62ba87769829a818cc766d9e1fd3c72a9532615516d297acb9bbea1ac2e57d
+Size: 786578
 Filename: kodi-addon-pvr-wmc-dbg_22.2.0+git0+36686b6e31-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14983,9 +14983,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7aa61344af448435f1c4d690529ed836
-SHA256sum: 7500e3edca2feb673fc14cf4e57173235b7024d15635e54aa6e9610fb20c1121
-Size: 1209384
+MD5Sum: 2121a29474d2c22402ad07f5b1086db2
+SHA256sum: e3f349dd4e624879bf10fad6fd0e6b814cc55c29336fa8d1a105047ce1611247
+Size: 1209506
 Filename: kodi-addon-pvr-wmc_22.2.0+git0+36686b6e31-r0_pulse4kmini.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins
@@ -17121,9 +17121,9 @@ Recommends: abcom-mali-3798mv200-dbg, alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, ex
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ee60da09920028c9fe9dc2978bf8f864
-SHA256sum: a5ebca08bbd99149bc398e491878961be5621a5df1fa1a3e9bbb02519177d679
-Size: 227291128
+MD5Sum: 5210cae467e43fd3f6c22f9a047a6913
+SHA256sum: 17ab015138fc07a963d3c1f569d880e9686dc8b4174bf27e8f8c22c8bbe49dee
+Size: 227303316
 Filename: stb-kodi-pulse4kmini-dbg_22-Piers-r0_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_22.bb
 Description: Kodi Media Center - Debugging files
@@ -17138,9 +17138,9 @@ Recommends: abcom-mali-3798mv200-dev, alsa-lib-dev, avahi-dev, bluez5-dev, bzip2
 Section: devel
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4981e10cbcb14c296a874bd8be7f10e0
-SHA256sum: 4bb61be77aa4ba1c01287d8cb990fa14ccde1d384fd90b4b59475e4790b179d0
-Size: 294044
+MD5Sum: 2275f3a19731dae0b18b539f04138f84
+SHA256sum: 9e28818c4e5b29d1f7839f91ed99046732234d59bb3e9cc531e41f73ac064463
+Size: 294028
 Filename: stb-kodi-pulse4kmini-dev_22-Piers-r0_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_22.bb
 Description: Kodi Media Center - Development files
@@ -17154,8 +17154,8 @@ Version: 22-Piers-r0
 Section: doc
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d25bc144f17d757711f634a0c3c96d80
-SHA256sum: bcc903aa39e5b7a489cd706cc2276b8289071bcd3d24a8a2d9f7142b1547853b
+MD5Sum: 050b32f2958d1dc05a02a9bd3799d89a
+SHA256sum: cc0d0a243a6b493b1d134257b01332b10a56cc7fc2d82fb760bce8a6824e6441
 Size: 7084
 Filename: stb-kodi-pulse4kmini-doc_22-Piers-r0_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_22.bb
@@ -17167,15 +17167,15 @@ Priority: optional
 
 Package: stb-kodi-pulse4kmini
 Version: 22-Piers-r0
-Depends: abcom-mali-3798mv200 (>= 1.0), bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), lcms (>= 2.16), libasound2 (>= 1.2.12), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.1+git0+367b7b546f), libavfilter10 (>= 7.1+git0+367b7b546f), libavformat61 (>= 7.1+git0+367b7b546f), libavutil59 (>= 7.1+git0+367b7b546f), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.40+git0+7073164add), libcap (>= 2.70), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.10.1), libdbus-1-3 (>= 1.14.10), libfmt11 (>= 11.0.2), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libharfbuzz0 (>= 10.0.1), libinput10 (>= 1.26.1), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.44), libplist-2.0-4 (>= 2.3.0+git0+2cd858c679), libpng16-16 (>= 1.6.44), libpostproc58 (>= 7.1+git0+367b7b546f), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.0), libsqlite3-0 (>= 3.46.1), libstdc++6 (>= 14.2.0), libswresample5 (>= 7.1+git0+367b7b546f), libswscale8 (>= 7.1+git0+367b7b546f), libtag1 (>= 1.13.1), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.2), libxkbcommon0 (>= 1.7.0), libxml2 (>= 2.13.4), libxslt (>= 1.1.42), libz1 (>= 1.3.1)
+Depends: abcom-mali-3798mv200 (>= 1.0), bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), lcms (>= 2.16), libasound2 (>= 1.2.12), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.1+git0+5120d30890), libavfilter10 (>= 7.1+git0+5120d30890), libavformat61 (>= 7.1+git0+5120d30890), libavutil59 (>= 7.1+git0+5120d30890), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.40+git0+7073164add), libcap (>= 2.70), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.10.1), libdbus-1-3 (>= 1.14.10), libfmt11 (>= 11.0.2), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libharfbuzz0 (>= 10.0.1), libinput10 (>= 1.26.1), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.44), libplist-2.0-4 (>= 2.3.0+git0+2cd858c679), libpng16-16 (>= 1.6.44), libpostproc58 (>= 7.1+git0+5120d30890), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.0), libsqlite3-0 (>= 3.46.1), libstdc++6 (>= 14.2.0), libswresample5 (>= 7.1+git0+5120d30890), libswscale8 (>= 7.1+git0+5120d30890), libtag1 (>= 1.13.1), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.2), libxkbcommon0 (>= 1.7.0), libxml2 (>= 2.13.4), libxslt (>= 1.1.42), libz1 (>= 1.3.1)
 Provides: kodi, virtual-kodi
 Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-charmap-utf-8, glibc-gconv-ibm437, glibc-gconv-ibm850, glibc-gconv-unicode, glibc-gconv-utf-32, glibc-localedata-en-us, kodi-addon-inputstream-adaptive-piers, kodi-addon-inputstream-ffmpegdirect-piers, kodi-addon-inputstream-rtmp-piers, kodi-addon-inputstreamhelper, kodi-addon-visualization.goom-piers, kodi-addon-visualization.matrix-piers, kodi-addon-visualization.pictureit-piers, kodi-addon-visualization.shadertoy-piers, kodi-addon-visualization.spectrum-piers, libcec, libcurl, libnfs, nss, os-release, python3, python3-compression, python3-crypt, python3-ctypes, python3-datetime, python3-db, python3-difflib, python3-html, python3-image, python3-json, python3-mechanize, python3-multiprocessing, python3-netclient, python3-pillow, python3-profile, python3-pycryptodome, python3-pycryptodomex, python3-regex, python3-setuptools, python3-shell, python3-six, python3-sqlite3, python3-xmlrpc, tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdata-asia, tzdata-atlantic, tzdata-australia, tzdata-europe, tzdata-pacific, xkeyboard-config
 Section: base
 Architecture: pulse4kmini
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2cd29ab032270a4388de8e70b80f8aea
-SHA256sum: 4fe95cfd09cb696e31d253a7043eb5b67819564601f71c21a65eb07c0f24e67e
-Size: 28161850
+MD5Sum: 481cee2f7a74abf2c537cd70f539f1b4
+SHA256sum: 9d56094bf026c6eb6456a0ea4dad9a35fb04bf5d957f779b6e7f6c93934d1fa1
+Size: 28161402
 Filename: stb-kodi-pulse4kmini_22-Piers-r0_pulse4kmini.ipk
 Source: stb-kodi-pulse4kmini_22.bb
 Description: Kodi Media Center
