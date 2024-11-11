@@ -7326,47 +7326,47 @@ License: GPL-2.0-only
 Priority: required
 
 Package: enigma2-plugin-softcams-oscam-whitelist-dbg
-Version: 1.0+20241110-r0
+Version: 1.0+20241111-r0
 Section: devel
 Architecture: all
 Maintainer: AbuBaniaz
-MD5Sum: 4744b2030a6ce439f558ef7f79d8fa6e
-SHA256sum: a96039d14e2623fcecc975f7560e907772d8920c67abd552957542277ae57108
-Size: 570
-Filename: enigma2-plugin-softcams-oscam-whitelist-dbg_1.0+20241110-r0_all.ipk
+MD5Sum: 9e91ff7b45e00160b046a4e0d51eb53a
+SHA256sum: c27a7a6a8468711930a4c44495c7a3ebcf2b12d17a3943afd4e78a9614cf5ca7
+Size: 568
+Filename: enigma2-plugin-softcams-oscam-whitelist-dbg_1.0+20241111-r0_all.ipk
 Source: enigma2-plugin-softcams-oscam-whitelist.bb
-Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241110-r0 - Debugging files
+Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241111-r0 - Debugging files
 OE: enigma2-plugin-softcams-oscam-whitelist
 License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-softcams-oscam-whitelist-dev
-Version: 1.0+20241110-r0
-Recommends: enigma2-plugin-softcams-oscam-dev, enigma2-plugin-softcams-oscam-whitelist (= 1.0+20241110-r0)
+Version: 1.0+20241111-r0
+Recommends: enigma2-plugin-softcams-oscam-dev, enigma2-plugin-softcams-oscam-whitelist (= 1.0+20241111-r0)
 Section: devel
 Architecture: all
 Maintainer: AbuBaniaz
-MD5Sum: 1a6e11114ec3507905b38619a46e3d58
-SHA256sum: 9352b6aab79ff527a2b9a9079c8fc2d9c54eaa3f34c0d2f528d504db49356a70
-Size: 610
-Filename: enigma2-plugin-softcams-oscam-whitelist-dev_1.0+20241110-r0_all.ipk
+MD5Sum: 787790b7253a0953bc257184d84b57c8
+SHA256sum: 1815c7eeccefbe60a22a24f81f80c75136e8d9d7859accec9558906f95d2abac
+Size: 608
+Filename: enigma2-plugin-softcams-oscam-whitelist-dev_1.0+20241111-r0_all.ipk
 Source: enigma2-plugin-softcams-oscam-whitelist.bb
-Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241110-r0 - Development files
+Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241111-r0 - Development files
 OE: enigma2-plugin-softcams-oscam-whitelist
 License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-softcams-oscam-whitelist
-Version: 1.0+20241110-r0
+Version: 1.0+20241111-r0
 Section: base
 Architecture: all
 Maintainer: AbuBaniaz
-MD5Sum: 5b6f2637da5b128aa8fe8f0e783c3236
-SHA256sum: 8c830e965a47fb202002a454087112091024b5a02ff3d2d9712eae6fc8c7a11a
-Size: 1368
-Filename: enigma2-plugin-softcams-oscam-whitelist_1.0+20241110-r0_all.ipk
+MD5Sum: d8cbfa2f937d91bd384c444c08a5cbf9
+SHA256sum: a236b39c1aa2a1eeea742957229c9b289a0205a35335acb52935f1dbe9017c67
+Size: 1366
+Filename: enigma2-plugin-softcams-oscam-whitelist_1.0+20241111-r0_all.ipk
 Source: enigma2-plugin-softcams-oscam-whitelist.bb
-Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241110-r0
+Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241111-r0
 OE: enigma2-plugin-softcams-oscam-whitelist
 License: CLOSED
 Priority: optional
@@ -7626,14 +7626,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dbg
-Version: 1.0+git226+55e32f90+55e32f9ed3-r0
+Version: 1.0+git231+4b414bd0+4b414bdf00-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: dbafa4b5ffa8ddfdb64ffc899e7e9d17
-SHA256sum: 1449fe0fce8815af0f2e93525a2bea387c1912fe32a27bb1c497796340966c18
+MD5Sum: de82a95123d55d0e6b5586ce2bec6c21
+SHA256sum: 8958be84a8d0bc4e323ea22d5a7e8c5a812203ce5f80667c42ccb206a947c76b
 Size: 622
-Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git226+55e32f90+55e32f9ed3-r0_all.ipk
+Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git231+4b414bd0+4b414bdf00-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7642,15 +7642,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dev
-Version: 1.0+git226+55e32f90+55e32f9ed3-r0
-Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git226+55e32f90+55e32f9ed3-r0), python3-requests-dev
+Version: 1.0+git231+4b414bd0+4b414bdf00-r0
+Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git231+4b414bd0+4b414bdf00-r0), python3-multiprocessing-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: c7646e2c706723925858e60c0b2f14e2
-SHA256sum: cf4ffb858d3a8adf5295c1be7531f3f15c1a30e7c52bf2565bb78b3bbbae3483
-Size: 670
-Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git226+55e32f90+55e32f9ed3-r0_all.ipk
+MD5Sum: f58f682b3a2495d3d47d2b1d1b0297b5
+SHA256sum: a4e80764b75533e5b98561da3f661fa0c829493deb70c821506a6778bc40ca49
+Size: 684
+Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git231+4b414bd0+4b414bdf00-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Development files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7659,14 +7659,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-src
-Version: 1.0+git226+55e32f90+55e32f9ed3-r0
+Version: 1.0+git231+4b414bd0+4b414bdf00-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: e84daeb12b313ecfd748011c5fa97125
-SHA256sum: b6d9b13e1b9212a590ea7878c5623a226b0322effb7080062376af6d84552a22
-Size: 33672
-Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git226+55e32f90+55e32f9ed3-r0_all.ipk
+MD5Sum: 23ea915010fe230e4c099d5b97cfbd53
+SHA256sum: f6b5d715295998050250eedbb8063c20c40c6d590c4ac398a698016312ca27fb
+Size: 35246
+Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git231+4b414bd0+4b414bdf00-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Source files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7675,16 +7675,16 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv
-Version: 1.0+git226+55e32f90+55e32f9ed3-r0
-Depends: python3-requests
+Version: 1.0+git231+4b414bd0+4b414bdf00-r0
+Depends: python3-multiprocessing, python3-requests
 Recommends: enigma2-plugin-extensions-tmdb
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 40e28ac19ed012768e6bbd98e72a9a57
-SHA256sum: 5b46f372d528020aaa6f02c1df09c19b2016f08fc20726238a380a9646c336a1
-Size: 103476
-Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git226+55e32f90+55e32f9ed3-r0_all.ipk
+MD5Sum: 1e8a88ae7c8ec0884fa9d1940782a10e
+SHA256sum: 7132f842deca019759d4937dc7103386f0899acf8fd06ad355b5cea4e8d462a2
+Size: 107612
+Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git231+4b414bd0+4b414bdf00-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -12634,14 +12634,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 3+git834+be0fd3e0+be0fd3e087-r0
+Version: 3+git835+8f3c8300+8f3c830fa6-r0
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 423d299a139bace897d62bda714aaa08
-SHA256sum: fd28873c663ce0427e55627b2a1429fd23e2aa528bcb52cd27acbf170d757738
-Size: 566
-Filename: tuxbox-common-dbg_3+git834+be0fd3e0+be0fd3e087-r0_all.ipk
+MD5Sum: f566da59e28e49547ebe1b6afd7753d9
+SHA256sum: 3861531b4fbe093e4099fe9a2338e6d00f225e975e5f47a9a8f4bcee7e5ee242
+Size: 568
+Filename: tuxbox-common-dbg_3+git835+8f3c8300+8f3c830fa6-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Debugging files
 OE: tuxbox-common
@@ -12649,15 +12649,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 3+git834+be0fd3e0+be0fd3e087-r0
-Recommends: tuxbox-common (= 3+git834+be0fd3e0+be0fd3e087-r0), xz-dev
+Version: 3+git835+8f3c8300+8f3c830fa6-r0
+Recommends: tuxbox-common (= 3+git835+8f3c8300+8f3c830fa6-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: fc8928c406ac3bb44bc2dbd5bbc6f045
-SHA256sum: 23e868a68017520786904e2732714d9d22c0f397a548f14457ca0fac4f868185
-Size: 606
-Filename: tuxbox-common-dev_3+git834+be0fd3e0+be0fd3e087-r0_all.ipk
+MD5Sum: 16e6e6d1458526b7b148033d9119a167
+SHA256sum: dd8bd60d685191644ab6bd7bdefb90d86dbc961d59178cfd20c90fc7722ad2e5
+Size: 608
+Filename: tuxbox-common-dev_3+git835+8f3c8300+8f3c830fa6-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0 - Development files
 OE: tuxbox-common
@@ -12665,15 +12665,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: tuxbox-common
-Version: 3+git834+be0fd3e0+be0fd3e087-r0
+Version: 3+git835+8f3c8300+8f3c830fa6-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 87fdcaa0e771778bfc23e1cef2e6b40d
-SHA256sum: 9b4ce7873c23fde8e8e2a9bb45c090082e4223759ee396ed646ed37656ed1575
-Size: 72530
-Filename: tuxbox-common_3+git834+be0fd3e0+be0fd3e087-r0_all.ipk
+MD5Sum: 2778162a2f3a4d7dd13e75212926a9be
+SHA256sum: 184cf4290eb5fad7fb48cce786f5ae97419376717b545452c0e02c00860a0e09
+Size: 72542
+Filename: tuxbox-common_3+git835+8f3c8300+8f3c830fa6-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 3+git-r0
 OE: tuxbox-common
