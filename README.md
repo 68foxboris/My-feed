@@ -13,16 +13,16 @@ vuultimo4k
 
 
 duo4kSE   
-https://drive.google.com/file/d/1k4Jfxk3qJPZ9pHTEliNXWkWRCIeOiGko/view?usp=sharing
+
 
 h9combo   
 
 
 et11000
-https://drive.google.com/file/d/1r2-zpK9oIm6j_ZisMupjl1ItA461cMvm/view?usp=sharing
+https://drive.google.com/file/d/1kwSAVMv0uw9M-8jRUSouxXhCdk8LWbRh/view?usp=sharing
 
 pulse4Kmini
-https://drive.google.com/file/d/1OhUwIFvhFayRI-MYq8hwkXCxPhe8DLfT/view?usp=sharing
+https://drive.google.com/file/d/1yUP9JpDuKZtfuzihJ_sscP1w7INnXGdS/view?usp=sharing
 
 sf8008
 
