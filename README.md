@@ -12,6 +12,9 @@ vuduo2
 vuultimo4k
 
 
+duo4k
+https://drive.google.com/file/d/1AKYkt0GWrE5cQ5JOGieL0HCW8IO_gcZM/view?usp=sharing
+
 duo4kSE   
 https://drive.google.com/file/d/1OSQHGSn4D20YltoDxFX2QxqoVhxNYd52/view?usp=sharing
 
