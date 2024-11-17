@@ -12,6 +12,9 @@ uno4kse
 zero4k
 
 
+solo4k
+https://drive.google.com/file/d/1UjTwpODXDsVjitJRYp2xwewsiiL-9np6/view?usp=sharing
+
 vuultimo4k
 https://drive.google.com/file/d/1EmpqWcen-Jne3uRfHqXEMyg5Z-M8ss8o/view?usp=sharing
 
