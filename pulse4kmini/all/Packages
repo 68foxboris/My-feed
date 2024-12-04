@@ -7375,47 +7375,47 @@ License: GPL-2.0-only
 Priority: required
 
 Package: enigma2-plugin-softcams-oscam-whitelist-dbg
-Version: 1.0+20241203-r0
+Version: 1.0+20241204-r0
 Section: devel
 Architecture: all
 Maintainer: AbuBaniaz
-MD5Sum: 2d3da6196a9cdfd881acd25eb383adaf
-SHA256sum: e95aed7dfbd0cb08d6fe357868534b332860362cf324bcf28561b63e20a200cd
+MD5Sum: b02d2ce79136b95a1917064027cdb940
+SHA256sum: a328754e747987669c125a4bce9f2221340404f0c1a7cdaace8e5265151e223d
 Size: 570
-Filename: enigma2-plugin-softcams-oscam-whitelist-dbg_1.0+20241203-r0_all.ipk
+Filename: enigma2-plugin-softcams-oscam-whitelist-dbg_1.0+20241204-r0_all.ipk
 Source: enigma2-plugin-softcams-oscam-whitelist.bb
-Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241203-r0 - Debugging files
+Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241204-r0 - Debugging files
 OE: enigma2-plugin-softcams-oscam-whitelist
 License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-softcams-oscam-whitelist-dev
-Version: 1.0+20241203-r0
-Recommends: enigma2-plugin-softcams-oscam-dev, enigma2-plugin-softcams-oscam-whitelist (= 1.0+20241203-r0)
+Version: 1.0+20241204-r0
+Recommends: enigma2-plugin-softcams-oscam-dev, enigma2-plugin-softcams-oscam-whitelist (= 1.0+20241204-r0)
 Section: devel
 Architecture: all
 Maintainer: AbuBaniaz
-MD5Sum: 02ddd3309c02d2edf192ef5f48934995
-SHA256sum: b000e46f0cdfc4edf3273eb097fb13ef381eef9c183bd7f77703380289a094a8
+MD5Sum: 6ae3069091cf8ae11d509f512c43b06b
+SHA256sum: c87830644895ba342c69eb30a0eda40b09d2b44cf0e606ea6e16d782a5479697
 Size: 610
-Filename: enigma2-plugin-softcams-oscam-whitelist-dev_1.0+20241203-r0_all.ipk
+Filename: enigma2-plugin-softcams-oscam-whitelist-dev_1.0+20241204-r0_all.ipk
 Source: enigma2-plugin-softcams-oscam-whitelist.bb
-Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241203-r0 - Development files
+Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241204-r0 - Development files
 OE: enigma2-plugin-softcams-oscam-whitelist
 License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-softcams-oscam-whitelist
-Version: 1.0+20241203-r0
+Version: 1.0+20241204-r0
 Section: base
 Architecture: all
 Maintainer: AbuBaniaz
-MD5Sum: dd05df5f47c5793598f3ce15816bdace
-SHA256sum: 8f29a634df39a500820b3dca159c60cd6bc9022754c5cbff10c685c2d4b7ae1d
+MD5Sum: 999dba46b1da81863009ce9f798e926d
+SHA256sum: 1f05a403dd70dad1ce5929f2c43f17aa1a12240316bfdb13e1741b6a36028c70
 Size: 1368
-Filename: enigma2-plugin-softcams-oscam-whitelist_1.0+20241203-r0_all.ipk
+Filename: enigma2-plugin-softcams-oscam-whitelist_1.0+20241204-r0_all.ipk
 Source: enigma2-plugin-softcams-oscam-whitelist.bb
-Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241203-r0
+Description: enigma2-plugin-softcams-oscam-whitelist version 1.0+20241204-r0
 OE: enigma2-plugin-softcams-oscam-whitelist
 License: CLOSED
 Priority: optional
