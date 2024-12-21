@@ -1,5 +1,5 @@
 Загрузка моих сборок.
-16.12.2024
+20.12.2024
 
 master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24.10,ffmpeg 7.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
@@ -30,7 +30,7 @@ h9combo
 
 
 et11000
-https://drive.google.com/file/d/1i1YN2lj10oaKdjchRehIMCSfE0_K8D_8/view?usp=sharing
+https://drive.google.com/file/d/1IVPtecAZs3NkfH5hjt1ug1bnjJ0hLs3c/view?usp=sharing
 
 pulse4Kmini
 
