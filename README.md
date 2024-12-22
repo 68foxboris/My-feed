@@ -1,5 +1,5 @@
 Загрузка моих сборок.
-21.12.2024
+22.12.2024
 
 master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24.10,ffmpeg 7.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
@@ -36,7 +36,7 @@ pulse4Kmini
 https://drive.google.com/file/d/1toDuKpazJB6CkozoRNahcpqHzgWTQVHA/view?usp=sharing
 
 sf8008
-
+https://drive.google.com/file/d/1_KYeTBozLgQGhzk_y3oUFNCgsenL7d2o/view?usp=sharing
 
 hd51
 
