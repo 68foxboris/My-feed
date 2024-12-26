@@ -1,5 +1,6 @@
 Загрузка моих сборок.
 22.12.2024
+dm900,dm920 26.12.24
 
 master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24.10,ffmpeg 7.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
@@ -45,7 +46,7 @@ hd51
 
 
 dm900
-
+https://drive.google.com/file/d/160iQgIvCN07n4ziq_Xj-xzKFKztL_dzf/view?usp=sharing
 
 dm920
-
+https://drive.google.com/file/d/1A24wMIoHcTjqmysYtySjfszMzTo6klC8/view?usp=sharing
