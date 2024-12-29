@@ -1,6 +1,4 @@
 Загрузка моих сборок.
-22.12.2024
-dm900,dm920 26.12.24
 
 master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24.10,ffmpeg 7.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
@@ -13,40 +11,40 @@ uno4kse
 
 
 zero4k
-https://drive.google.com/file/d/173n2GGDLPu7QwcxzFrIzksQSw8YQKJEm/view?usp=sharing
+
 
 solo4k
-https://drive.google.com/file/d/1r4LT01HKVu0MmwAnWgi8CkUbRhB3NbHB/view?usp=sharing
+
 
 vuultimo4k
-https://drive.google.com/file/d/1M-hAmBWLrF23Plg1TJDmFaHHeHsz-qvJ/view?usp=sharing
+
 
 duo4k
-https://drive.google.com/file/d/1IWaRgDRdu6OHRPqYcsU3QdzbliSCRVlK/view?usp=sharing
+
 
 duo4kse   
-https://drive.google.com/file/d/18MRZWHPbebl4qQ3xXK3zlEbmNb9tQNJt/view?usp=sharing
+
 
 h9combo   
-https://drive.google.com/file/d/1iNUyK2DZ-B1BgYikWWZHlM6GruNxx223/view?usp=sharing
+
 
 et11000
-https://drive.google.com/file/d/1OZ0VUMzxgXUoZOrqeylKc7-57ymxTyvA/view?usp=sharing
+
 
 pulse4K
-https://drive.google.com/file/d/1lRZq9kULGltWubF8LUvAorihBmaiJxcR/view?usp=sharing
+
 
 pulse4Kmini
-https://drive.google.com/file/d/1toDuKpazJB6CkozoRNahcpqHzgWTQVHA/view?usp=sharing
+
 
 sf8008
-https://drive.google.com/file/d/1_KYeTBozLgQGhzk_y3oUFNCgsenL7d2o/view?usp=sharing
+
 
 hd51
 
 
 dm900
-https://drive.google.com/file/d/160iQgIvCN07n4ziq_Xj-xzKFKztL_dzf/view?usp=sharing
+https://drive.google.com/file/d/1iUWaGeeTkvn0M66HCKP7b0a_rnYO5jlK/view?usp=sharing
 
 dm920
-https://drive.google.com/file/d/1A24wMIoHcTjqmysYtySjfszMzTo6klC8/view?usp=sharing
+
