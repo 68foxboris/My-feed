@@ -31,9 +31,6 @@ h9combo
 et11000
 
 
-pulse4K
-
-
 pulse4Kmini
 
 
