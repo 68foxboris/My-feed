@@ -27,7 +27,7 @@ duo4kse
 
 
 h9combo   
-
+https://drive.google.com/file/d/1ZMGgWDPrib5JhDJ7Igfww3wQjDTfBT9K/view?usp=sharing
 
 et11000
 https://drive.google.com/file/d/1LoGlMiU_CQ0FV5defYwbGIIHItTh69sI/view?usp=sharing
@@ -36,7 +36,7 @@ pulse4Kmini
 https://drive.google.com/file/d/1quU5-ZSCPhxyOwEqOXaTzqaPoRzgyT9R/view?usp=sharing
 
 sf8008
-
+https://drive.google.com/file/d/1YKALgnYAnXkjVc5hupaki9RaYyaqpNHE/view?usp=sharing
 
 hd51
 
