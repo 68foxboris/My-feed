@@ -1,6 +1,7 @@
 Загрузка моих сборок.
 29.12.2024
 01.01.2025 sf8008
+03.01.2025 et11000-тестовая версия,ставить только по новой-не обновлять.Использовано openatv-change mdev to uedev.
 
 master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24.10,ffmpeg 7.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
@@ -31,7 +32,7 @@ h9combo
 https://drive.google.com/file/d/1ZMGgWDPrib5JhDJ7Igfww3wQjDTfBT9K/view?usp=sharing
 
 et11000
-https://drive.google.com/file/d/1LoGlMiU_CQ0FV5defYwbGIIHItTh69sI/view?usp=sharing
+https://drive.google.com/file/d/1p9os18G2x8DEigw9qaQdgSaC1bCu5fjD/view?usp=sharing
 
 pulse4Kmini
 https://drive.google.com/file/d/1quU5-ZSCPhxyOwEqOXaTzqaPoRzgyT9R/view?usp=sharing
