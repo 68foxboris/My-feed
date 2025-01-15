@@ -7,6 +7,9 @@ master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24
 solo2
 https://drive.google.com/file/d/1up5pVSLreFxYIzcMWztCYZHmwg8L6T3Y/view?usp=sharing
 
+duo2
+https://drive.google.com/file/d/1fAiiSP8sgyzXfeEfr7XM9FYwl31N7nTw/view?usp=sharing
+
 uno4k
 
 
