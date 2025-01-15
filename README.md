@@ -4,7 +4,8 @@
 
 master branch,python 3.13.0,gcc 14.2,glibc-2.40,openssl 3.3.1,ci+,gstreamer 1.24.11,ffmpeg 7.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
-dm900,dm920 without kodi(пока не получается).
+solo2
+https://drive.google.com/file/d/1up5pVSLreFxYIzcMWztCYZHmwg8L6T3Y/view?usp=sharing
 
 uno4k
 
@@ -41,9 +42,3 @@ https://drive.google.com/file/d/1fbDr7V1pgw_bgxC_uf2LBYonNTuGiODX/view?usp=shari
 
 hd51
 https://drive.google.com/file/d/1hLnZQPSSAKq-1XbWgPBu8Gl56Ic0V0Jj/view?usp=sharing
-
-dm900
-https://drive.google.com/file/d/1XhTCAoncs_w0FEyKLmrjxcHM_jLSKcA9/view?usp=sharing
-
-dm920
-https://drive.google.com/file/d/1p-jNTWE2Liql0n7j7mOxu0-YSI61NR1X/view?usp=sharing
