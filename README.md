@@ -40,7 +40,7 @@ pulse4Kmini
 https://drive.google.com/file/d/16e5O0lbqUyW_7xYqGKJLpgYUAAmoh_p-/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/1vfggkSsqEygx1b6riKtgTRvPegEAkDI1/view?usp=sharing
+https://drive.google.com/file/d/1AwLmPREQknE1FgTVW6Na8MHWXWI-QCog/view?usp=sharing
 
 hd51
 https://drive.google.com/file/d/1fEwQaHFX_t3xiVB2r5gVruVn43uE_ItM/view?usp=sharing
