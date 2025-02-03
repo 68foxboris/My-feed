@@ -22,13 +22,13 @@ solo4k
 
 
 vuultimo4k
-https://drive.google.com/file/d/10k_ZorPp96ZxFjrVKbTnroXU0BSx0YaG/view?usp=sharing
+https://drive.google.com/file/d/1vKEYsQQCBDqgjP-b9yWbhE-Gh9RpvLqz/view?usp=sharing
 
 duo4k
 
 
 duo4kse   
-
+https://drive.google.com/file/d/1zI4XE2PApzWANtoMAxrv_KK1M7Yddorj/view?usp=sharing
 
 h9combo   
 https://drive.google.com/file/d/1vZkFqC7YKwm_wAABLieCAjb3zvBXgHPT/view?usp=sharing
