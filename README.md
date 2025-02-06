@@ -13,7 +13,7 @@ uno4k
 https://drive.google.com/file/d/1fWa_FLawSFTnZEU8ShV5XTRquXDUHD_6/view?usp=sharing
 
 uno4kse
-
+https://drive.google.com/file/d/18vXdDEJJMfiYMYheQxmx4H0keYl7z7uh/view?usp=sharing
 
 zero4k
 https://drive.google.com/file/d/1xLhM4nJ3-M15Q6fZEemMUB-g58K6brkf/view?usp=sharing
@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1xe7_OAFE3Pi_-FN3oF7yBSXIXHpHZCMa/view?usp=shari
 vuultimo4k
 https://drive.google.com/file/d/1vKEYsQQCBDqgjP-b9yWbhE-Gh9RpvLqz/view?usp=sharing
 
-duo4k
+duo4khttps://drive.google.com/file/d/12O04wRiD9Y4BCuPwMpeKTNvsAl5A8Y-P/view?usp=sharing
 https://drive.google.com/file/d/1ZmO7iPLr_xEDQYqRnXW4-1B2Um6qjMp7/view?usp=sharing
 
 duo4kse   
@@ -40,7 +40,7 @@ pulse4Kmini
 https://drive.google.com/file/d/16e5O0lbqUyW_7xYqGKJLpgYUAAmoh_p-/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/12O04wRiD9Y4BCuPwMpeKTNvsAl5A8Y-P/view?usp=sharing
+https://drive.google.com/file/d/15NRB1wAlNB-_HuDSdDlDiSpgLqDoSxVN/view?usp=sharing
 
 hd51
 https://drive.google.com/file/d/1fEwQaHFX_t3xiVB2r5gVruVn43uE_ItM/view?usp=sharing
