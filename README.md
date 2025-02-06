@@ -25,7 +25,7 @@ vuultimo4k
 https://drive.google.com/file/d/1vKEYsQQCBDqgjP-b9yWbhE-Gh9RpvLqz/view?usp=sharing
 
 duo4k
-
+https://drive.google.com/file/d/1ZmO7iPLr_xEDQYqRnXW4-1B2Um6qjMp7/view?usp=sharing
 
 duo4kse   
 https://drive.google.com/file/d/1zI4XE2PApzWANtoMAxrv_KK1M7Yddorj/view?usp=sharing
