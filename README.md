@@ -4,7 +4,7 @@
 master branch,python 3.13.1,gcc 14.2.0,glibc-2.40,openssl 3.4.0,ci+,gstreamer 1.24.12,ffmpeg 7.1.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
 solo2
-
+https://drive.google.com/file/d/1wtx_x0_fhq5lF5xhrlx74FZvSEBJSnuy/view?usp=sharing
 
 duo2
 
