@@ -7,7 +7,7 @@ solo2
 https://drive.google.com/file/d/1wtx_x0_fhq5lF5xhrlx74FZvSEBJSnuy/view?usp=sharing
 
 duo2
-
+https://drive.google.com/file/d/1vmZut9MPpAAEFXSWtIsUcIvZkvXLlinw/view?usp=sharing
 
 uno4k
 https://drive.google.com/file/d/1fWa_FLawSFTnZEU8ShV5XTRquXDUHD_6/view?usp=sharing
