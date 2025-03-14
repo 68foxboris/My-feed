@@ -3,17 +3,11 @@
 
 master branch,python 3.13.2,gcc 14.2.0,glibc-2.41,openssl 3.4.1,ci+,gstreamer 1.24.12,ffmpeg 7.1.1,webkit-hbbtv,chromium-VU+,kodi 22.0-added stbplayer-hardware acceleration.
 
-solo2
-
-
-duo2
-
-
 uno4k
-
+https://drive.google.com/file/d/1iVy8a7Xk1_ZCamzC1Kl6Uf5xW53W5N8G/view?usp=sharing
 
 uno4kse
-
+https://drive.google.com/file/d/1kuIFrgAr4mg1wdWRfDZQ2Lrgh58fXGhI/view?usp=sharing
 
 zero4k
 https://drive.google.com/file/d/1BD4VmuMx3PB2k21NvvpYyv2U0ZeSmsdS/view?usp=sharing
