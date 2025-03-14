@@ -1,3 +1,4 @@
+
 Загрузка моих сборок.
 09.03.2025
 
@@ -40,4 +41,4 @@ sf8008
 https://drive.google.com/file/d/17J2RoCsn6Y7c-Wq39JS0IIHhdy1hO3wr/view?usp=sharing
 
 hd51
-
+https://drive.google.com/file/d/1nhiurARiOpS3zlumaETs0knTArF4JlBV/view?usp=sharing
