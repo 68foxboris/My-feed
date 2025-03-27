@@ -25,6 +25,9 @@ duo4k
 duo4kse   
 
 
+solo2
+https://drive.google.com/file/d/1lZqDC6ikV2ob-31JsT6qJXkQc6floXNL/view?usp=sharing
+
 h9combo   
 https://drive.google.com/file/d/1P6PNpRlZTMI0LXSTr_eCAkUEsT1Awu_5/view?usp=sharing
 
@@ -38,7 +41,7 @@ pulse4Kmini
 https://drive.google.com/file/d/1hyeAABKR8doBQlaH2QF2FBVAzaOOdsfi/view?usp=sharing
 
 sf8008
-
+https://drive.google.com/file/d/17NC6eT4XzsLsK8pLBOHHK9JFkGhlTyTN/view?usp=sharing
 
 hd51
-
+https://drive.google.com/file/d/1o4yn4cN4zKbdrcalNjaJvvybY0b0qg6I/view?usp=sharing
