@@ -116,9 +116,9 @@ Version: 1.4.0-r0
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b42c5071b9d082644efef7de22d74dd7
-SHA256sum: f7e4263f31419049c126fb4e44cecf2ca5bdf5d65f2c7a75174e1c2f68273c61
-Size: 27586
+MD5Sum: 4a86a89c223b084e5306c41739454eb3
+SHA256sum: 5ad9754bd73d02936886429351770b73ce77eece9a62b76a67211938cb65de39
+Size: 27580
 Filename: ax88179-178a-dbg_1.4.0-r0_hd51.ipk
 Source: ax88179-178a_1.4.0.bb
 Description: ASIX AX88179_178A USB 3.0/2.0 Gigabit Ethernet Network Adapter - Debugging files
@@ -228,9 +228,9 @@ Recommends: freetype-dbg, glibc-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpng-dbg, 
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 82776f989f1e8fd6d9fa4ce10a0535fc
-SHA256sum: 143dd95e142605337378023173e294d54d0f8bb29c98769383d69554763b634b
-Size: 4707504
+MD5Sum: b2b04e801c8c7ece3bd321c5ec619c94
+SHA256sum: 081b6b7f984d6b215d8cffa7acd753122f6c182ebb7c3ee2070a602cc514440b
+Size: 4707494
 Filename: directfb-dbg_1.7.7-r0_hd51.ipk
 Source: directfb_1.7.7.bb
 Description: Graphics abstraction library for the Linux Framebuffer Device - Debugging files
@@ -279,9 +279,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libfreetype6 (>= 2.13.3), libgcc1 (>= 
 Section: libs
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c3511e566347c4d202416fffc9b342c6
-SHA256sum: 5abe3faefdc94a2d0f117e9c51b128ef8d3e32c6fbfec1cfdee44bc50d2c16c2
-Size: 990998
+MD5Sum: 483a71146bf76f05f010464a62dbc41d
+SHA256sum: bc3e94bbc9c9d5807323758ac8b466ecdc6543476e3ed608ac9ea94cfb139208
+Size: 990994
 Filename: directfb_1.7.7-r0_hd51.ipk
 Source: directfb_1.7.7.bb
 Description: Graphics abstraction library for the Linux Framebuffer Device
@@ -343,8 +343,8 @@ Conflicts: enigma-kernel-module
 Section: base
 Architecture: hd51
 Maintainer: foxbob
-MD5Sum: 5946a9ec3085ef6e0fad0104a49a4e85
-SHA256sum: d5ad348817c84b531d376f6233d254e49c533290bb642bd8388915d73183d62b
+MD5Sum: 6140b185d9be86d232e1d4095b4558ce
+SHA256sum: 1c4a8de1ed73f74c761a505c2a04402dd1b3da54d1d9f838107d8db97f57cc2e
 Size: 1336
 Filename: enigma-info_GCC-14.2-r0_hd51.ipk
 Source: enigma-info.bb
@@ -407,8 +407,8 @@ Version: 1.0+gitr25+1c6042d0+1c6042d9af-r0
 Section: base
 Architecture: hd51
 Maintainer: DimitarCC
-MD5Sum: 0a28f5aef75097064d518caf3510083e
-SHA256sum: c129d3921547709e07098d2b2c362b3441f026f96618b9b25608666356a04bca
+MD5Sum: 34f0604147dd2d2e6073de2db0800c1d
+SHA256sum: 63a1e793d8c4ac354d71575ffaf172a7579a8e4e83be7a0dac82d24a219f2963
 Size: 24592
 Filename: enigma2-boxlogos_1.0+gitr25+1c6042d0+1c6042d9af-r0_hd51.ipk
 Source: enigma2-boxlogos.bb
@@ -419,15 +419,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-dbg
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libcurl-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libgstpbutils-1.0-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython3-dbg, libsigc++-3-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: devel
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c85802c610310afb206264361248b007
-SHA256sum: cbdc2decc49016e7b3f341b2848b7a589216bf25f5c65057a4ebd8c3a6fca2e2
+MD5Sum: dd905a3c6b86fe7f8d90821f030fbbd6
+SHA256sum: 79b6aa0706d863f5431c84fbd282d80d5e02d867f3acdcb5f0be6439b62fed19
 Size: 33690
-Filename: enigma2-dbg_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-dbg_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Debugging files
 OE: enigma2
@@ -435,16 +435,16 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-dev
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2, libsigc++-3-dev
-Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, curl-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma-info-dev, enigma2 (= 3.13+git1047+5a874900+5a8749077a-r0), enigma2-dhcp-wait-dev, enigma2-fonts-dev, enigma2-locale-meta-dev, enigma2-plugin-drivers-exfat-dev, enigma2-plugin-drivers-ntfs-3g-dev, enigma2-remote-dev, enigma2-timezones-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, genisoimage-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-cp1250-dev, glibc-gconv-iso8859-15-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libcurl-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libgstpbutils-1.0-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython3-dev, libsigc++-3-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, oe-alliance-branding-dev, openssl-dev, python3-asyncio-dev, python3-codecs-dev, python3-core-dev, python3-crypt-dev, python3-dev, python3-fcntl-dev, python3-imaging-dev, python3-mime-dev, python3-mmap-dev, python3-netclient-dev, python3-netifaces-dev, python3-netserver-dev, python3-numbers-dev, python3-pickle-dev, python3-pillow-dev, python3-process-dev, python3-puremagic-dev, python3-pyusb-dev, python3-requests-dev, python3-shell-dev, python3-six-dev, python3-threading-dev, python3-treq-dev, python3-trio-dev, python3-twisted-core-dev, python3-twisted-dev, python3-twisted-web-dev, python3-wifi-dev, python3-xml-dev, python3-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, virtual-gstreamer1.0-dvbmediasink-dev, wireless-tools-dev, wpa-supplicant-dev
+Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, curl-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma-info-dev, enigma2 (= 3.13+git1069+59948ff0+59948ff66c-r0), enigma2-dhcp-wait-dev, enigma2-fonts-dev, enigma2-locale-meta-dev, enigma2-plugin-drivers-exfat-dev, enigma2-plugin-drivers-ntfs-3g-dev, enigma2-remote-dev, enigma2-timezones-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, genisoimage-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-cp1250-dev, glibc-gconv-iso8859-15-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libcurl-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libgstpbutils-1.0-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython3-dev, libsigc++-3-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, oe-alliance-branding-dev, openssl-dev, python3-asyncio-dev, python3-codecs-dev, python3-core-dev, python3-crypt-dev, python3-dev, python3-fcntl-dev, python3-imaging-dev, python3-mime-dev, python3-mmap-dev, python3-netclient-dev, python3-netifaces-dev, python3-netserver-dev, python3-numbers-dev, python3-pickle-dev, python3-pillow-dev, python3-process-dev, python3-puremagic-dev, python3-pyusb-dev, python3-requests-dev, python3-shell-dev, python3-six-dev, python3-threading-dev, python3-treq-dev, python3-trio-dev, python3-twisted-core-dev, python3-twisted-dev, python3-twisted-web-dev, python3-wifi-dev, python3-xml-dev, python3-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, virtual-gstreamer1.0-dvbmediasink-dev, wireless-tools-dev, wpa-supplicant-dev
 Section: devel
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9711aaef0ff53c03e083a03986d437f2
-SHA256sum: 9782aa348cb45b1e0eedb3c967de4362cb321fa1ed3687d659d04fc62a439ddf
+MD5Sum: c66107cecd0f4f7ac795d273245931c3
+SHA256sum: 5e4d7ab1f61453dfd5488899fa5b7d0130f3c6a95442e3b6269fce7fe82bf3a3
 Size: 183384
-Filename: enigma2-dev_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-dev_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files
 OE: enigma2
@@ -482,15 +482,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ar
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6b09636788ade8b6cf5179ce6062d520
-SHA256sum: b42415317a3645c452855da328b5a086e0a3fa1484a6bb80dc2d6a86c0cdb524
-Size: 77526
-Filename: enigma2-locale-ar_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: fd8efc2c155e844e4b3aa4dd39fc7bb2
+SHA256sum: 40e48c5486d9b5d5b5c17eff994c15f9930d54976205dfc40fab22f0d98ae841
+Size: 77364
+Filename: enigma2-locale-ar_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: ar
 OE: enigma2
@@ -498,15 +498,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-bg
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 62c8077971290c4dffb09a4f2a50fe14
-SHA256sum: d651fcb670fe9ebb75466a0aa615a8e7a7f38f5819909075e3e48defee5726bc
-Size: 139436
-Filename: enigma2-locale-bg_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 6b1f1671ffa5a26814daf6dc0be04a6d
+SHA256sum: ef70fd6196ce92c8d9887cc37167a21a65ed55c2fffa965b7b8a11e822de9669
+Size: 138764
+Filename: enigma2-locale-bg_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: bg
 OE: enigma2
@@ -514,15 +514,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ca
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4f96bcc46b292227b1620ae35d352b48
-SHA256sum: 28ce8a88dea2262c268b010d9cfda17c801ba16fc899e20187c1cbbe3f7da539
-Size: 123120
-Filename: enigma2-locale-ca_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 54b9a3789b3d306ea1aa0371b39fe428
+SHA256sum: 81bb6b3334e714f8766c2fc191687dd196d150bd055f894b935aa1f57caf2432
+Size: 122754
+Filename: enigma2-locale-ca_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: ca
 OE: enigma2
@@ -530,15 +530,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-cs
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 13c60512b42fd171335fb665d6cdd1b3
-SHA256sum: 5ca21fe7e07b404823ab851cc7b76ea8cec7ddaa4ec48126bef77079bb4e7e2e
-Size: 128222
-Filename: enigma2-locale-cs_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 7c2eee91917159ec18d1a7d296282844
+SHA256sum: edd6411bda4d438d28dd420aca5b63ed38d50bf0b5058aa6a7c9747aa9afb2ca
+Size: 128236
+Filename: enigma2-locale-cs_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: cs
 OE: enigma2
@@ -546,15 +546,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-da
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a360ee85b746518f5c89f0e5de7c3bbf
-SHA256sum: b5ba19ca4109cc4f2c001ff8476000133dd9245f8b4fe46111dd4fab13072185
-Size: 76840
-Filename: enigma2-locale-da_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: c7e77265ef4989bdc3fd61ee2f4cf603
+SHA256sum: 5325fbb9ab183240f0ff4632dd44460c866fd97efa7c80d1af8dfb4ac838d086
+Size: 76700
+Filename: enigma2-locale-da_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: da
 OE: enigma2
@@ -562,15 +562,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-de
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9119d31deb4a2b3abd3016948de122b8
-SHA256sum: 7feb6a467da94e9c57a49cce12cc9a71577bebe85494984a4a86defe3890a6ef
-Size: 121714
-Filename: enigma2-locale-de_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 2e9521b1baf94aa42ca8ab4343bb41f0
+SHA256sum: 0f35b7085594ec9d9e35cc8e1ca1ac48cadf53ca63599d27e95ffd77d8abd525
+Size: 121328
+Filename: enigma2-locale-de_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: de
 OE: enigma2
@@ -578,15 +578,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-el
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ca0ce4d71db26286743df955a35762df
-SHA256sum: 3ba95d68cd338be6e0b20fabb329d6e7738b4f5a6584bd950a43c91621328e77
-Size: 136284
-Filename: enigma2-locale-el_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 379880cbef9b228311bdcc5602e897ab
+SHA256sum: f79f763f2a9adb7e03f1365e740b948da1dc771c32b90c1df1483e8bbf6196da
+Size: 135830
+Filename: enigma2-locale-el_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: el
 OE: enigma2
@@ -594,15 +594,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-en
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 664b8c7fbddb99d9533b62f59a48bc9b
-SHA256sum: 8538542537a3c9760a467ec4de79698abbae02f76469a06d598ea1ee89df2b4d
-Size: 2964
-Filename: enigma2-locale-en_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 58180ef7535ad8f5657489eacfad10bc
+SHA256sum: ae9fb690da6d3503105fffe9a265d24eca8821f401ecd552bd90b3f37be90298
+Size: 2966
+Filename: enigma2-locale-en_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: en
 OE: enigma2
@@ -610,15 +610,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-es
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 463d9163264532eacde0ba8bd4d83fb1
-SHA256sum: e34bda2ceb50cfdccc8ac64a6ad2771d2cd50048a2c608ea121215bc006a928e
-Size: 119674
-Filename: enigma2-locale-es_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 96196ff0d99d1961202ed0cda6e4f8ea
+SHA256sum: 3c3012dc58ece26cfe832d18423a492263fc6b86dfa64fc621e076dfd4a0fbc6
+Size: 119198
+Filename: enigma2-locale-es_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: es
 OE: enigma2
@@ -626,15 +626,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-et
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8f7b6178a8e97899038a3e4f4147b7be
-SHA256sum: 5b6765a9c19bcdaa7eaf7b4eb86e14b3bdcbf6e66d30e23c63fd3a96054f7fd4
-Size: 97096
-Filename: enigma2-locale-et_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 6c4bece78087a043aec242350018fa60
+SHA256sum: 274a9d33d6948849f6e54a11669d99e7227e950f4b6dad210bd3a2eef1d01419
+Size: 96940
+Filename: enigma2-locale-et_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: et
 OE: enigma2
@@ -642,15 +642,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fa
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a876523f17f56e073ae0cfbfcec28b2b
-SHA256sum: 78e1a26873c50e02fc80850ea78645f870f621cfb58b7e960d13ead718ee3909
-Size: 31968
-Filename: enigma2-locale-fa_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: fd4db5f9808f604c1ff4b02f999e4fd9
+SHA256sum: d44b8c288331f26e9f7abeff2582dd6590bb3a5ac76365c2e2a579b23bcd03f7
+Size: 31854
+Filename: enigma2-locale-fa_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: fa
 OE: enigma2
@@ -658,15 +658,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fi
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ca4a68b4caf9d5b37bd90134c3896060
-SHA256sum: 3c4c3478371b48273b224e6bb3cea38da657edff885ecb1976ba0d05b01f7da5
-Size: 92706
-Filename: enigma2-locale-fi_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: dc7fbcbbefe8324f2befc5e25ef51c91
+SHA256sum: 80b07d2caaf4081c4ea5e0b1deabc150b9a7fae5f4d501f9a1dc53287718d86d
+Size: 92586
+Filename: enigma2-locale-fi_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: fi
 OE: enigma2
@@ -674,15 +674,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fr
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ac65a80bee4076ac4eb12ab9524f0af6
-SHA256sum: 2c89a9e832448bdd647a41c7c09676436fbd548811e89ca8005fbd1748f5daa6
-Size: 131768
-Filename: enigma2-locale-fr_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 180d494f65fe19045c8e375c2186b4a0
+SHA256sum: 4d587a914c2536e770003c40cb047c0acd2065fc7ef34258f9c9ef57f0d11888
+Size: 131800
+Filename: enigma2-locale-fr_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: fr
 OE: enigma2
@@ -690,15 +690,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-fy
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 49a0e9f81cb6654eefc5ddb65e036073
-SHA256sum: 3600a53f6a13ae078402f40e509d5758ff8beaa8be72afdfc63d74fc84a7dd95
-Size: 21232
-Filename: enigma2-locale-fy_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 36eff0edf218998bb477215a63dba326
+SHA256sum: a124a3653fc1d9cff9d2f718693acead102d4367aecb307a35ffcaf007b74bb8
+Size: 21234
+Filename: enigma2-locale-fy_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: fy
 OE: enigma2
@@ -706,15 +706,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-gl
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 31eb7da0769fe5b93ae25d71736d5181
-SHA256sum: c581dccd79604f4838b7aff068111d70cfad9525dbf442a56026cc28619c1e0f
-Size: 114556
-Filename: enigma2-locale-gl_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 27e11083fb64a239b7a3418dfe50866f
+SHA256sum: fbfdac3f12150177eb9350c5ca76f68faf03c1a8b04c29249bf27566288d599d
+Size: 114200
+Filename: enigma2-locale-gl_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: gl
 OE: enigma2
@@ -722,15 +722,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-he
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a1630dfadfccc0693a3aed8d7434f277
-SHA256sum: 62881c5a7a3b1402f8c1e4cec839a4203c8b28766431dc46f30e30c47bd3eadf
-Size: 22880
-Filename: enigma2-locale-he_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: cea76abff02ebb34d459e5e74da9e6e7
+SHA256sum: 143b7f06e6b91f3be0f1f22634635a503a91ec199ca84a9450cfbb90161aaec4
+Size: 22882
+Filename: enigma2-locale-he_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: he
 OE: enigma2
@@ -738,15 +738,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-hr
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 13f3f303e9934bb0c19a266806123b8a
-SHA256sum: d62184f2f7666f357db759be307a3e1966567b5b7e6676323ba49c6c3122120e
-Size: 118532
-Filename: enigma2-locale-hr_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 6c7ddd0fdf45c8a4397a2e6958642ff9
+SHA256sum: 306aa934e089e77866dbc1ad7456f2d4da26bc16eecdd1e8a9d6edc14ace4889
+Size: 118130
+Filename: enigma2-locale-hr_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: hr
 OE: enigma2
@@ -754,15 +754,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-hu
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f5113170010b107775326b26090b6d12
-SHA256sum: 9b334ea085ca981b72dc7b6495798c080008c27b7ea242a67f72cf020db1dffa
-Size: 117744
-Filename: enigma2-locale-hu_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: cd70d29289a2a49c6ba4978dd2c219dc
+SHA256sum: f655d58ba15453a3f903c901b7efd3968c60a92ad5cc0730bfaaffef5e15e080
+Size: 117416
+Filename: enigma2-locale-hu_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: hu
 OE: enigma2
@@ -770,15 +770,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-id
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8d1c75000d67a9c2d56e8a764bb69b19
-SHA256sum: 710654dca74a7d97aa9c2f734fd0e009ac5a967f5d833a68afcee059e47a7547
-Size: 97916
-Filename: enigma2-locale-id_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 82374afea5534e999732288a696aff6f
+SHA256sum: fed2467cf2343366ee5bb96bcf01cf3c2ccca2966d9b546150c8d88067744f91
+Size: 97592
+Filename: enigma2-locale-id_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: id
 OE: enigma2
@@ -786,15 +786,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-is
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3a58d916063cdcb257004a19d2a9e6c7
-SHA256sum: ae8167fd2ba2728fe73f75860e2be1ad2f7151d83e64607bf66eeb5304b880e7
-Size: 30046
-Filename: enigma2-locale-is_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: b908dc1c3a0f49cbac8b423992311c98
+SHA256sum: dc84edc3723f1be91c921f4476dcefa518a05d35c67037734cc8bdf37f049426
+Size: 30048
+Filename: enigma2-locale-is_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: is
 OE: enigma2
@@ -802,15 +802,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-it
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 964c5b06daf6122973e5b8941473c1f5
-SHA256sum: 58fa0661e5f338d382e180a36673139679028687e6f817c19356be73b28540b5
-Size: 113272
-Filename: enigma2-locale-it_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 813013b03395c05c72193ee2e4af1610
+SHA256sum: b700ce606cb31a77f85ecff0a488fdd3faae4dbceb2bd91a9d91d10a5fc7808a
+Size: 113034
+Filename: enigma2-locale-it_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: it
 OE: enigma2
@@ -818,15 +818,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ku
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a4fe017d7fd2b84b876193de7ea66bb4
-SHA256sum: 72b6ec4fac8c90c6197503a4ea25c429c25e57706812c5f2c8cbec083859c760
-Size: 41672
-Filename: enigma2-locale-ku_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 5014a57fa0cc9973abf9bfeca2815f3b
+SHA256sum: ded51e43479b69fb6216f4c5452512c1a3d718559e5a291882ec1ccd8b732171
+Size: 41674
+Filename: enigma2-locale-ku_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: ku
 OE: enigma2
@@ -834,15 +834,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-lt
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2703af2f08232ebbed606e850c26a0b8
-SHA256sum: bdd9ddc81966ccede21b475c4d0e33e421d0f19145c792465fe09866e70f4d07
-Size: 122362
-Filename: enigma2-locale-lt_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: a566e09b6a8c211cfc9b354283b95581
+SHA256sum: 0f104267d9d97e4a2fefef4c73a9b017931f23eb15ecdec9518051cc4c4b9f84
+Size: 121930
+Filename: enigma2-locale-lt_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: lt
 OE: enigma2
@@ -850,15 +850,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-lv
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b1d3c390c3b8fa514def35b3f16f8e8d
-SHA256sum: 93a1e53b26aad675f4b5167a57bb6b50b13c5df0f22c2aef7f42335af6c0a5fb
-Size: 128558
-Filename: enigma2-locale-lv_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 0156a4a968ed6144bc5a66862994576a
+SHA256sum: 7810f6db7d257fc1abdeef9334b089d911a89105e084adc378d7bfda019a2eea
+Size: 127914
+Filename: enigma2-locale-lv_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: lv
 OE: enigma2
@@ -913,15 +913,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-mk
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: af903ce00ccafe6dd919da124acf8bbc
-SHA256sum: 641af566e059273b1b504e07f501a6b0e73064ff1fc238879ea68484d8a6602a
-Size: 127240
-Filename: enigma2-locale-mk_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 55c608677715880abd41880980481290
+SHA256sum: dc90de380d971a5b5663402dc6a6774627a299e56eba35da428e583afbfafcf3
+Size: 126782
+Filename: enigma2-locale-mk_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: mk
 OE: enigma2
@@ -929,15 +929,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-nb
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f6bc0f69f03533d64c9304fbd7388500
-SHA256sum: c557811dee14d40cfc501ff4153eadc64ab420a573514e655604eec541f8d99f
-Size: 115672
-Filename: enigma2-locale-nb_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 11d7bfbf79e01d5f2976280da7118950
+SHA256sum: 3d984ef1d5fa9fab150208439266428d8ae7055278ecf7a03e80015f77faa71e
+Size: 115252
+Filename: enigma2-locale-nb_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: nb
 OE: enigma2
@@ -945,15 +945,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-nl
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1110e37e170b7b077803381cedb6fc77
-SHA256sum: 980bb9a53b06d10906e8d693c57124bb536f5778553414697447b58bfbf31263
-Size: 134186
-Filename: enigma2-locale-nl_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: a056ab32195c3586c3851bf01e557854
+SHA256sum: 537361af1bc9ec734dba77b814e71c1d54670808fdb5e0dd481c0bca6b2b6622
+Size: 133440
+Filename: enigma2-locale-nl_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: nl
 OE: enigma2
@@ -961,15 +961,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-nn
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 67a7189fc7fbc514556ccc56602e7f75
-SHA256sum: 24459c1abedb9324753e04df2369fd28ed13437c0581558703337a1ef1d3c33e
-Size: 59198
-Filename: enigma2-locale-nn_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 76490eebb94ff798f675b08437ac05e5
+SHA256sum: 175db9152e488ad72ca8281e75a011e9937a82b5e51418f74dc78b7144192ccf
+Size: 59200
+Filename: enigma2-locale-nn_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: nn
 OE: enigma2
@@ -977,15 +977,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-pl
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fe7116a9c409d35c0300f4daa925a2be
-SHA256sum: 8adaeffdc61a74d1ff34db980ede5bf72b586cd8d5ca52a2966b324dcad1ae14
-Size: 116114
-Filename: enigma2-locale-pl_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: cd27771f4a4792cb91e948380036b4f5
+SHA256sum: c3c56a68326c2ca398e6a4b20a87334a80badc7f3ab291a814b8044c9f8f2f21
+Size: 116116
+Filename: enigma2-locale-pl_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: pl
 OE: enigma2
@@ -993,15 +993,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-pt-br
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9e3f83ca97604a346adcda03362d8877
-SHA256sum: a8e94f1a65ade149b41b5d39fc6445187dd481e077752c793a04cef7907cd93e
-Size: 58998
-Filename: enigma2-locale-pt-br_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: a3c60e43f0d89da8d5c005ef743cde0b
+SHA256sum: 6eb2cca69bdb7d3796e5b281edc9bf376ab37871b9402918e94a6d27c1a595e7
+Size: 59000
+Filename: enigma2-locale-pt-br_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: pt-br
 OE: enigma2
@@ -1009,15 +1009,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-pt
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9da9563306c3090ea79303ce18e47040
-SHA256sum: 05c336464e7267491c8dcb3a1b152f5bdfc270e930b26ab8e24100da88bd7a3d
-Size: 54986
-Filename: enigma2-locale-pt_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 4252d74d13786152a1bcda61f2c3c2ca
+SHA256sum: 6edc88c40cc529bab40d12a6a24ae089a6cbe7e30dcb96cbcbd0c402b078602a
+Size: 54988
+Filename: enigma2-locale-pt_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: pt
 OE: enigma2
@@ -1025,15 +1025,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ro
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2b098f8a4e31e9f27aa6528edbf41440
-SHA256sum: 62696e8e2f8e73cbcc6bc17902be325377a04ba5e9d11de2ef9be3becf410975
-Size: 23044
-Filename: enigma2-locale-ro_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 9ebbfcf25f707b2358331f04ac69ab78
+SHA256sum: 11f4312f086ca1e0a52f243e73d20524a15a71db6a4a0ad80eaa30845f0ac4ac
+Size: 23046
+Filename: enigma2-locale-ro_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: ro
 OE: enigma2
@@ -1041,15 +1041,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-ru
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0e6a90b0731bc4775064eb7b4b559211
-SHA256sum: 6f1d932603eb217009fd77e6a6fc01e26f9889b7dc8b407d177929821b46d014
-Size: 237914
-Filename: enigma2-locale-ru_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 647b86b72b02e0a7176d187feecfb15a
+SHA256sum: 22fc06075411b64a0dbe6adf54250069660a0076cdc6d2b8c7154759e373e29c
+Size: 238388
+Filename: enigma2-locale-ru_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: ru
 OE: enigma2
@@ -1057,15 +1057,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sk
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3ac7a7fd35bef67200996a2d13d03a7c
-SHA256sum: b96b938bf33dd17d7f8678a7b429eff3100d90cfd091eeda0f28c0b0bf5d11cc
-Size: 133292
-Filename: enigma2-locale-sk_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 8a3ac26d2d2b7a8ff748f2b1a85ac644
+SHA256sum: 2ae2b945ce2302943ea4dd80622bb259f6ddcb7b4be1315f4eb2732c45ae71f3
+Size: 132550
+Filename: enigma2-locale-sk_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: sk
 OE: enigma2
@@ -1073,15 +1073,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sl
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: da6fac00beaeeb0f935daa98bcf21b25
-SHA256sum: ef5dd1bc4049ac6f787b9e51bb921b699558c0aa04b5eeb2b3814bd83b861450
-Size: 67510
-Filename: enigma2-locale-sl_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 31e78a78e9ac9c21b52a96f46acd91b0
+SHA256sum: ec9378429365ba1a52b079920c662b548b61827b4d963abaf963fae7033aa7d0
+Size: 67430
+Filename: enigma2-locale-sl_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: sl
 OE: enigma2
@@ -1089,15 +1089,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sr
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8b934f23e08ae2be592bb2a667099467
-SHA256sum: bd3f93e0db1235ee2c62b303a35de41e4a9782e6e62e63c69d03bc2f236654eb
+MD5Sum: f135cb6172a54fc9c4af97a63d9ff6d1
+SHA256sum: 1924abc54a93659b6c808237f53b8d3a9a044899bfe34f0925c4fb0672105124
 Size: 30144
-Filename: enigma2-locale-sr_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-locale-sr_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: sr
 OE: enigma2
@@ -1105,15 +1105,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-sv
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7a5b142b9d2632abb03a5844373e9f97
-SHA256sum: e451dee84a04d6c7a98077b920af726cbe0883913ab2adff80b1f0dc8cef011e
-Size: 78430
-Filename: enigma2-locale-sv_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 989f1695bea6383fa681363de4c68c51
+SHA256sum: 25acc480a008e3bb763909f24972a735c16016d212ecadf435e633d59d18b312
+Size: 78432
+Filename: enigma2-locale-sv_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: sv
 OE: enigma2
@@ -1121,15 +1121,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-th
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4eb89a472b9b2ae757fc60969517244a
-SHA256sum: 37ec9e6f264ee4a274bb0f0a66391f2fc3b2a15233fed84658818678d8266684
-Size: 29338
-Filename: enigma2-locale-th_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 4e1a8561bdab8d56d8b3640e2ac6335b
+SHA256sum: ef03102747fd96250df2974c74c599025454487f36fd8d368b1d6c25af779bb4
+Size: 29340
+Filename: enigma2-locale-th_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: th
 OE: enigma2
@@ -1137,15 +1137,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-tr
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a83f3db3b1c2e2292e9732c3dd538637
-SHA256sum: 4d18e7029d2432e0a86affec30a0c46f5916bbe677b054d009a47b87255dc566
-Size: 75446
-Filename: enigma2-locale-tr_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 571a1efec42312bd65839675114fa764
+SHA256sum: 3fa1b7ddfec6060812713eda23acbd0e220aab01a0cf35fb257fb8e99c06bcf9
+Size: 75376
+Filename: enigma2-locale-tr_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: tr
 OE: enigma2
@@ -1153,15 +1153,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-uk
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2ad2ad8a0720ad9b370b1b678d936c0a
-SHA256sum: 666f8cee2b8cd45d05ff3eb76540388f913b2b90468e666d4f7da068fd413bc7
-Size: 176322
-Filename: enigma2-locale-uk_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 66974c69b99a2c6301a0a4d4f888e3c0
+SHA256sum: df82468678ed0df7a4ac1fbcab4ede26651475913ba42d83b565e2a2591f5e95
+Size: 176324
+Filename: enigma2-locale-uk_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: uk
 OE: enigma2
@@ -1169,15 +1169,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-vi
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0367b18e12392476e085291dcd40a724
-SHA256sum: 6c3d118acdf0c6fa73fcc0c53418394411471ec0fbdd5dcadcc47981971a33ff
-Size: 115690
-Filename: enigma2-locale-vi_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 22cdae99703edd62b13a0df51dcbe365
+SHA256sum: 9db2b5d14a80798a10d599335f06a29823f41419fcd2aab50218b1073233dd37
+Size: 115458
+Filename: enigma2-locale-vi_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: vi
 OE: enigma2
@@ -1185,15 +1185,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-zh-cn
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 92b53e7ad5a3af9566ae59db1c2fad87
-SHA256sum: d52f6d646a07662f16ad06c2637479153cd7318793f8e48cf8621cf945f3690d
-Size: 111216
-Filename: enigma2-locale-zh-cn_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 51ba2a6a28af003e29537dd2327b2083
+SHA256sum: 1b3fb1065a24aa965e847ed3fd84fdca75a5a75fc63a505955152e2c07ad4d9a
+Size: 124552
+Filename: enigma2-locale-zh-cn_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: zh-cn
 OE: enigma2
@@ -1201,15 +1201,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-locale-zh-hk
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: enigma2
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 597793803a447adae062b5ac51ab1342
-SHA256sum: 8a705a7ddef8c4deb87d36bf9f78d544e596fdf4326c38742c99d3c319013322
+MD5Sum: 55ee47006cbdbd5fb4e13196c6f06400
+SHA256sum: 52e26865c45a452e28ffea9e88f5c0ddb9b974a207ac243ce05ee7b81b826bc1
 Size: 28112
-Filename: enigma2-locale-zh-hk_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-locale-zh-hk_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: zh-hk
 OE: enigma2
@@ -1217,14 +1217,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-meta
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 724a321a97b04751d7622431eccd2869
-SHA256sum: fec2e615f45d1c5c9c1d994db9f5e17eb165c99cce77c4703e54e72e85e13b38
-Size: 4392
-Filename: enigma2-meta_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 0a8acaae6eaa3fff8fb2543db8bc013a
+SHA256sum: cf6e235d830c69511cf9f0b9641c171caab3c719630657e4e7c68c5bdf5cd2b8
+Size: 4388
+Filename: enigma2-meta_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -1232,14 +1232,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f6378e34be988e7e32d40e3fff19e84e
-SHA256sum: ca12146b245e66df2a1669b327560c3447e5392b8140346b3d9f03abf4507291
+MD5Sum: a90f13ac6686ee8534459c1a023c8a0a
+SHA256sum: c33741a9aae1bcd3bfccc7221beb8c1c6cde804275ae0e7a8fc5db9e90985bbc
 Size: 5846
-Filename: enigma2-plugin-extensions-cutlisteditor-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-cutlisteditor-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor (sources)
 OE: enigma2
@@ -1247,15 +1247,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: aio-grab
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ae3d5608789ce30ec6c1d2b649ddb4f9
-SHA256sum: bc98309befbd202f281109bc13be3792a741ca565f79f38717d5a8b7d4a83990
+MD5Sum: ff8000014e93c87d7080bde95af014af
+SHA256sum: bacc7a62b8325411bee783214c9b14139387422279e62358cbad910a60062c08
 Size: 13092
-Filename: enigma2-plugin-extensions-cutlisteditor_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-cutlisteditor_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor
 OE: enigma2
@@ -1263,14 +1263,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d6c3ca017029d2234ae09c8df9a92597
-SHA256sum: 33df7fdc1abf86aa267bdd4d056d6b42ea5c67672efc8771e3a036818df01f5a
-Size: 25870
-Filename: enigma2-plugin-extensions-dvdburn-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 06638c1899a0b3cd427f27ecfb994a91
+SHA256sum: 422f6cc2760b7dd0e066b406327fc5f93680f343292a468d82d6627478445fc9
+Size: 25878
+Filename: enigma2-plugin-extensions-dvdburn-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn (sources)
 OE: enigma2
@@ -1278,15 +1278,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: dvd+rw-tools, dvdauthor, genisoimage, mjpegtools, python3-imaging, python3-pillow, replex
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fbbf99d9033c90a18c75a09bf704a755
-SHA256sum: a89fbb509752ddcb37a6205eb401fb79de77614f326a5fe71d20fd5eee1592cd
-Size: 846716
-Filename: enigma2-plugin-extensions-dvdburn_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 2476f82444236efc8041c84a2b60bed2
+SHA256sum: b890d11426a70a8f40955d0ca014cda236445cbaa0b9929ab2ed95e82d417ef9
+Size: 846676
+Filename: enigma2-plugin-extensions-dvdburn_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn
 OE: enigma2
@@ -1294,14 +1294,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6456d10eb0c3d599150231a77ea9fb2c
-SHA256sum: 7812de63358f6f0f9854febdc94321c8806a0e12b0c5375a2bfbee76cc943fca
-Size: 1918
-Filename: enigma2-plugin-extensions-dvdplayer-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 547151e35d6aaf916455073840b58705
+SHA256sum: c8343f0d2b37f3e029bc7423a0550117f166ff8b0b4bad8229bf1f4ba5f0c6fb
+Size: 1920
+Filename: enigma2-plugin-extensions-dvdplayer-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer (sources)
 OE: enigma2
@@ -1309,15 +1309,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Recommends: kernel-module-udf
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 718c2435d2c8862d67fad546a5232df2
-SHA256sum: e509152ba3549fbe01fd58f3c161ecb99c3bf801452d89f13e8f9e944e973bbb
-Size: 4054
-Filename: enigma2-plugin-extensions-dvdplayer_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: dae1f867e110b7d19b76193f8f520dfb
+SHA256sum: 6f2ba89523eabed98672dbb6d16e03927af24c9a55d41db966dc451e81e90ce4
+Size: 3788
+Filename: enigma2-plugin-extensions-dvdplayer_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer
 OE: enigma2
@@ -1325,14 +1325,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c0471ce42ed37a30799d71db317dc668
-SHA256sum: 10908d503552187088e547208b623a23b9519186bef3b2b67965469385414a98
+MD5Sum: 20f9046c8cc87b14e3dc23a5d830203a
+SHA256sum: a42fee434a2e28c4cfa2fba1347c32a0d9c3e1ef1a4acb2784fd89bf9aae6ddb
 Size: 30530
-Filename: enigma2-plugin-extensions-filecommander-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-filecommander-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-filecommander (sources)
 OE: enigma2
@@ -1340,15 +1340,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: python3-puremagic
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7ef0dbec08eabd20cbc24d06b8987c8f
-SHA256sum: 2b54918793fce9650236f469913fcff8fddbb3591ce8630b9b2112245b35a6b3
+MD5Sum: 86f837ca95456e77381d4e5cb0901b67
+SHA256sum: f791bbae2e2700d00df3146d5f0af0539e9c52fb7549a2a1e4445a4d0c379e07
 Size: 90388
-Filename: enigma2-plugin-extensions-filecommander_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-filecommander_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-filecommander
 OE: enigma2
@@ -1356,14 +1356,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f1f65f0fda613ef945219ddd50d8e8fd
-SHA256sum: b8e621beb6a810229ddbdadc2ecda7666c520b72894a2c847949a1e01d1dd135
-Size: 17222
-Filename: enigma2-plugin-extensions-graphmultiepg-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 8f6364ef87a82902cab0a10e88d268a7
+SHA256sum: 9cafbd9f7172e367f22f487d4a467ef97d2abc1f97af07208df0e50199dce523
+Size: 17224
+Filename: enigma2-plugin-extensions-graphmultiepg-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg (sources)
 OE: enigma2
@@ -1371,14 +1371,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c43891a55c3dfc91cc43fbe440cbf395
-SHA256sum: 51c66dc0ae6ecd6dfd404062cf20e3853469d352807b1c7e019b2f83c47d824b
+MD5Sum: 3ef7651fd2a4963a436de14a9522f09e
+SHA256sum: 3259f76e5038041627e3b20d5bd8e822237d76baedc0f64799858a98a14c523f
 Size: 46116
-Filename: enigma2-plugin-extensions-graphmultiepg_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-graphmultiepg_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg
 OE: enigma2
@@ -1386,14 +1386,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 80365d03b580e1c1374cff5b414d0668
-SHA256sum: a6dd67232e3fe50c1af3b588f49bace0754d24b571ec82cbade48a6bab4043fb
-Size: 12458
-Filename: enigma2-plugin-extensions-mediaplayer-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 08ef9311372fda6efb542a0ff8d56d14
+SHA256sum: 3467c8712fc734d329e38336609e0f8cd89398e0a8bcd879bfcbc0bba517029d
+Size: 12454
+Filename: enigma2-plugin-extensions-mediaplayer-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer (sources)
 OE: enigma2
@@ -1401,14 +1401,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 058c0118cea1369c5700c166dc1709c2
-SHA256sum: 0fb9b1f8df9b01d8451a4cba231d6583f511e432aeb530eb91bc0f579eb67abc
-Size: 38324
-Filename: enigma2-plugin-extensions-mediaplayer_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: eac5b462bb2eac3c4d2bc797613b2dae
+SHA256sum: 4e378f43ca076e73bbd37c6547734732904bf04fc737348fd92608a9b522ce8a
+Size: 38282
+Filename: enigma2-plugin-extensions-mediaplayer_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer
 OE: enigma2
@@ -1416,14 +1416,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 97f71f6323d45823aef9ebcd2f33f3d3
-SHA256sum: 1b5ac443e3edb579a90b9b950df599a966ce093fcda82a8536d521d9c241ce48
-Size: 1744
-Filename: enigma2-plugin-extensions-mediascanner-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 11b10fd334c880f66b2fa3c31039e54d
+SHA256sum: 904c9e9e03abcccc3b88300ee0bd4ffc102a84c8fc276f458b160285f24ebb0b
+Size: 1746
+Filename: enigma2-plugin-extensions-mediascanner-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner (sources)
 OE: enigma2
@@ -1431,14 +1431,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6be1cb90e3dabf94da72ca28872d4e22
-SHA256sum: 3536101f8459f50f7e73a017a0ddcf2f64e0377e1315c4546b3dc9ded6edb30b
-Size: 6172
-Filename: enigma2-plugin-extensions-mediascanner_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 56b84c44304595929fe3c0e88f27060a
+SHA256sum: c56a74574796ff83caec51dfdbd2ed1f67cda3468a83f47034a9d3e54f936d53
+Size: 6174
+Filename: enigma2-plugin-extensions-mediascanner_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner
 OE: enigma2
@@ -1481,9 +1481,9 @@ Version: 2.2.1-git223+a9459ea0+a9459ea70a-r0
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cc9fd2badd9314028d338b563b7ce011
-SHA256sum: 1ea052b94152fe744cb76a08d596f07af8a17fc307c0230da7e064a70f4ba214
-Size: 114836
+MD5Sum: 136f06e04fa417f182832a91564a61b8
+SHA256sum: ba7efe7cf80e4b5f92a4c42de9c23c127180052642a92f41d0cc5dcc4ca0be5f
+Size: 114834
 Filename: enigma2-plugin-extensions-openwebif-src_2.2.1-git223+a9459ea0+a9459ea70a-r0_hd51.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0 - Source files
@@ -1498,9 +1498,9 @@ Provides: enigma2-plugin-extensions-openwebif-terminal
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c385dc1bcf59ad56dadd34620611c2d0
-SHA256sum: 522817e8d83920a8a50169f4ff7785d9f2b48b8f9b4f3bd375b037975812690d
-Size: 3546250
+MD5Sum: a07a0321b1ddee3738c9131ecb9bf03f
+SHA256sum: a0dedde0415332488cf6b21f27c4edf9185b1ea071de7dcc11830273d24bf6ff
+Size: 3548346
 Filename: enigma2-plugin-extensions-openwebif_2.2.1-git223+a9459ea0+a9459ea70a-r0_hd51.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0
@@ -1509,14 +1509,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c83200ea22952d7a7641af8ba24281ae
-SHA256sum: e1114b56186915773f080ce5f3317f5c6c79fdd7267d445a822b1e05e420a50d
-Size: 7044
-Filename: enigma2-plugin-extensions-pictureplayer-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 211b9baf552f9f1f7a1e4746321beeb7
+SHA256sum: 8ccc4704d569c2bbbfd1c190f45f55bba47b857a65c3135586f7c7c1ab026d97
+Size: 7046
+Filename: enigma2-plugin-extensions-pictureplayer-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer (sources)
 OE: enigma2
@@ -1524,14 +1524,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0a780e3dd53c86bd3d11244b2bcdc1bb
-SHA256sum: 7561f3a63274230c0888b021d2b226c75d2ec6b09309b811a5b2b72bfdea4751
+MD5Sum: 6e30688335e841418ddfcb6aa982b23d
+SHA256sum: dd2eecd9afe11523265df8a04f195773aa0b941208ee6b4a8f0daf2ae93aa866
 Size: 22574
-Filename: enigma2-plugin-extensions-pictureplayer_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-pictureplayer_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer
 OE: enigma2
@@ -1633,15 +1633,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-dbg
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libcurl-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libgstpbutils-1.0-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython3-dbg, libsigc++-3-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b4335bb774a6310d20d2449ac068b916
-SHA256sum: 295f8a38153fbed6c3e23f592dafa1ab3c0e133d65c44db00397c370439586d3
-Size: 16752026
-Filename: enigma2-plugin-extensions-socketmmi-dbg_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: c668d8bcb43b9ea55f121eaa8dbe1ecf
+SHA256sum: 11386dd6d2ad9512be29af0f6421f19ae2e41470f2672274331f3d06b211fd6a
+Size: 16753338
+Filename: enigma2-plugin-extensions-socketmmi-dbg_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (debug)
 OE: enigma2
@@ -1649,14 +1649,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a00a5abcc4171a79b00cd2197776f4be
-SHA256sum: 72b5aa3a9792e4f118f4d23c58de6ddccf47ea9029c389a39ccde23fa58dc0e5
-Size: 1512
-Filename: enigma2-plugin-extensions-socketmmi-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 5a388011e007cfc857839f5fc854b7ea
+SHA256sum: 82197ad51f0d4e8176c7cb2d775ba2b81ff3aa3e823352fee7b3d0fc834a31db
+Size: 1514
+Filename: enigma2-plugin-extensions-socketmmi-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (sources)
 OE: enigma2
@@ -1664,14 +1664,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-staticdev
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 331661b2a8143893fdbca9f106376391
-SHA256sum: d34035aebfa3192bb826d46d533b8c7be61d4ca05dfe83571df23efa0205119f
-Size: 128706
-Filename: enigma2-plugin-extensions-socketmmi-staticdev_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 25afb57007f10c1c54e93915dd75cee5
+SHA256sum: 3883f5f74b196afec2e9a6c719a19856c0e24a02db14d3126d55b1a2f1ce7f87
+Size: 128708
+Filename: enigma2-plugin-extensions-socketmmi-staticdev_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (static development)
 OE: enigma2
@@ -1679,15 +1679,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libstdc++6 (>= 14.2.0), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libxml2 (>= 2.13.6)
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6b992ffe14e44d5b777c88aa428c6408
-SHA256sum: c2871ae206287bed31d9aa4f92e9ecc33380d61584a556c0c8168037912b60d3
+MD5Sum: e7ed3f82f77f37e8727a5fcd7611e208
+SHA256sum: 74ca655bae369d41ee9495b8bfae11ed7c64a6d6e02664114b22fd276b972a7f
 Size: 12910
-Filename: enigma2-plugin-extensions-socketmmi_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-extensions-socketmmi_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
 OE: enigma2
@@ -1695,14 +1695,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-animationsetup-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eea118aafed7c4ac7dbde0c510c2f9c6
-SHA256sum: fb7c37bf194f3a0d89ca076fc87a2095ceb0dac741589d871fbe47973aec61f5
+MD5Sum: 2d43844a36b1f164b2536078465ba7d2
+SHA256sum: deff58adc2996ba30f6ebfac3ca96c5dd179ae544ee8dc386b6ab75fd8370472
 Size: 3182
-Filename: enigma2-plugin-systemplugins-animationsetup-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-animationsetup-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-animationsetup (sources)
 OE: enigma2
@@ -1710,14 +1710,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-animationsetup
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0a060440f3d39001eba1d5bdeb05123f
-SHA256sum: 52815edbd213b3287f8b3c0a9a50912a30ee1d0c007ba9fef8c0d0728edd0721
+MD5Sum: 5bb1dd3cba6062431b8e2e87ccbc1eb2
+SHA256sum: d34056b61e8128e6e0750d98ab6e274ffafa54847484b1e1f6eb95a86d0c700c
 Size: 6946
-Filename: enigma2-plugin-systemplugins-animationsetup_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-animationsetup_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-animationsetup
 OE: enigma2
@@ -1771,14 +1771,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 32e750fdd4c18b1b7d5bbc44b6ff9b73
-SHA256sum: 9a8491f9510c8780caad2ff8867486a69b59eac750d408bda3716050722d3948
+MD5Sum: 5ee40f08551547fa6cc116653b204e82
+SHA256sum: 5767d9218a00209b7bf29c12cd28163576908145229f8e882c38639aa67ecbe1
 Size: 3844
-Filename: enigma2-plugin-systemplugins-cablescan-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-cablescan-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan (sources)
 OE: enigma2
@@ -1786,14 +1786,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 58d898581b02428a2653415824e9bbbc
-SHA256sum: 4c59814c38d8a2b2b475422eb235e64040675e7f1cf5fb268d18ba8720f61506
-Size: 9658
-Filename: enigma2-plugin-systemplugins-cablescan_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 3cd7adcd049c38157e97323616947243
+SHA256sum: 532b547c1a9353ef8599576391323722e3eebb64ad238674b71986a2c69de89d
+Size: 9660
+Filename: enigma2-plugin-systemplugins-cablescan_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan
 OE: enigma2
@@ -1801,14 +1801,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7bd15fe1adfb57fad3525c4b95a42900
-SHA256sum: c9b3573defad16748f915ab56375f3ded4998312d92b74dcae66eefa23308f79
+MD5Sum: de6f9eb61afc6170a80611291e692254
+SHA256sum: 2924c7aa7f44a17065d86f779d6e11cfb53cb1598d7c1c0692fa96da4b613894
 Size: 7008
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment (sources)
 OE: enigma2
@@ -1816,14 +1816,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b0de8969069c0990fc595fe075863119
-SHA256sum: e0ac2e3393bc2ac1d271a07085e940720991ef4ac5d300c8f0440439b30595f5
-Size: 17782
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 1476da9cc39fc11231ba999ada5f7670
+SHA256sum: 784e3569c2592acd5e983f36063bcd1bb2c89e8cb3fb0f7d755a0d4cc81d70d0
+Size: 17784
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment
 OE: enigma2
@@ -1886,9 +1886,9 @@ Depends: enigma2, libc6 (>= 2.41+git0+0a7c7a3e28), libcurl4 (>= 8.12.1), libxml2
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 24c5ed7111b88612defe43c4e506c928
-SHA256sum: 46a4ed931a059b2045ff6b09ed5da8bdfecd0749c70717ec5a996e42b079aab8
-Size: 403578
+MD5Sum: f4ebc7114878a8e5940f864874118e7b
+SHA256sum: e041375187ee455060330c69338a142cadc1d6da581858245f6e72fa792757d4
+Size: 403634
 Filename: enigma2-plugin-systemplugins-crossepg_0.9.1+gitr561+927249e0+927249e5e9-r4_hd51.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: systemplugins-crossepg
@@ -1898,14 +1898,14 @@ License: LGPL-2.1-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eaf7e617cc115e3e8196f4c3a756c959
-SHA256sum: 87c5d3d632286f7fd43aa139a1fce78fa8a3360b7b69ab57b4826006a10d71d1
+MD5Sum: e1fa9a15181abeff0b89d3471e994fc8
+SHA256sum: 5d22788743a88dbb7097dc6a84d161686fcb4d62d5867ba304e8d8a6b7ce3655
 Size: 2644
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner (sources)
 OE: enigma2
@@ -1913,14 +1913,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: db0615b0a98830b847c01b2d4888bf54
-SHA256sum: 8af50dca187ee3722ee1b4eb64f576f601b2b69f0120351bc340742427d72a1a
+MD5Sum: 2b7798e4092b6be89d6b178e8fa3ebd5
+SHA256sum: 04b22bfbc3ac06851c9d1dbd8e074e286d7f9666cc6084f059dd9f5a74ed1c51
 Size: 4834
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner
 OE: enigma2
@@ -1928,14 +1928,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 72d19a0809f66ebdabecc4bb86f50765
-SHA256sum: aa59ca2ee15e80439c89f5964cce3f6c2e3cf90925a5ff3e3c59821c43c5e252
+MD5Sum: 73d6da9d529f0030f6fa42f4061a5f17
+SHA256sum: 8b4412969df03d02004dfe90b86d704af2b4ff6acb8d5dc966665b75f52dc5c3
 Size: 6812
-Filename: enigma2-plugin-systemplugins-diseqctester-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-diseqctester-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester (sources)
 OE: enigma2
@@ -1943,14 +1943,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 650b7c24c32ad4bffeba677c9ee0ced4
-SHA256sum: dac3b9bf7fa7c0ecfc74b5cf88a63e6961c3a07ee4d1be76a55d150f89660009
+MD5Sum: 7a48851149d820807a7b3aafaf81787d
+SHA256sum: 4a61578dcf4813b04961723734ae961849d76e2c7201ab3ccc921be7b4eea439
 Size: 16114
-Filename: enigma2-plugin-systemplugins-diseqctester_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-diseqctester_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester
 OE: enigma2
@@ -1958,14 +1958,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastchannelchange-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8d5cd4a25a018d7eb3039d7f3ff07f4d
-SHA256sum: bc370ed22b5b26fc490e43e07149ca0e5e716408469b354ac5bf843df36b32b6
-Size: 5096
-Filename: enigma2-plugin-systemplugins-fastchannelchange-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 65d5f17cc857c95ee8e992d003f8bc25
+SHA256sum: 2c7b9a72fc419579cfa492fbdc5ad8301be81fd74f603e2c93e06523d567fa30
+Size: 5110
+Filename: enigma2-plugin-systemplugins-fastchannelchange-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-fastchannelchange (sources)
 OE: enigma2
@@ -1973,14 +1973,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastchannelchange
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 945f5069a0bfa5415e23bfa58c533104
-SHA256sum: 769944dc6647bb750e822bce699914dc953c8408e6f8a612e918d0632cc2b136
-Size: 12990
-Filename: enigma2-plugin-systemplugins-fastchannelchange_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: e7c2ff6ecc51eac7fc05187fae2cfd8e
+SHA256sum: f9637ffbb56da73930ce54c9f5b420c1f52a119eff326013bb44a1bcadf7f1c4
+Size: 13004
+Filename: enigma2-plugin-systemplugins-fastchannelchange_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-fastchannelchange
 OE: enigma2
@@ -1988,14 +1988,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 60bace1f8c58b5942740032793754079
-SHA256sum: bee594e69f12ccb75c6b6f9b3cbc33ab40d05c4e52d8a2ded09a5635996b5b19
+MD5Sum: a3826de302d6cdc44781d32a592fc436
+SHA256sum: da9ef54197b00576309366781716a9d1829390cd14a899bee00aa299c1ab41dc
 Size: 5224
-Filename: enigma2-plugin-systemplugins-fastscan-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-fastscan-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan (sources)
 OE: enigma2
@@ -2003,14 +2003,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d73c94cc93ff6de0aeb60c788e76fa72
-SHA256sum: 81bed1154c73312a16aa142b49b9b2240ad49975920c5d255799d5ea8536d841
+MD5Sum: 12aeef3e43e3766cfe99f24ff8cd799a
+SHA256sum: 9fa1fcd75d53776dcf29586ccb2550645f05a3cbb4491fed0ce7155dc8f6fcef
 Size: 13540
-Filename: enigma2-plugin-systemplugins-fastscan_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-fastscan_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan
 OE: enigma2
@@ -2018,14 +2018,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 334519d5fa12553a8a0a2c3e448e4016
-SHA256sum: b29e2d223be23f3bd1ab2d488f89bf35a217ee27366220ccbb374e9580b44a1c
+MD5Sum: cec9d9c9303ce8a1879241abdc21eeb5
+SHA256sum: 6619d91d5dd712e298e60b15c5cc4bb804402d16acbfa43df79b28fbd095b425
 Size: 3522
-Filename: enigma2-plugin-systemplugins-hdmicec-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-hdmicec-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec (sources)
 OE: enigma2
@@ -2033,14 +2033,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eea2c4ae4b2e8c25a7a833ab88c21a3d
-SHA256sum: 1fe6cc4975c9bd688d322f6ddf6d6c4f7485c8cd71b299d3d91efed9796fab40
+MD5Sum: 4cf9e7ed277cf76fa883e737e178102e
+SHA256sum: fe0d448df5e2c987855264e8898758f8e1a376dad7c3993ca9282d3a771b1aa4
 Size: 7344
-Filename: enigma2-plugin-systemplugins-hdmicec_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-hdmicec_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec
 OE: enigma2
@@ -2048,14 +2048,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c9849ee99da9ec82574951bc0a6dcf09
-SHA256sum: f13e21c2eaf81ad885c9679d691473c6425471be2d98e6815a5687a29ad67942
+MD5Sum: 11c075f046d00cb811fb428cc761a04f
+SHA256sum: 66a83575ed714f6548311c33dca8d9882a71fc72d361f49cf26b3cfac4f0213e
 Size: 4132
-Filename: enigma2-plugin-systemplugins-hotplug-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-hotplug-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug (sources)
 OE: enigma2
@@ -2063,14 +2063,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b3749af930a0fb4c0e60d32ad1da41fb
-SHA256sum: 44a35a7cf29210849eae8d080fe3877e61ddc55c8ca8af48710b21956f598b79
-Size: 9334
-Filename: enigma2-plugin-systemplugins-hotplug_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: a2986f68e559e1510b43df2f0d1a8699
+SHA256sum: 79dbf958c7518a6bfb786aac0c9b57fc047ba5edd0011eba01aa666ae13283ed
+Size: 9336
+Filename: enigma2-plugin-systemplugins-hotplug_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug
 OE: enigma2
@@ -2078,14 +2078,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-lcnscanner-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4569e47cf295717358599a3a6b4114f1
-SHA256sum: fff0b0d543d3212060bd8cf994d860350dc98c06d4c8d2dfb52fbf1374a50528
+MD5Sum: 3153f1312812d954fa6ab37e46bf361f
+SHA256sum: 0dd2eef0edad5488f42e2e955c18b805995589b1b736e29ac75f822c8b2d06d4
 Size: 7058
-Filename: enigma2-plugin-systemplugins-lcnscanner-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-lcnscanner-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-lcnscanner (sources)
 OE: enigma2
@@ -2093,16 +2093,16 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-lcnscanner
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Replaces: enigma2-plugin-systemplugins-terrestrialscan
 Conflicts: enigma2-plugin-systemplugins-terrestrialscan
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 298ca72d831deb2a1ed5cd4cb33d74dc
-SHA256sum: cb5462a8f23a12474dcd5a488519e76b0eb78789a25e20eec7d85bd2d1732ce8
-Size: 22364
-Filename: enigma2-plugin-systemplugins-lcnscanner_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 5e079c49edc50b1985a8f343856c50d0
+SHA256sum: 0b2d888c460737258dfa319279e8ad1b891baa7be57a82b5f6d1c1784f29103f
+Size: 22366
+Filename: enigma2-plugin-systemplugins-lcnscanner_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-lcnscanner
 OE: enigma2
@@ -2110,14 +2110,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1d282f30dd28a9b30b8d0282d90359b0
-SHA256sum: 0c440166efb9679d84a9a72bd707f4c3871e86e400b5c50d3427d3956436a638
+MD5Sum: 7187a98801c57a89f8d10d297251529c
+SHA256sum: 3d9274ef68411faa0232c8a512b86dfa473f7440e4bc08be84e72297b0f6d107
 Size: 4712
-Filename: enigma2-plugin-systemplugins-networkwizard-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-networkwizard-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard (sources)
 OE: enigma2
@@ -2125,14 +2125,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1c47472eb7bb79e171b8315c6fb209fd
-SHA256sum: 1776b81460fa305af78c1a0355c53e33571416a8301b39dc0a2b0f56551c213f
-Size: 12410
-Filename: enigma2-plugin-systemplugins-networkwizard_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 844595900dbfb83844f217e5c3ce4831
+SHA256sum: 36865a8c0905f21a790c26eaf7a8bbc2fb844a95229a892c731154b83a8d0fed
+Size: 12412
+Filename: enigma2-plugin-systemplugins-networkwizard_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard
 OE: enigma2
@@ -2140,14 +2140,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 043cf45324d1e7995500dca534e3e581
-SHA256sum: ddbeae84669ddfdc77acfea8b7e3559d0796d4bda66b6a12f5d01df3666a98b6
-Size: 2484
-Filename: enigma2-plugin-systemplugins-osd3dsetup-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 99c8827df32c0e5b638beec9738b79fc
+SHA256sum: ac4faa2e59de8e7784e99f51e71ff4fd2f6db7ce1e564f8b1d0505e2981e4808
+Size: 2486
+Filename: enigma2-plugin-systemplugins-osd3dsetup-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup (sources)
 OE: enigma2
@@ -2155,14 +2155,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9bfe01ffe2bac641d9caae8a34882044
-SHA256sum: 170e7c7f987a0a835271c7700edcad034226b1ab82d7d380af13ac4163631ca9
-Size: 5596
-Filename: enigma2-plugin-systemplugins-osd3dsetup_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 4d8be261e1d39b0852385aba5e3eaab5
+SHA256sum: 632b20a9137d09821a0d6172b47225de8e51991955e3920d49bfd84706182588
+Size: 5598
+Filename: enigma2-plugin-systemplugins-osd3dsetup_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup
 OE: enigma2
@@ -2170,14 +2170,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7a1b47bb60c35fcea685e2b68c29f5c2
-SHA256sum: 6427ecd03070f8c40b37882868cb6f3d3dd4409d9b8f3ea8688d4428b6fac2aa
-Size: 4540
-Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 2bf91fb20a373042725479d08e4f284d
+SHA256sum: 69f9122760d0f6964644815cf0f77b74e98fe078ca64ed8571aa659211899535
+Size: 4542
+Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup (sources)
 OE: enigma2
@@ -2185,14 +2185,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a7b7e803905b631ea5eed64f778c5ae1
-SHA256sum: 23d9b07233c5867151015e3be41d23e77921c48ad2fe2fc22c535df45ddf8a39
+MD5Sum: a07b5f870a3e73e411c73657be6468e7
+SHA256sum: 91b2468501cd4a1789f06dcd878981f6d89c761fa121d17cecd9112fcf102a14
 Size: 9806
-Filename: enigma2-plugin-systemplugins-osdpositionsetup_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-osdpositionsetup_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup
 OE: enigma2
@@ -2200,14 +2200,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 45ddd0de4f4fc87d8ef1d7a10fdb6509
-SHA256sum: 5030becce3c873fe58c1856a04abeeab389baf5a2590ac1ece6942e053cfa004
+MD5Sum: ce70fb2cca28755a50bac0dfa6d97632
+SHA256sum: 04200d6e7b0aa155fac67805a8063b29a40d37e3999b669d736bf7d91d6fa97b
 Size: 17978
-Filename: enigma2-plugin-systemplugins-positionersetup-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-positionersetup-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup (sources)
 OE: enigma2
@@ -2215,14 +2215,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 773abcd323df0c2139bd60d043e3a077
-SHA256sum: a47a276efe4f3cd6c469197dadec685ca554cd8f797efb6edb2622dce042d6dc
-Size: 47040
-Filename: enigma2-plugin-systemplugins-positionersetup_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 071c511ab73b166afb38893fb3d3a0b6
+SHA256sum: 01a31575c1f1f91fb86c19ff3ec2510545e4a0e5ea67b531583edfd8ce3c2ad7
+Size: 47042
+Filename: enigma2-plugin-systemplugins-positionersetup_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup
 OE: enigma2
@@ -2230,14 +2230,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cd511d522619cb24828beb50c0c7bee6
-SHA256sum: 1ea5800969f580aa3be56590cf3de828d818adda747fd6850e92dfbad0ab6fbe
-Size: 2084
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 710c7c1203865ef578b7bda4b8419d8f
+SHA256sum: 57d4c514c49b8de1d0de879e1dd893b2060c6bbb04f113ac95c5610299a3413d
+Size: 2086
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol (sources)
 OE: enigma2
@@ -2245,14 +2245,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 64ebfa48a2a4c92a31c636abfaa82118
-SHA256sum: aa1616e1dac21557bc9264b271f6ffe5d86aca09fe7840c762b39a102b4f3c00
+MD5Sum: 81974d1312f91cb177848a1a8e3ff481
+SHA256sum: 0184ba9eb8069b24aa806c6c0beaa95270dd0bca3d2d75e9ef4d75f13b191096
 Size: 3984
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol
 OE: enigma2
@@ -2260,14 +2260,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0e61e13de721f14fb67dd703bc4d43e7
-SHA256sum: b76d3c8baf2f2f310e654b0aa2a188d56ad8a9d584440770fb929e6c8cba2a08
+MD5Sum: 97163ab4a0324650b92da50f390171e2
+SHA256sum: 03544696ffeb4f642eadaf66f3e97fa589acacdb01f3c1c399dff54c0328e20e
 Size: 6940
-Filename: enigma2-plugin-systemplugins-satfinder-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-satfinder-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder (sources)
 OE: enigma2
@@ -2275,14 +2275,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 17398132a2be538242183ae036b1f10c
-SHA256sum: 1f5c635845c611f5c5d8ca69942d586188df4362c7288c6c66abff1656812f93
-Size: 17000
-Filename: enigma2-plugin-systemplugins-satfinder_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: a9827308957e115abdf81c5e9ac80921
+SHA256sum: f5054f14077734ea53705e7f6227934fcd2179e82391372fb51f03721c87c6e9
+Size: 17002
+Filename: enigma2-plugin-systemplugins-satfinder_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
 OE: enigma2
@@ -2290,14 +2290,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8985aefb52001a29d6f78e519984d4b6
-SHA256sum: f5873daea93a49667f883636d024ba5b8cd9158ffeb0761b4ef1c5f805fde840
-Size: 19530
-Filename: enigma2-plugin-systemplugins-softwaremanager-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: ff99c6e69aa8a615fbfd8642d33d28b5
+SHA256sum: 18acf5644fb4b6c297c6de3bb12fb90d8d54c8b222657ea53177c05c9fcbb201
+Size: 20218
+Filename: enigma2-plugin-systemplugins-softwaremanager-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager (sources)
 OE: enigma2
@@ -2305,15 +2305,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: python3-twisted
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e4f346beff79c2df04accc5651a8bb16
-SHA256sum: ec24bedf46151a5f1c68b2bd14e41e6084e5aa3b33cc5ce8dffe0d46a3cb4258
-Size: 69686
-Filename: enigma2-plugin-systemplugins-softwaremanager_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 0474a1b5054d14878e1a7b1604272ed6
+SHA256sum: e6db8fcc90c0c5e69251f5d2f6deaefc8a36061958b0643a3a5b2d801915b542
+Size: 70548
+Filename: enigma2-plugin-systemplugins-softwaremanager_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager
 OE: enigma2
@@ -2321,14 +2321,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 722faf57e1c24d7d287076ab9d1c69d0
-SHA256sum: 714d0a5b092098296425870c34acd8d1d05fad0bfebe006923c43da4f021a454
+MD5Sum: fbc1f49a3a18c2e93bd23813503b5826
+SHA256sum: aab537827043e4671be9d76db1a95750b10b2457f39eb4a614a3a4de08cc183e
 Size: 2336
-Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup (sources)
 OE: enigma2
@@ -2336,14 +2336,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 076c56924d0b1ca381db664c857928b8
-SHA256sum: 19896061754f48841d770b4f59e81f93090d9aedbb129f4263051ce9b0a8f553
-Size: 5004
-Filename: enigma2-plugin-systemplugins-videoclippingsetup_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: acc4afbc8341a91b53caea79f5664ce9
+SHA256sum: 65a5d791d5fc96f71bd575f5efdf0bf327cded2a90c8dfd673285e6fe675d1a2
+Size: 5006
+Filename: enigma2-plugin-systemplugins-videoclippingsetup_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup
 OE: enigma2
@@ -2351,14 +2351,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ddde96a046e6ebe460578f95d244a8f9
-SHA256sum: 331cac25a037375ce83e4ef066a1f4a7ac9b255c364ceb0c1af95eaf301a9781
-Size: 6014
-Filename: enigma2-plugin-systemplugins-videoenhancement-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 633eb7c234feef56797a32f7ca908011
+SHA256sum: c6263a3719271f36aaa5b44e68ae4caafcd46a44bbcf0a8af00bb408ef1e5f01
+Size: 6016
+Filename: enigma2-plugin-systemplugins-videoenhancement-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement (sources)
 OE: enigma2
@@ -2366,14 +2366,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1b6f6783030e56e07c977d1aa7d8dae9
-SHA256sum: f6c542e5dfe2e3e1387e517fdd7eafeaef0746bf914f81c8c1d29e10241ebe3e
-Size: 15438
-Filename: enigma2-plugin-systemplugins-videoenhancement_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: d4182a0c79187c825e6e248481cc1446
+SHA256sum: a73217c2608e643bc205c06dd686a7f275ff20b22b19521c91b0971fc4f6c21e
+Size: 15440
+Filename: enigma2-plugin-systemplugins-videoenhancement_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement
 OE: enigma2
@@ -2381,14 +2381,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a3875ad4e5bd1e2f6a1b66089e8c8d75
-SHA256sum: b1b5809e47e488c6714e3fc7d3f2df598965f86710d350e9b0bec70af3295001
+MD5Sum: 8eab5abcff14e4dc85bc53feb429cdcf
+SHA256sum: 9ff7641f44cd81c638740f1b9f0b6ff95f1a46642b2f4817b0180a266f6baa6a
 Size: 10564
-Filename: enigma2-plugin-systemplugins-videomode-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-videomode-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode (sources)
 OE: enigma2
@@ -2396,14 +2396,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: be926073543f0317c7ab2d51964e2033
-SHA256sum: 51b46dc1f8f17b549d5dd381132394c62136a0a223cab625aff401467c05c6e7
+MD5Sum: 3049456dc9c6bada620d7af3cf887a10
+SHA256sum: 4bc9603dad180d4b28f45b61cdb0ff7da831b5ac8c6a076af086d924d84115c9
 Size: 33814
-Filename: enigma2-plugin-systemplugins-videomode_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-videomode_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode
 OE: enigma2
@@ -2411,14 +2411,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 128831228c41f4574fb902bed1e083c4
-SHA256sum: 4fa9b036bfea1394d752f6579a345d3141a03c1d7b05da9590dd0356a368b13f
+MD5Sum: 05f15eb4c5624476855219b9aaec9216
+SHA256sum: 36d6062656cd0ba92676ea0a350c6ee501e7ffb7ca9b3abdbb6c1a122e66d183
 Size: 4980
-Filename: enigma2-plugin-systemplugins-videotune-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-videotune-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune (sources)
 OE: enigma2
@@ -2426,14 +2426,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 066402720d28b2856fd8a1b8f221360b
-SHA256sum: c3cf5a3d192a2df9eaf8179eda48f361fbad1078037e4fc2ec774c573aa76ac8
+MD5Sum: 6e10e0abcea75fa8d25545ef3a95b7bd
+SHA256sum: 56b1d3333b9d29caf50163c0fc2d0bdeea6183c79e1f0bc266637839f03a967e
 Size: 72200
-Filename: enigma2-plugin-systemplugins-videotune_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-videotune_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune
 OE: enigma2
@@ -2441,14 +2441,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fcaf3be765e75f533acb6706a1bab0b0
-SHA256sum: ec04fd65dbda152cb2108b505666a3f2e5025d740bc7abb4ea2da056d1fb1b60
-Size: 8940
-Filename: enigma2-plugin-systemplugins-wirelesslan-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: a199edfdc6d2da323350d24508b2ae31
+SHA256sum: 619af482d1fdc3a666a3978815f4d94e4c42c080ed03026fab738661d553be4d
+Size: 8942
+Filename: enigma2-plugin-systemplugins-wirelesslan-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan (sources)
 OE: enigma2
@@ -2456,15 +2456,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Depends: python3-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 436ce30c1fa6d8f113a8e3ae395ccb96
-SHA256sum: f30bebdf5d9a1db08d35042d115598fc66103a3dc8835df930e3b9f4530c9024
+MD5Sum: 4287539d894e371e400eb8a5be657dfe
+SHA256sum: 883f63ba45a6ce7d3526531a785963932b907e95810cf55f8fde29e8584081e4
 Size: 22068
-Filename: enigma2-plugin-systemplugins-wirelesslan_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-plugin-systemplugins-wirelesslan_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan
 OE: enigma2
@@ -2472,14 +2472,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-remote-dbg
-Version: git131+95b69630+95b6963a54-r0
+Version: git133+9fc12550+9fc1255202-r0
 Section: devel
 Architecture: hd51
 Maintainer: OE-Alliance
-MD5Sum: 7ad01ff63ffe4f5af8b8395f2ed8f9bf
-SHA256sum: 2cd1469f71b2dc7bf5027fd2325ccbc25eb220410c2f662717ab8c0652226dcf
-Size: 596
-Filename: enigma2-remote-dbg_git131+95b69630+95b6963a54-r0_hd51.ipk
+MD5Sum: d6205b3575f9c80efd051d04401f7e88
+SHA256sum: 8129819e2d7ef7cfa9523f2a8eae5549f364717cd1907a42bfa51a7f95d78ef0
+Size: 594
+Filename: enigma2-remote-dbg_git133+9fc12550+9fc1255202-r0_hd51.ipk
 Source: enigma2-remote.bb
 Description: enigma2-remote version git-r0 - Debugging files
 OE: enigma2-remote
@@ -2487,15 +2487,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-remote-dev
-Version: git131+95b69630+95b6963a54-r0
-Recommends: enigma2-remote (= git131+95b69630+95b6963a54-r0)
+Version: git133+9fc12550+9fc1255202-r0
+Recommends: enigma2-remote (= git133+9fc12550+9fc1255202-r0)
 Section: devel
 Architecture: hd51
 Maintainer: OE-Alliance
-MD5Sum: ed9192701a813ce49e731a32c31a662f
-SHA256sum: 662ec91d08f28776caecb2507c44fda65f2bb4890df4322ba54d49bfe8bdc2ec
+MD5Sum: 1ba90c5d5ea298b38b642431ca5bb7d4
+SHA256sum: a6420a1f95b2bab4d16fcc6dc1d72ab8ccbda78556fb25c973268c583be6c77e
 Size: 632
-Filename: enigma2-remote-dev_git131+95b69630+95b6963a54-r0_hd51.ipk
+Filename: enigma2-remote-dev_git133+9fc12550+9fc1255202-r0_hd51.ipk
 Source: enigma2-remote.bb
 Description: enigma2-remote version git-r0 - Development files
 OE: enigma2-remote
@@ -2503,14 +2503,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-remote
-Version: git131+95b69630+95b6963a54-r0
+Version: git133+9fc12550+9fc1255202-r0
 Section: base
 Architecture: hd51
 Maintainer: OE-Alliance
-MD5Sum: 3a5440f6dafef94c51bc36d7a5050283
-SHA256sum: 69787edbabeb385a003f749a47c5aa8d2383a4f0ca585126584ad3a80a22fe06
+MD5Sum: bff0315eaf34cb8ff9f73cd044107f2a
+SHA256sum: 3b03a23b215ad601dbe39f780c6d1646a5983acac3fa91e4acbab7b153bcd6f8
 Size: 119826
-Filename: enigma2-remote_git131+95b69630+95b6963a54-r0_hd51.ipk
+Filename: enigma2-remote_git133+9fc12550+9fc1255202-r0_hd51.ipk
 Source: enigma2-remote.bb
 Description: enigma2-remote version git-r0
 OE: enigma2-remote
@@ -2518,14 +2518,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-src
-Version: 3.13+git1047+5a874900+5a8749077a-r0
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
 Section: devel
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e870942e51509b82c3e0cbac0f9deec0
-SHA256sum: 5e57050d4b0efb25826bcebe071851f796ae2d19b1939bdc224e4e33a4085fa0
-Size: 839862
-Filename: enigma2-src_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: 2158eaa28eb535a3df2ebdaaf0bf01e3
+SHA256sum: 9397fccc6a7ba4cd4dc8a0d17b6ab6b77def2c012e3995c1ad96cb0cbea95a0c
+Size: 843782
+Filename: enigma2-src_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Source files
 OE: enigma2
@@ -2533,15 +2533,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-staticdev
-Version: 3.13+git1047+5a874900+5a8749077a-r0
-Depends: enigma2-dev (= 3.13+git1047+5a874900+5a8749077a-r0)
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
+Depends: enigma2-dev (= 3.13+git1069+59948ff0+59948ff66c-r0)
 Section: devel
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eb1d309758f6062d4c035d523b62427d
-SHA256sum: 5197245b47c8e2658d7d7d3b98139fbc949c63e03d5cfd9fa2ec504a074eb050
+MD5Sum: 23af0191f3805b3630de0432e84dfc7e
+SHA256sum: ce8317da51bae7a2be8b59a03b93ed49258b99892bcbc08a1dddb4c9bf53fbca
 Size: 7056
-Filename: enigma2-staticdev_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+Filename: enigma2-staticdev_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files (Static Libraries)
 OE: enigma2
@@ -2549,18 +2549,18 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2
-Version: 3.13+git1047+5a874900+5a8749077a-r0
-Depends: alsa-conf, enigma-info, enigma2-dhcp-wait, enigma2-fonts, enigma2-locale-meta, enigma2-plugin-drivers-exfat, enigma2-plugin-drivers-ntfs-3g, enigma2-remote, enigma2-timezones, ethtool, font-valis-enigma, glibc-gconv-cp1250, glibc-gconv-iso8859-15, gstreamer1.0 (>= 1.24.12), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.41+git0+0a7c7a3e28), libcrypt2 (>= 4.4.38), libcrypto3 (>= 3.4.1), libcurl4 (>= 8.12.1), libdreamdvd0 (>= 1.1+git220+375e7910+375e791cd0), libdvbsi++1 (>= 0.3.9+git130+f3c40ea0+f3c40ea6da), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.82.4), libgomp1 (>= 14.2.0), libgstpbutils-1.0-0 (>= 1.24.12), libjpeg62 (>= 3.0.1), libpng16-16 (>= 1.6.47), libpython3.13-1.0 (>= 3.13.2), libsigc-3.0-0 (>= 3.6.0), libssl3 (>= 3.4.1), libstdc++6 (>= 14.2.0), libtuxtxt0 (>= 2.0+git82+14027950+1402795d66), libtuxtxt32bpp0 (>= 2.0+git82+14027950+1402795d66), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libxml2 (>= 2.13.6), oe-alliance-branding, python3-asyncio, python3-codecs, python3-core, python3-crypt, python3-fcntl, python3-mime, python3-mmap, python3-netclient, python3-netifaces, python3-netserver, python3-numbers, python3-pickle, python3-pillow, python3-process, python3-puremagic, python3-pyusb, python3-requests, python3-shell, python3-six, python3-threading, python3-treq, python3-trio, python3-twisted-core, python3-twisted-web, python3-xml, python3-zopeinterface, virtual-gstreamer1.0-dvbmediasink
+Version: 3.13+git1069+59948ff0+59948ff66c-r0
+Depends: alsa-conf, enigma-info, enigma2-dhcp-wait, enigma2-fonts, enigma2-locale-meta, enigma2-plugin-drivers-exfat, enigma2-plugin-drivers-ntfs-3g, enigma2-remote, enigma2-timezones, ethtool, font-valis-enigma, glibc-gconv-cp1250, glibc-gconv-iso8859-15, gstreamer1.0 (>= 1.26.0), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.41+git0+0a7c7a3e28), libcrypt2 (>= 4.4.38), libcrypto3 (>= 3.4.1), libcurl4 (>= 8.12.1), libdreamdvd0 (>= 1.1+git220+375e7910+375e791cd0), libdvbsi++1 (>= 0.3.9+git130+f3c40ea0+f3c40ea6da), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.82.4), libgomp1 (>= 14.2.0), libgstpbutils-1.0-0 (>= 1.26.0), libjpeg62 (>= 3.0.1), libpng16-16 (>= 1.6.47), libpython3.13-1.0 (>= 3.13.2), libsigc-3.0-0 (>= 3.6.0), libssl3 (>= 3.4.1), libstdc++6 (>= 14.2.0), libtuxtxt0 (>= 2.0+git82+14027950+1402795d66), libtuxtxt32bpp0 (>= 2.0+git82+14027950+1402795d66), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libxml2 (>= 2.13.6), oe-alliance-branding, python3-asyncio, python3-codecs, python3-core, python3-crypt, python3-fcntl, python3-mime, python3-mmap, python3-netclient, python3-netifaces, python3-netserver, python3-numbers, python3-pickle, python3-pillow, python3-process, python3-puremagic, python3-pyusb, python3-requests, python3-shell, python3-six, python3-threading, python3-treq, python3-trio, python3-twisted-core, python3-twisted-web, python3-xml, python3-zopeinterface, virtual-gstreamer1.0-dvbmediasink
 Replaces: enigma2-plugin-pli-softcamsetup, enigma2-plugin-systemplugins-skinselector
 Conflicts: enigma2-plugin-pli-softcamsetup, enigma2-plugin-systemplugins-skinselector
 Recommends: enigma2-plugin-skins-pli-fullhd, glib-networking, glibc-gconv-utf-16, gstreamer1.0-plugin-subsink, gstreamer1.0-plugins-bad-aom, gstreamer1.0-plugins-bad-autoconvert, gstreamer1.0-plugins-bad-dash, gstreamer1.0-plugins-bad-faac, gstreamer1.0-plugins-bad-faad, gstreamer1.0-plugins-bad-fdkaac, gstreamer1.0-plugins-bad-hls, gstreamer1.0-plugins-bad-id3tag, gstreamer1.0-plugins-bad-interlace, gstreamer1.0-plugins-bad-mpegdemux, gstreamer1.0-plugins-bad-mpegpsmux, gstreamer1.0-plugins-bad-mpegtsdemux, gstreamer1.0-plugins-bad-mpegtsmux, gstreamer1.0-plugins-bad-musepack, gstreamer1.0-plugins-bad-openh264, gstreamer1.0-plugins-bad-opusparse, gstreamer1.0-plugins-bad-rtmp, gstreamer1.0-plugins-bad-smoothstreaming, gstreamer1.0-plugins-bad-videoparsersbad, gstreamer1.0-plugins-base-alsa, gstreamer1.0-plugins-base-app, gstreamer1.0-plugins-base-audioconvert, gstreamer1.0-plugins-base-audiorate, gstreamer1.0-plugins-base-audioresample, gstreamer1.0-plugins-base-ivorbisdec, gstreamer1.0-plugins-base-ogg, gstreamer1.0-plugins-base-playback, gstreamer1.0-plugins-base-rawparse, gstreamer1.0-plugins-base-subparse, gstreamer1.0-plugins-base-typefindfunctions, gstreamer1.0-plugins-base-videoconvert, gstreamer1.0-plugins-base-videoconvertscale, gstreamer1.0-plugins-base-videorate, gstreamer1.0-plugins-base-vorbis, gstreamer1.0-plugins-good-amrnb, gstreamer1.0-plugins-good-amrwbdec, gstreamer1.0-plugins-good-apetag, gstreamer1.0-plugins-good-audioparsers, gstreamer1.0-plugins-good-autodetect, gstreamer1.0-plugins-good-avi, gstreamer1.0-plugins-good-flac, gstreamer1.0-plugins-good-flv, gstreamer1.0-plugins-good-icydemux, gstreamer1.0-plugins-good-id3demux, gstreamer1.0-plugins-good-isomp4, gstreamer1.0-plugins-good-matroska, gstreamer1.0-plugins-good-mpg123, gstreamer1.0-plugins-good-rtp, gstreamer1.0-plugins-good-rtpmanager, gstreamer1.0-plugins-good-rtsp, gstreamer1.0-plugins-good-soup, gstreamer1.0-plugins-good-udp, gstreamer1.0-plugins-good-vpx, gstreamer1.0-plugins-good-wavpack, gstreamer1.0-plugins-good-wavparse, gstreamer1.0-plugins-ugly-asf, gstreamer1.0-plugins-ugly-cdio, gstreamer1.0-plugins-ugly-dvdsub, gstreamer1.0-plugins-ugly-x264, libdvdcss, ofgwrite, python3-sendfile
 Section: base
 Architecture: hd51
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: caccd953f1c12cd073c17dd5945b9c3b
-SHA256sum: e9fd5edb695bf68389566fdbae2ea0dc40c70ee8766b7ae49fc1eeae5f75222a
-Size: 5376108
-Filename: enigma2_3.13+git1047+5a874900+5a8749077a-r0_hd51.ipk
+MD5Sum: bd6bd24441d64b7f5e62da06aaa77a27
+SHA256sum: aaf57cb789245c662827a210d96a01db88d4d2dbedac5a4b2c43281ff41c3aae
+Size: 5385822
+Filename: enigma2_3.13+git1069+59948ff0+59948ff66c-r0_hd51.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -2573,9 +2573,9 @@ Recommends: glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 35a355d29c6cc1d20fd3fd82aed2635f
-SHA256sum: e5f610a71d610ce8a05e0b772feb1e1a0cf66ca461d3c2739947ade3c32abf83
-Size: 111516
+MD5Sum: 7effe32c975dfbc339a8cb99ae591b25
+SHA256sum: 2a4a985a1ea490f50b76ad5e58fba6a55b24d6fdbafddb0794cee6559be03190
+Size: 111536
 Filename: gstreamer1.0-plugin-dvbmediasink-dbg_1.0+git252+c1ca5200+c1ca520b9e-r0_hd51.ipk
 Source: gstreamer1.0-plugin-dvbmediasink.bb
 Description: gstreamer1.0-plugin-dvbmediasink version 1.0+git-r0 - Debugging files
@@ -2605,9 +2605,9 @@ Depends: gstreamer1.0-plugin-dvbmediasink-dev (= 1.0+git252+c1ca5200+c1ca520b9e-
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3ffa227ae3a430268abacda74e3d52ce
-SHA256sum: b8ecbffcaa26d1c7c8c2fc69556524526c998ec21120175e7ea207579c2761fa
-Size: 153152
+MD5Sum: d0a034e7d5fbab8e3ff40907b16e632f
+SHA256sum: ae1ead37edb24787b8e56b76ae66a020b965b421bf10c61d53074c4d5401340d
+Size: 153330
 Filename: gstreamer1.0-plugin-dvbmediasink-staticdev_1.0+git252+c1ca5200+c1ca520b9e-r0_hd51.ipk
 Source: gstreamer1.0-plugin-dvbmediasink.bb
 Description: gstreamer1.0-plugin-dvbmediasink version 1.0+git-r0 - Development files (Static Libraries)
@@ -2617,14 +2617,14 @@ Priority: optional
 
 Package: gstreamer1.0-plugin-dvbmediasink
 Version: 1.0+git252+c1ca5200+c1ca520b9e-r0
-Depends: gstreamer1.0 (>= 1.24.12), libc6 (>= 2.41+git0+0a7c7a3e28), libglib-2.0-0 (>= 2.82.4)
+Depends: gstreamer1.0 (>= 1.26.0), libc6 (>= 2.41+git0+0a7c7a3e28), libglib-2.0-0 (>= 2.82.4)
 Provides: virtual-gstreamer1.0-dvbmediasink
 Section: multimedia
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 89519cacc5ca41c11a20fe1fec65fb04
-SHA256sum: 4501a27a3a7866654f8de89b2f7e1cc9258cbc098923526b03db6016f2cc385a
-Size: 38610
+MD5Sum: 79cb19ef076e2b70befc78d052edd570
+SHA256sum: ae05b4ad3e96d4d5875c439cb5ec7fa7cc41c99b9546e966cc981aac3a97f622
+Size: 38598
 Filename: gstreamer1.0-plugin-dvbmediasink_1.0+git252+c1ca5200+c1ca520b9e-r0_hd51.ipk
 Source: gstreamer1.0-plugin-dvbmediasink.bb
 Description: gstreamer1.0-plugin-dvbmediasink version 1.0+git-r0
@@ -5149,9 +5149,9 @@ Provides: kernel-module-8192cu
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b34bc0bb09468ac0008e3ac8993b8f04
-SHA256sum: b11a07978bd6180f25f20870aa3d432dcb3de248a886344ffe635f0baccbb75f
-Size: 236504
+MD5Sum: 9b94b600cd84eb873e0e6eb3e47be237
+SHA256sum: 6f219ba10a2308007ce45fdb2470d37e116be8d847655ff16ee21a7726e0ae92
+Size: 236498
 Filename: kernel-module-8192cu-4.10.12_4.0.2-r0_hd51.ipk
 Source: kernel-module-rtl8192cu_4.0.2_9000.bb
 Description: 8192cu kernel module
@@ -6222,9 +6222,9 @@ Provides: kernel-module-ax88179-178a
 Section: kernel/modules
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b8f17c45b18d2fb37cc092885aa2370d
-SHA256sum: 7b353dfeababffba30ddddc50e29f795977cf5155ca6f32e57d71e3d9030e6a1
-Size: 12074
+MD5Sum: fdddd056f0fbcb27e39848ff17ff4b1e
+SHA256sum: 2f23b875c336f25074399e8bf2d26685cee4f3da47d23d76607d71264a653fe6
+Size: 12064
 Filename: kernel-module-ax88179-178a-4.10.12_1.4.0-r0_hd51.ipk
 Source: ax88179-178a_1.4.0.bb
 Description: ax88179-178a kernel module
@@ -12105,9 +12105,9 @@ Version: 4.0.2-r0
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 797f7344725133816de0b4c94f6d1eed
-SHA256sum: 3c20e816b42cf998de11739176beefd3619de213d592d988cca49c4096d6c5c5
-Size: 549786
+MD5Sum: 5efe39746a60224e76318a452a1db174
+SHA256sum: c398d246b92e29a44b5b796d374703da81db63db6f14a0e78ef872a9e2ec34f0
+Size: 550248
 Filename: kernel-module-rtl8192cu-dbg_4.0.2-r0_hd51.ipk
 Source: kernel-module-rtl8192cu_4.0.2_9000.bb
 Description: Driver for Realtek USB wireless devices - Debugging files
@@ -13922,9 +13922,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c30c041e46aea6cb0dbea8890f4f3058
-SHA256sum: eff7775961fb90d8964b7e0275006ee27b6a38f0e280f6c1bce2628aaa05cf63
-Size: 1983122
+MD5Sum: f2565198c863a81e5cf8149aa7ade193
+SHA256sum: 97fd584f53b2815e84b5f4be664431aefb48a86369d503f31eb7ca30eb60cb16
+Size: 1983078
 Filename: kodi-addon-pvr-argustv_22.3.1+git0+1ff5b5186b-r0_hd51.ipk
 Source: kodi-addon-pvr-argustv.bb
 Description: Kodi Media Center PVR plugins
@@ -13938,9 +13938,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b7c1047033ea67bf8687fa6db5d4687f
-SHA256sum: 7892fd17c302cc6113ef6ba2a09d89f08a4fcabf8bf83c1e08b56ba832a6fab0
-Size: 410328
+MD5Sum: f943c9ea87b1a4ccfe833d180751f6ee
+SHA256sum: 0412c4ed53d25903b9058b776ad4bb37cf75a1b2d1c5c8a22d60bb52a9e6d1ac
+Size: 410218
 Filename: kodi-addon-pvr-demo-dbg_22.4.1+git0+4f0068b638-r0_hd51.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -13966,13 +13966,13 @@ Priority: optional
 
 Package: kodi-addon-pvr-demo
 Version: 22.4.1+git0+4f0068b638-r0
-Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.0.0)
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.1.0)
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b3d24ae5a8237004be656777403ee65c
-SHA256sum: 6163d21ed9ef98cc09e9a77f28f64a296b5a575f7ccb1c7b2dbacc713279c16b
-Size: 860886
+MD5Sum: 9d740266567ad793365fcd78a96133ad
+SHA256sum: 961da96e596a0ca330297e8575f450900c5227cd4c100c17a695dc2e0a2d58f8
+Size: 855540
 Filename: kodi-addon-pvr-demo_22.4.1+git0+4f0068b638-r0_hd51.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins
@@ -13986,9 +13986,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0883cbd8e88a8a16380c2320ab636ee1
-SHA256sum: e1b76ee4eae85c20fa8b7cba7b74b85eb69d1c3a83380200256a2577f25aaeec
-Size: 1939384
+MD5Sum: 27a153ca75304d785325bb9c405f1451
+SHA256sum: 1da20a3cc26bc63b344c29ab3e7752e2f46ab9c98ba945ab06e5b9bfdfe35f27
+Size: 1939436
 Filename: kodi-addon-pvr-dvblink-dbg_22.2.1+git0+16f9ba5496-r0_hd51.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14014,13 +14014,13 @@ Priority: optional
 
 Package: kodi-addon-pvr-dvblink
 Version: 22.2.1+git0+16f9ba5496-r0
-Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.0.0)
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.1.0)
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ad593b89e8261aadd631fd640ec36b76
-SHA256sum: 055c383144a290fcc0e71c8d09af07904fb0fa6ddc1cf29bebbed8b61ea8c1af
-Size: 7089044
+MD5Sum: 58ac5a2768ebe4bc0ef69af8b673bd80
+SHA256sum: d1e65fdd3f6664211d647358e2783ac08ec9b276cf777dfd4291708d66eb6317
+Size: 7097760
 Filename: kodi-addon-pvr-dvblink_22.2.1+git0+16f9ba5496-r0_hd51.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins
@@ -14066,9 +14066,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b5641694226e2b84fed49d7e27b9597d
-SHA256sum: 84ae37f8a4be09f96c4ad1eef214a1b6d73d5faca49f4e7395f5a484643d58f3
-Size: 2147978
+MD5Sum: 2e4758d712cddaf3ecfab3eba40687f4
+SHA256sum: 1b3d0b793ef8c929ce1d348c00048be9cc13d5d3ae0f2226dae19abd743f6294
+Size: 2686048
 Filename: kodi-addon-pvr-dvbviewer_22.2.1+git0+d0abe98ee4-r0_hd51.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
 Description: Kodi Media Center PVR plugins
@@ -14114,9 +14114,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e98c108fd335a9f03fdc6712525fdc88
-SHA256sum: 02b99cd4f6831564d9a9f753aaa15018ad72223c8d161beb41b9c9bbb35258f3
-Size: 891752
+MD5Sum: 4d2caffe50085de0eae326ac1c5c971e
+SHA256sum: 463dc9d570b1f742e1250a1f89c3bc3f4b506dc8dc125cb87aa4855e008ec998
+Size: 892022
 Filename: kodi-addon-pvr-filmon_22.2.1+git0+4e81e8966a-r0_hd51.ipk
 Source: kodi-addon-pvr-filmon.bb
 Description: Kodi Media Center PVR plugins
@@ -14162,9 +14162,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9c32a0ca1b97c09cc775375f845435dd
-SHA256sum: bfa09860f1b1bacb6b2456a783348f0585aeb26d8f74fc9d790bf900939d18f9
-Size: 10063848
+MD5Sum: a05d1e7af75589e448dd0df811003d61
+SHA256sum: 4504cbf13bd084b4a450dbfee1faff1335cdf3ab1e6c4cabc7eecbc4bcd87abe
+Size: 10066466
 Filename: kodi-addon-pvr-hts_22.6.1+git0+e35ed5744b-r0_hd51.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins
@@ -14210,9 +14210,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4f49cde3976de47e94d8462444208def
-SHA256sum: 146736776a6df1f83a9623099286b48c98204c440524f2750f117c0e589215a6
-Size: 18639934
+MD5Sum: 37a0eafdf2d77f715b640d4d034ff7f2
+SHA256sum: 7653ac6bb52f6b32af44d075d1ec9c147ae9a0b256bc1b993841fe1d29c0e0a3
+Size: 18630198
 Filename: kodi-addon-pvr-iptvsimple_22.4.2+git0+bb0b3321aa-r0_hd51.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
@@ -14226,9 +14226,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg, zlib-dbg
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 786ad98022f7fd6fa6b0278c24bbeee6
-SHA256sum: 919abbd60d96fadd7c51a91f378b7c449bf35812ddbd5465f485459bbeebca18
-Size: 3428568
+MD5Sum: 8729d22e1fe072dc7eb6f2a7ded7963b
+SHA256sum: b610f00a81b0ff31618fd1fdc6c7382ad6892d24bebedb81d56ac11621db5191
+Size: 3428978
 Filename: kodi-addon-pvr-nextpvr-dbg_22.4.1+git0+50264a8584-r0_hd51.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14254,13 +14254,13 @@ Priority: optional
 
 Package: kodi-addon-pvr-nextpvr
 Version: 22.4.1+git0+50264a8584-r0
-Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.0.0), libz1 (>= 1.3.1)
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.1.0), libz1 (>= 1.3.1)
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b4ea8773235aeaa79748367e3af125f5
-SHA256sum: 8f238020394aac74de8f3b2d61cc6badf30a12238327cf079b78e548afc0fef2
-Size: 11662596
+MD5Sum: 3a3859989ec17c14098eefcf1ae56e4b
+SHA256sum: 46ae75f1ab8015372555a59f64a31ddb75145b673c5f5be6a51a158c7fc877a3
+Size: 11708898
 Filename: kodi-addon-pvr-nextpvr_22.4.1+git0+50264a8584-r0_hd51.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins
@@ -14306,9 +14306,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3e853de2ef4ced65d540a1cc08c8b439
-SHA256sum: 1687e8b6b2b3361e615c426c7dd895f9487e0d2c6b38151e0ce9ac8688805c73
-Size: 434234
+MD5Sum: 1d1dfcd4f2a9ba8e1b3c54332dc8d3a6
+SHA256sum: 7855a61528da3b2ba08f9946f508c4005ae2ab9d599d9a0f7acb48e1f247df00
+Size: 434132
 Filename: kodi-addon-pvr-njoy_22.2.1+git0+feeea54612-r0_hd51.ipk
 Source: kodi-addon-pvr-njoy.bb
 Description: Kodi Media Center PVR plugins
@@ -14354,9 +14354,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9caf71e6d1f9e920e424d0fd95867984
-SHA256sum: b7a904472d12e7b6d66dc3c9a09b79e39d28775019917be7360422dbeefe7a07
-Size: 909422
+MD5Sum: 5dccb5c99909495f07b917513dfbaa39
+SHA256sum: 9301121454c3009768f7f40e35125ac53d85a6c11ea7910312010361f8bbe5b4
+Size: 909350
 Filename: kodi-addon-pvr-pctv_22.2.1+git0+68f0b12ed4-r0_hd51.ipk
 Source: kodi-addon-pvr-pctv.bb
 Description: Kodi Media Center PVR plugins
@@ -14370,9 +14370,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 908a45128a55bc5e191ebced3d2267df
-SHA256sum: f968a4c82b13d7e1ad0da0f1531f0b5cb6e2ccee93aa627ed3cb914cfb744327
-Size: 1953164
+MD5Sum: 352f67a9df30df70074b332ded750bc5
+SHA256sum: c5b8d633abc69fe1866cb335f33f2210e27c73f4af11126e64dd75218ee413cb
+Size: 1953160
 Filename: kodi-addon-pvr-vbox-dbg_22.2.1+git0+42226ae6ea-r0_hd51.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins - Debugging files
@@ -14398,13 +14398,13 @@ Priority: optional
 
 Package: kodi-addon-pvr-vbox
 Version: 22.2.1+git0+42226ae6ea-r0
-Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.0.0)
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, libstdc++6 (>= 14.2.0), libtinyxml2-10 (>= 10.1.0)
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 712781ba65cf59362b77b85155dbc7ed
-SHA256sum: d26b4dde4eaa3e9ed20314e5f018516e99a012210a8f77846f25f1e37a2c5ce5
-Size: 6660068
+MD5Sum: 6468ba6e704a7144063bfa920036ea97
+SHA256sum: d40e35450a1375561a20791fba212d71199e1e434e7827b11a5771a2c711b13a
+Size: 6660936
 Filename: kodi-addon-pvr-vbox_22.2.1+git0+42226ae6ea-r0_hd51.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins
@@ -14450,9 +14450,9 @@ Depends: hd-v3ddriver-hd51 (>= 20191101), libc6 (>= 2.41+git0+0a7c7a3e28), libgc
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d33761378630e6fc2ae4e713eb6e4eed
-SHA256sum: 4859f579ba4eaa4c4d84929fa0e8ff1619a8e42c22941eb932ed8b0cec78532b
-Size: 2163976
+MD5Sum: d690e5ab8d3189258a22f9ef0cc80d3d
+SHA256sum: 776ba46e6412876060820cafbc30db38156f1d2472f713dffa0486d8fc4bbf9a
+Size: 2165256
 Filename: kodi-addon-pvr-vdr.vnsi_22.2.1+git0+c411074bca-r0_hd51.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
 Description: Kodi Media Center PVR plugins
@@ -14498,9 +14498,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a476251c20908308acacac11d08def6d
-SHA256sum: 0711981a3ed9859f6b84362c99b4686d46b7ca3f94087c7a9363cc651e1484d8
-Size: 28998438
+MD5Sum: 041ffeae723a43a81a87937ac2bd1ed8
+SHA256sum: d47b8e02c5464f1dcf23aa3314d2af3a63f2a2e6f1a488a807a156dbdefc6093
+Size: 28984564
 Filename: kodi-addon-pvr-vuplus_22.3.2+git0+cd7b326e64-r0_hd51.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins
@@ -14546,9 +14546,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a9caa95df5f579c8a81c5e8f6dca8b34
-SHA256sum: ba1ebb9efc3b949c2736e227cf10d2ea123313d3d7dab8e4ab13fc9e965b2ebb
-Size: 1212966
+MD5Sum: f17755315bb85d0d2a5f1f6f7972ee65
+SHA256sum: 578a0f131b83da89a31fdc1798b007a3fd52948df52280ec66450a4ea2661f3b
+Size: 1211562
 Filename: kodi-addon-pvr-wmc_22.2.1+git0+9a2c99d36e-r0_hd51.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins
@@ -14580,9 +14580,9 @@ Recommends: glibc-dev, kodi-platform (= 22-r0), libgcc-dev, libkodiplatform-dev,
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 48482b74169b1487cdcd675ee76ce222
-SHA256sum: b60e873f5e9890e278d34565576fb47d5f56b4320642243c1e78ec7664a3b986
-Size: 2728
+MD5Sum: 94a25559630a87ee643c882e423058e1
+SHA256sum: 288a0bf86d8ba205b9de6ddcea17eb07f136e1639579c04feb333489cdc3e8ec
+Size: 2724
 Filename: kodi-platform-dev_22-r0_hd51.ipk
 Source: kodi-platform_22.bb
 Description: Platform support library used by libCEC and binary add-ons for Kodi - Development files
@@ -14919,9 +14919,9 @@ Recommends: glibc-dbg
 Section: devel
 Architecture: hd51
 Maintainer: oe-alliance team
-MD5Sum: aca00b40f4043c9fdba645027bd158fc
-SHA256sum: 1fe845aa21f1ce206f591c8849dbdd2abc0cc551d7f47a226f77cc1a4e2da90f
-Size: 96152
+MD5Sum: 65aa8086c01a3b6fb26d537312b004c9
+SHA256sum: 63c948d0bda8593e0f91067973019358d2a0b4c037277a8e8f64dc471bc3177d
+Size: 96162
 Filename: oe-alliance-branding-dbg_git1162+fc41f190+fc41f19852-r0_hd51.ipk
 Source: oe-alliance-branding.bb
 Description: oe-alliance-branding version git-r0 - Debugging files
@@ -14966,9 +14966,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28)
 Section: base
 Architecture: hd51
 Maintainer: oe-alliance team
-MD5Sum: 420797f038248f22f6bc0bef0505440e
-SHA256sum: 37b6795798241c47af480a8503a316867c77b69a0f516bf886c2be38acedd38b
-Size: 25940
+MD5Sum: 216ed187705c061b01ecc55d342fae60
+SHA256sum: 3d42155dec6cf4f4453bb8829f639436674275b3a14bb131aa4ebe22c2732fb8
+Size: 25936
 Filename: oe-alliance-branding_git1162+fc41f190+fc41f19852-r0_hd51.ipk
 Source: oe-alliance-branding.bb
 Description: oe-alliance-branding version git-r0
@@ -15030,9 +15030,9 @@ Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libcrypto3 (>= 3.4.1), libssl3 (>= 3.4
 Section: libs/network
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ba7a0269af39ec703988396a292573d0
-SHA256sum: 16b24c5aa79ec7f6347ce2c1d28e008d1b2973de53272704511f6efb247f1767
-Size: 313834
+MD5Sum: cf67a8e7a93d2d97c7e1d38b88505a41
+SHA256sum: 71feb98342cc237b54fe5308f5eae85503d99a4c045dec1a51baca291f64fa90
+Size: 314902
 Filename: openssl-bin_3.4.1-r0.1_hd51.ipk
 Source: openssl_3.4.1.bb
 Description: Secure Socket Layer
@@ -16267,9 +16267,9 @@ Recommends: alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, exiv2-dbg, fmt-dbg, freetype
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c70050e2551e05fdcc48eb0c94ed142c
-SHA256sum: af13d41aaaf1327a5da6561c117c788aeb87d027979ee9ef2599c2e075bdd581
-Size: 222979180
+MD5Sum: 73001ac79e5684bace95c353b9870c1d
+SHA256sum: 0b58ac83e814e89681aee5c8bf91cbd75c2a56be20d833a160cf78e08c85f223
+Size: 223314564
 Filename: stb-kodi-hd51-dbg_22-Piers-r2_hd51.ipk
 Source: stb-kodi-hd51_22.bb
 Description: Kodi Media Center - Debugging files
@@ -16284,9 +16284,9 @@ Recommends: alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-
 Section: devel
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 84b3cf5ff0f55502a5c90747bb6866bc
-SHA256sum: 68a8a6f996d6b8f0058ff7e75ccfd15a56e00b005d26288b1850754fae19ad9a
-Size: 292844
+MD5Sum: 2760ae4a39710d5a367d8356d5a9cd7d
+SHA256sum: 0e25f0dc4842fbf9d97c72f36f9f4e3eb14ec060a79bda3e643793d2b2f68ff9
+Size: 292810
 Filename: stb-kodi-hd51-dev_22-Piers-r2_hd51.ipk
 Source: stb-kodi-hd51_22.bb
 Description: Kodi Media Center - Development files
@@ -16300,8 +16300,8 @@ Version: 22-Piers-r2
 Section: doc
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f274fce6c4fedf1bbb3d7ce34fad9769
-SHA256sum: e475717367f3ec4f82b028311156a5654ac2635770d63a995708646301e31b9c
+MD5Sum: 17173d1c35f50576a649b6fbbff100d0
+SHA256sum: 4aabdb27ce70dbc64df86c157f197605f3b2b7f521ff6309da5f88b853d6778d
 Size: 7076
 Filename: stb-kodi-hd51-doc_22-Piers-r2_hd51.ipk
 Source: stb-kodi-hd51_22.bb
@@ -16313,15 +16313,15 @@ Priority: optional
 
 Package: stb-kodi-hd51
 Version: 22-Piers-r2
-Depends: bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.24.12), hd-v3ddriver-hd51 (>= 20191101), lcms (>= 2.16), libasound2 (>= 1.2.13), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.1.1+git0+68b5db2464), libavfilter10 (>= 7.1.1+git0+68b5db2464), libavformat61 (>= 7.1.1+git0+68b5db2464), libavutil59 (>= 7.1.1+git0+68b5db2464), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.41+git0+0a7c7a3e28), libcap (>= 2.73), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.4.1), libcurl4 (>= 8.12.1), libdbus-1-3 (>= 1.16.2), libfmt11 (>= 11.1.4), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.82.4), libgstpbutils-1.0-0 (>= 1.24.12), libharfbuzz0 (>= 10.4.0), libinput10 (>= 1.27.1), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.45), libplist-2.0-4 (>= 2.6.0), libpng16-16 (>= 1.6.47), libpostproc58 (>= 7.1.1+git0+68b5db2464), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.2), libsqlite3-0 (>= 3.47.2), libstdc++6 (>= 14.2.0), libswresample5 (>= 7.1.1+git0+68b5db2464), libswscale8 (>= 7.1.1+git0+68b5db2464), libtag1 (>= 1.13.1), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.4), libxkbcommon0 (>= 1.8.0), libxml2 (>= 2.13.6), libxslt (>= 1.1.42), libz1 (>= 1.3.1)
+Depends: bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.26.0), hd-v3ddriver-hd51 (>= 20191101), lcms (>= 2.16), libasound2 (>= 1.2.13), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.1.1+git117402+276bd380+276bd388f3), libavfilter10 (>= 7.1.1+git117402+276bd380+276bd388f3), libavformat61 (>= 7.1.1+git117402+276bd380+276bd388f3), libavutil59 (>= 7.1.1+git117402+276bd380+276bd388f3), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.41+git0+0a7c7a3e28), libcap (>= 2.74), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.4.1), libcurl4 (>= 8.12.1), libdbus-1-3 (>= 1.16.2), libfmt11 (>= 11.1.4), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.82.4), libgstpbutils-1.0-0 (>= 1.26.0), libharfbuzz0 (>= 10.4.0), libinput10 (>= 1.27.1), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.45), libplist-2.0-4 (>= 2.6.0), libpng16-16 (>= 1.6.47), libpostproc58 (>= 7.1.1+git117402+276bd380+276bd388f3), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.2), libsqlite3-0 (>= 3.47.2), libstdc++6 (>= 14.2.0), libswresample5 (>= 7.1.1+git117402+276bd380+276bd388f3), libswscale8 (>= 7.1.1+git117402+276bd380+276bd388f3), libtag1 (>= 1.13.1), libtinyxml2-10 (>= 10.1.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.4), libxkbcommon0 (>= 1.8.0), libxml2 (>= 2.13.6), libxslt (>= 1.1.42), libz1 (>= 1.3.1)
 Provides: kodi, virtual-kodi
 Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-charmap-utf-8, glibc-gconv-ibm437, glibc-gconv-ibm850, glibc-gconv-unicode, glibc-gconv-utf-32, glibc-localedata-en-us, kodi-addon-inputstream-adaptive-piers, kodi-addon-inputstream-ffmpegdirect-piers, kodi-addon-inputstream-rtmp-piers, kodi-addon-inputstreamhelper, kodi-addon-visualization.goom-piers, kodi-addon-visualization.matrix-piers, kodi-addon-visualization.pictureit-piers, kodi-addon-visualization.shadertoy-piers, kodi-addon-visualization.spectrum-piers, libcec, libcurl, libnfs, nss, os-release, python3, python3-compression, python3-crypt, python3-ctypes, python3-datetime, python3-db, python3-difflib, python3-html, python3-image, python3-json, python3-mechanize, python3-multiprocessing, python3-netclient, python3-pillow, python3-profile, python3-pycryptodome, python3-pycryptodomex, python3-regex, python3-setuptools, python3-shell, python3-six, python3-sqlite3, python3-xmlrpc, tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdata-asia, tzdata-atlantic, tzdata-australia, tzdata-europe, tzdata-pacific, xkeyboard-config
 Section: base
 Architecture: hd51
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dfbf95b57cfcf713a6bad1139763ee03
-SHA256sum: 6fc48f190188a9872968096292e21ef65283be73ff109b0d626b7edb42006019
-Size: 28178450
+MD5Sum: 17c39c017f4029087e37c7b7af31c25f
+SHA256sum: 0f863b8c14945a1a588c0dccd8175ce4df4be695d37552eaf1f35bd428f13834
+Size: 28195384
 Filename: stb-kodi-hd51_22-Piers-r2_hd51.ipk
 Source: stb-kodi-hd51_22.bb
 Description: Kodi Media Center
