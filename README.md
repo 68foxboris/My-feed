@@ -14,10 +14,10 @@ zero4k
 
 
 solo4k
-
+https://drive.google.com/file/d/1G6Vkii5amZuvCbYEihdZuM8E8npQHeoS/view?usp=sharing
 
 vuultimo4k
-
+https://drive.google.com/file/d/16X_2ZDmAdoMTRYdPeIh-AKUL424AnFjc/view?usp=sharing
 
 duo4k
 
@@ -27,6 +27,9 @@ duo4kse
 
 solo2
 https://drive.google.com/file/d/1lZqDC6ikV2ob-31JsT6qJXkQc6floXNL/view?usp=sharing
+
+duo2
+https://drive.google.com/file/d/13psN5bmDqq_HaSOqPLuyGHXUEO7cLOgv/view?usp=sharing
 
 h9combo   
 https://drive.google.com/file/d/1P6PNpRlZTMI0LXSTr_eCAkUEsT1Awu_5/view?usp=sharing
