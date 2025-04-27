@@ -13347,6 +13347,713 @@ OE: linux-abcom
 License: GPL-2.0-only
 Priority: optional
 
+Package: kodi-addon-pvr-argustv-dbg
+Version: 22.3.1+git0+1ff5b5186b-r0
+Recommends: glibc-dbg, jsoncpp-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2d7a06dbac6290b69bb5952842807216
+SHA256sum: 943894866968e0443f195440b4a151f907d581ed92aa764e1cd85e31c2281b0e
+Size: 1476532
+Filename: kodi-addon-pvr-argustv-dbg_22.3.1+git0+1ff5b5186b-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-argustv.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-argustv
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-argustv-dev
+Version: 22.3.1+git0+1ff5b5186b-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-argustv (= 22.3.1+git0+1ff5b5186b-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: caee5968b2decfbb249c5c035614c4ea
+SHA256sum: 751dd779c2a6ccf8e5e79b341d049cf8a54f5e5597ecb03484ed3d1297e47177
+Size: 710
+Filename: kodi-addon-pvr-argustv-dev_22.3.1+git0+1ff5b5186b-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-argustv.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-argustv
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-argustv
+Version: 22.3.1+git0+1ff5b5186b-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libjsoncpp26 (>= 1.9.6), libkodiplatform, libstdc++6 (>= 15.1.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f43d88d2d222447c110f69fdfc0e5884
+SHA256sum: f234e74599dc3ddf77db44d7bb40f9495af8005fe7b26afdf6a6a5404358bbb0
+Size: 1956984
+Filename: kodi-addon-pvr-argustv_22.3.1+git0+1ff5b5186b-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-argustv.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-argustv
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-demo-dbg
+Version: 22.4.1+git0+4f0068b638-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 338f62ebf18e392c183c30cd0b64315b
+SHA256sum: 4ff3c8ac181a63d4815614dde0e8f8cf09a87e4fe13bcc4b38b02456a7914b55
+Size: 405264
+Filename: kodi-addon-pvr-demo-dbg_22.4.1+git0+4f0068b638-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-demo.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-demo
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-demo-dev
+Version: 22.4.1+git0+4f0068b638-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-demo (= 22.4.1+git0+4f0068b638-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7f9dcfe5db896f3d624b538f625e9e47
+SHA256sum: 9938b94b454650b04bdddc17fe2eaf08e5724e01d207f6ced03ed1790ffbba57
+Size: 706
+Filename: kodi-addon-pvr-demo-dev_22.4.1+git0+4f0068b638-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-demo.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-demo
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-demo
+Version: 22.4.1+git0+4f0068b638-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2-11 (>= 11.0.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3503c83d3a221a25bcee361b785f2fb2
+SHA256sum: 38e76fe4fe3f43cc0d8abdfb15708206548f18b8d564590e9ec82f11754d6267
+Size: 847634
+Filename: kodi-addon-pvr-demo_22.4.1+git0+4f0068b638-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-demo.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-demo
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-dvblink-dbg
+Version: 22.2.1+git0+16f9ba5496-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 53c4a870d8cbe4cf18c8c83d91a5626f
+SHA256sum: 9fd5103775062418dc5f0d39619f7d91c61d076831d80b0789b4684ef299734c
+Size: 1890778
+Filename: kodi-addon-pvr-dvblink-dbg_22.2.1+git0+16f9ba5496-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-dvblink.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-dvblink
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-dvblink-dev
+Version: 22.2.1+git0+16f9ba5496-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-dvblink (= 22.2.1+git0+16f9ba5496-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f5c1ead5a2f11a9071e717caa03095f1
+SHA256sum: 3ae05858b89ece3cf9fd3d1a7d040c1b876e8eb1f30a54431f56f6aaa0926eba
+Size: 710
+Filename: kodi-addon-pvr-dvblink-dev_22.2.1+git0+16f9ba5496-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-dvblink.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-dvblink
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-dvblink
+Version: 22.2.1+git0+16f9ba5496-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2-11 (>= 11.0.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 422a7f6679b250856d61c12d77259bb2
+SHA256sum: bf466582df31c3b3d4a9cfa0cec742abdbdd6e4812086764cdc9306bb3326fb7
+Size: 6924250
+Filename: kodi-addon-pvr-dvblink_22.2.1+git0+16f9ba5496-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-dvblink.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-dvblink
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-dvbviewer-dbg
+Version: 22.2.1+git0+d0abe98ee4-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4b237b0ae6c7bd4f850dbbea5962c58d
+SHA256sum: ee9484e33037a606dbd89137a01bee2a3d6a0fd2a3e668eb7a04d7500d53a358
+Size: 1467036
+Filename: kodi-addon-pvr-dvbviewer-dbg_22.2.1+git0+d0abe98ee4-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-dvbviewer.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-dvbviewer
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-dvbviewer-dev
+Version: 22.2.1+git0+d0abe98ee4-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-dvbviewer (= 22.2.1+git0+d0abe98ee4-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 08564fc22500dd17ae96b8dedd7ae38c
+SHA256sum: 0bea81ee3fff8bb257c5856cb62d389cab952e8d187ce4cc7b14cfa0f84d6ef4
+Size: 712
+Filename: kodi-addon-pvr-dvbviewer-dev_22.2.1+git0+d0abe98ee4-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-dvbviewer.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-dvbviewer
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-dvbviewer
+Version: 22.2.1+git0+d0abe98ee4-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2.6.2 (>= 2.6.2)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d10f3e12ef07681b42315e71308d1fda
+SHA256sum: 997b5f03bb185d2d9df857dd62d36b37bd6244efce94e8f97e159d3cefc5ef39
+Size: 1987190
+Filename: kodi-addon-pvr-dvbviewer_22.2.1+git0+d0abe98ee4-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-dvbviewer.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-dvbviewer
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-filmon-dbg
+Version: 22.2.1+git0+4e81e8966a-r0
+Recommends: glibc-dbg, jsoncpp-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6b3c918deae146bd96ce1d67b97140a8
+SHA256sum: b99fc2c00d201ad3ef1acbb849488cf9a2d6a2b5eb48c4e59a95b021128f5561
+Size: 586240
+Filename: kodi-addon-pvr-filmon-dbg_22.2.1+git0+4e81e8966a-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-filmon.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-filmon
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-filmon-dev
+Version: 22.2.1+git0+4e81e8966a-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-filmon (= 22.2.1+git0+4e81e8966a-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5962ef3da672f34a9f670bd1a4230cff
+SHA256sum: 3bf9c772ddae70a01f2b1b1705f767458e9f13f42e403b355c41202f77db2d73
+Size: 708
+Filename: kodi-addon-pvr-filmon-dev_22.2.1+git0+4e81e8966a-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-filmon.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-filmon
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-filmon
+Version: 22.2.1+git0+4e81e8966a-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libjsoncpp26 (>= 1.9.6), libkodiplatform, libstdc++6 (>= 15.1.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d7856db47f8bee0b3d921907ffc33e45
+SHA256sum: 1f561f508b74e41a1ae49299ba5b97b17fa8780df9b8658ff4956d3860931dad
+Size: 878032
+Filename: kodi-addon-pvr-filmon_22.2.1+git0+4e81e8966a-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-filmon.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-filmon
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-hts-dbg
+Version: 22.6.1+git0+e35ed5744b-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 404776649ca00fb330466b9cc07787d5
+SHA256sum: 33bafabdfff79ffa9cb7a709137fb62fc0961d36c2b3cdb0b9312765bed6b1aa
+Size: 2908550
+Filename: kodi-addon-pvr-hts-dbg_22.6.1+git0+e35ed5744b-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-hts.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-hts
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-hts-dev
+Version: 22.6.1+git0+e35ed5744b-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-hts (= 22.6.1+git0+e35ed5744b-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ca9548beb7374f31d463484dcf9ec5a7
+SHA256sum: 614650487b7b9bca3b9324b2485db9e5ecd55e348f02d6106cd3d94f6f6d91ab
+Size: 706
+Filename: kodi-addon-pvr-hts-dev_22.6.1+git0+e35ed5744b-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-hts.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-hts
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-hts
+Version: 22.6.1+git0+e35ed5744b-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0f9d9e08555cf6d39b63600e61deb7d3
+SHA256sum: 6faf210f74a7f56afdb01f4a5ab3b992350fd40512bc5c9b60d9d58ceb1ddb7c
+Size: 10086158
+Filename: kodi-addon-pvr-hts_22.6.1+git0+e35ed5744b-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-hts.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-hts
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-iptvsimple-dbg
+Version: 22.4.2+git0+bb0b3321aa-r0
+Recommends: glibc-dbg, libgcc-dbg, liblzma-dbg, libstdc++-dbg, pugixml-dbg, zlib-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 62d93f263849e48c229f1d3be4addfff
+SHA256sum: dec8842364805595740cb437ce8f3d78d198a85970654d901e0926b69b1aaf18
+Size: 5196282
+Filename: kodi-addon-pvr-iptvsimple-dbg_22.4.2+git0+bb0b3321aa-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-iptvsimple.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-iptvsimple
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-iptvsimple-dev
+Version: 22.4.2+git0+bb0b3321aa-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-iptvsimple (= 22.4.2+git0+bb0b3321aa-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, liblzma-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev, pugixml-dev, zlib-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 58f3570a18ab3aa3252d8231a409ccba
+SHA256sum: 0d28324fb0a9fb454d282fff61ec4f236aeb27253f3b651b9f3bd4e04b7dd12a
+Size: 726
+Filename: kodi-addon-pvr-iptvsimple-dev_22.4.2+git0+bb0b3321aa-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-iptvsimple.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-iptvsimple
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-iptvsimple
+Version: 22.4.2+git0+bb0b3321aa-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, liblzma5 (>= 5.8.1), libpugixml1 (>= 1.11), libstdc++6 (>= 15.1.0), libz1 (>= 1.3.1)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b29915dc12f9cc9c6a5db5fa0de9383e
+SHA256sum: cdcbbf9699a54dabfc72577bc8bf8308c42e353bccba3c1a1aa43669f21799be
+Size: 18527970
+Filename: kodi-addon-pvr-iptvsimple_22.4.2+git0+bb0b3321aa-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-iptvsimple.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-iptvsimple
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-nextpvr-dbg
+Version: 22.4.1+git0+50264a8584-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg, zlib-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d068af81e52f0c0c7aa4c6f1d07896b0
+SHA256sum: 99df68d395884afa1f3e4bb74666b6e60b41035632a295d6d3198e0ca96c14bd
+Size: 3410274
+Filename: kodi-addon-pvr-nextpvr-dbg_22.4.1+git0+50264a8584-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-nextpvr.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-nextpvr
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-nextpvr-dev
+Version: 22.4.1+git0+50264a8584-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-nextpvr (= 22.4.1+git0+50264a8584-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev, zlib-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bba5157b2a762d99bf3e11c075ebdcbf
+SHA256sum: 4d694a1fdca92207aa089aee2c1e24d4dd1d3af5073298f2fd3e9f3e2eb39b48
+Size: 716
+Filename: kodi-addon-pvr-nextpvr-dev_22.4.1+git0+50264a8584-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-nextpvr.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-nextpvr
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-nextpvr
+Version: 22.4.1+git0+50264a8584-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2-11 (>= 11.0.0), libz1 (>= 1.3.1)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1b43f1bf20ab8d7f2def21baf5581293
+SHA256sum: 1e142dc6f3fb9ac7d05b71c62dc8b13b919af056b65e769daafaa48300ff825f
+Size: 11626654
+Filename: kodi-addon-pvr-nextpvr_22.4.1+git0+50264a8584-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-nextpvr.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-nextpvr
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-njoy-dbg
+Version: 22.2.1+git0+feeea54612-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2ca0493ff749896b2ef58d6f5df07389
+SHA256sum: 11a27a7e3e87d3e22444ae624050009155f7936151142cce0b27fc4cfc282d1d
+Size: 279148
+Filename: kodi-addon-pvr-njoy-dbg_22.2.1+git0+feeea54612-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-njoy.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-njoy
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-njoy-dev
+Version: 22.2.1+git0+feeea54612-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-njoy (= 22.2.1+git0+feeea54612-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3cfb16dda7ab34ebbe45de1bb058e199
+SHA256sum: 86e4eb251558500f35451feed6355dde4fc5d959ead952906469f500a996846e
+Size: 710
+Filename: kodi-addon-pvr-njoy-dev_22.2.1+git0+feeea54612-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-njoy.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-njoy
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-njoy
+Version: 22.2.1+git0+feeea54612-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2.6.2 (>= 2.6.2)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3b77a676ddde3ad6bfc099bdcc96ae01
+SHA256sum: ae8de8457e2063bce2950824ed6eb56ee376a7b256dea7ddcc1b8c99896efb77
+Size: 433384
+Filename: kodi-addon-pvr-njoy_22.2.1+git0+feeea54612-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-njoy.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-njoy
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-pctv-dbg
+Version: 22.2.1+git0+68f0b12ed4-r0
+Recommends: glibc-dbg, jsoncpp-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9575e038be2757ef622513990c27c378
+SHA256sum: def7439ef17d306926050838042fde4a334cf009c3494dc282cf831b92460825
+Size: 656536
+Filename: kodi-addon-pvr-pctv-dbg_22.2.1+git0+68f0b12ed4-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-pctv.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-pctv
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-pctv-dev
+Version: 22.2.1+git0+68f0b12ed4-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-pctv (= 22.2.1+git0+68f0b12ed4-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: de828237d39d8e1927410e1edaa929f3
+SHA256sum: 7a2472ee9f620a39dcd13c34ce92fab85a64b740b75d816619d289d857c5a03a
+Size: 708
+Filename: kodi-addon-pvr-pctv-dev_22.2.1+git0+68f0b12ed4-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-pctv.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-pctv
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-pctv
+Version: 22.2.1+git0+68f0b12ed4-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libjsoncpp26 (>= 1.9.6), libkodiplatform, libstdc++6 (>= 15.1.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e2a9f245fb7984dceca4ba3bc6b635cb
+SHA256sum: 865f5b7fed023dc7cafecbf620a57c9ac8cec15bbc15f4fe63e19ca750bb9143
+Size: 899676
+Filename: kodi-addon-pvr-pctv_22.2.1+git0+68f0b12ed4-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-pctv.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-pctv
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vbox-dbg
+Version: 22.2.1+git0+42226ae6ea-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml2-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1bd6cf1eb96032777e18aefd225c3bbb
+SHA256sum: 9049c1f82aae7e388408f80d0595dd48fa86fee927ef0cfe369903f9fca238b0
+Size: 1911790
+Filename: kodi-addon-pvr-vbox-dbg_22.2.1+git0+42226ae6ea-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vbox.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-vbox
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vbox-dev
+Version: 22.2.1+git0+42226ae6ea-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-vbox (= 22.2.1+git0+42226ae6ea-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 445b0ee5f4c5509eb46e6b9a4c3ace71
+SHA256sum: 06c90b2b5a0603895a7677c8fb17c77d6afb5068853dc83ba21986e38de9a071
+Size: 706
+Filename: kodi-addon-pvr-vbox-dev_22.2.1+git0+42226ae6ea-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vbox.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-vbox
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vbox
+Version: 22.2.1+git0+42226ae6ea-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2-11 (>= 11.0.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ab1c501006e4982f1226970623dbf6c6
+SHA256sum: 66630d10b7fe7331da5d7b2ed2f4038f17251de23d2f11613c62f0b9f3e4e987
+Size: 4483990
+Filename: kodi-addon-pvr-vbox_22.2.1+git0+42226ae6ea-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vbox.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-vbox
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vdr.vnsi-dbg
+Version: 22.2.1+git0+c411074bca-r0
+Recommends: abcom-mali-3798mv200-dbg, glibc-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c101a9f7950cd7a9037a98cbf116c39b
+SHA256sum: 1f3857e844d968877294f12840ce1bc70415f3d0a048ad3e47a75737fd6e28b7
+Size: 1618852
+Filename: kodi-addon-pvr-vdr.vnsi-dbg_22.2.1+git0+c411074bca-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vdr.vnsi.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-vdr.vnsi
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vdr.vnsi-dev
+Version: 22.2.1+git0+c411074bca-r0
+Recommends: abcom-mali-3798mv200-dev, boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-vdr.vnsi (= 22.2.1+git0+c411074bca-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4b6bc0130799e4938a1025f2ef7a1f1f
+SHA256sum: 6e1b17f2ffa9744ca0a10815f38eb8d44e99d8e1d94c7d7f46e35d1bd126dfb1
+Size: 726
+Filename: kodi-addon-pvr-vdr.vnsi-dev_22.2.1+git0+c411074bca-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vdr.vnsi.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-vdr.vnsi
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vdr.vnsi
+Version: 22.2.1+git0+c411074bca-r0
+Depends: abcom-mali-3798mv200 (>= 1.0), libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b027958fc891afe5faf4a218c58a2a50
+SHA256sum: 17a102a90c3644eb417397f36fdebba2f0b6a96eae110c0c815a92f7b0bc9a25
+Size: 2169474
+Filename: kodi-addon-pvr-vdr.vnsi_22.2.1+git0+c411074bca-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vdr.vnsi.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-vdr.vnsi
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vuplus-dbg
+Version: 22.3.2+git0+cd7b326e64-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a0c76a4c1d6194b45c5eb4cab07cbfd4
+SHA256sum: 01427be0a547e70f2f9cb0ddf3ccecd55a9641c1c8edc3cbf496574a468583b0
+Size: 8134306
+Filename: kodi-addon-pvr-vuplus-dbg_22.3.2+git0+cd7b326e64-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vuplus.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-vuplus
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vuplus-dev
+Version: 22.3.2+git0+cd7b326e64-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-vuplus (= 22.3.2+git0+cd7b326e64-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml-dev, libtinyxml2-dev, nlohmann-json-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fcf0dddf1dbc67282f8ab2e8c2b71c7c
+SHA256sum: 0cd8d376b8f48664d5746be5bc49a6a1bfc6096f807a68919133b5896101ec06
+Size: 722
+Filename: kodi-addon-pvr-vuplus-dev_22.3.2+git0+cd7b326e64-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vuplus.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-vuplus
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-vuplus
+Version: 22.3.2+git0+cd7b326e64-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0), libtinyxml2.6.2 (>= 2.6.2)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: debd2bc458f95ec2aaa166d41e7afb78
+SHA256sum: 485c1d5da642fdea0088dbab342bb107477519b01249f10fc73eceddfaf36688
+Size: 28750312
+Filename: kodi-addon-pvr-vuplus_22.3.2+git0+cd7b326e64-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-vuplus.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-vuplus
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-wmc-dbg
+Version: 22.2.1+git0+9a2c99d36e-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 113f9944b90f389fcbc8013e83217bc6
+SHA256sum: c383103dacb1b79e53aacba4363809235786a08edfe26265a88874ea469641ad
+Size: 741756
+Filename: kodi-addon-pvr-wmc-dbg_22.2.1+git0+9a2c99d36e-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-wmc.bb
+Description: Kodi Media Center PVR plugins - Debugging files
+OE: kodi-addon-pvr-wmc
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-wmc-dev
+Version: 22.2.1+git0+9a2c99d36e-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-wmc (= 22.2.1+git0+9a2c99d36e-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2544505a4e7b5abbf0d856461b36df2e
+SHA256sum: e12b00bb9f17cdc31268f2278d2b6579f0ec9067809b54be0bc97e34ce1e4cf8
+Size: 708
+Filename: kodi-addon-pvr-wmc-dev_22.2.1+git0+9a2c99d36e-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-wmc.bb
+Description: Kodi Media Center PVR plugins - Development files
+OE: kodi-addon-pvr-wmc
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-addon-pvr-wmc
+Version: 22.2.1+git0+9a2c99d36e-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libkodiplatform, libstdc++6 (>= 15.1.0)
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3e3f65b31bc56d521f3ef6614e2cab6d
+SHA256sum: 8ad4d75694e903da38904c3cc195bb1899f62545cc02ec552e9749ef5b097791
+Size: 1195800
+Filename: kodi-addon-pvr-wmc_22.2.1+git0+9a2c99d36e-r0_pulse4kmini.ipk
+Source: kodi-addon-pvr-wmc.bb
+Description: Kodi Media Center PVR plugins
+OE: kodi-addon-pvr-wmc
+License: GPL-2.0-only
+Priority: optional
+
+Package: kodi-platform-dbg
+Version: 22-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtinyxml-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b1c22fefb0004e2abc0723ba7765e22d
+SHA256sum: a393b414af12784d1800d462333db46abb84b76059eac24c8c850eb8c2324970
+Size: 147944
+Filename: kodi-platform-dbg_22-r0_pulse4kmini.ipk
+Source: kodi-platform_22.bb
+Description: Platform support library used by libCEC and binary add-ons for Kodi - Debugging files
+OE: kodi-platform
+HomePage: http://libcec.pulse-eight.com/
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: kodi-platform-dev
+Version: 22-r0
+Depends: libkodiplatform
+Recommends: glibc-dev, kodi-platform (= 22-r0), libgcc-dev, libkodiplatform-dev, libstdc++-dev, libtinyxml-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3618c6f3872da9dd09d93db66abdab7b
+SHA256sum: 2b3b29ae894153e96464adb53be6a69652ef514fc04efea7845e13204aecc230
+Size: 2734
+Filename: kodi-platform-dev_22-r0_pulse4kmini.ipk
+Source: kodi-platform_22.bb
+Description: Platform support library used by libCEC and binary add-ons for Kodi - Development files
+OE: kodi-platform
+HomePage: http://libcec.pulse-eight.com/
+License: GPL-2.0-or-later
+Priority: optional
+
 Package: libcrypto1.0.2
 Version: 1.0.2u-r0
 Depends: libc6 (>= 2.41+git0+0a7c7a3e28)
@@ -13511,6 +14218,24 @@ Description: Hardware accelerated JPEG compression/decompression library
 OE: libjpeg-turbo
 HomePage: http://libjpeg-turbo.org/
 License: IJG & BSD-3-Clause & Zlib
+Priority: optional
+
+Package: libkodiplatform22.0
+Version: 22-r0
+Depends: libc6 (>= 2.41+git0+0a7c7a3e28), libgcc1 (>= 15.1.0), libstdc++6 (>= 15.1.0), libtinyxml2.6.2 (>= 2.6.2)
+Provides: libkodiplatform
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fd16920fbe7282742a10b4d998030695
+SHA256sum: 74108e6cbb4c8644f11b9f4e1c3041315527bd3a59f62472a1d5d8343e3968ab
+Size: 18720
+Filename: libkodiplatform22.0_22-r0_pulse4kmini.ipk
+Source: kodi-platform_22.bb
+Description: Platform support library used by libCEC and binary add-ons for Kodi
+OE: kodi-platform
+HomePage: http://libcec.pulse-eight.com/
+License: GPL-2.0-or-later
 Priority: optional
 
 Package: libqt5sensors-dbg
@@ -14963,22 +15688,6 @@ OE: packagegroup-base
 License: MIT
 Priority: optional
 
-Package: qtbase-dbg
-Version: 5.15.13+git0+4e158f6bfa-r0
-Recommends: abcom-mali-3798mv200-dbg, dbus-lib-dbg, directfb-dbg, freetype-dbg, glibc-dbg, libcrypto-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpcre2-16-dbg, libpng-dbg, libssl-dbg, libstdc++-dbg, libudev-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d48a78217e6531fe0074d1536a04909e
-SHA256sum: 87623a586946a6989ff1f8bcf5e99f6e9a5b2a7277ea4d6b754a8afd4f036367
-Size: 207191404
-Filename: qtbase-dbg_5.15.13+git0+4e158f6bfa-r0_pulse4kmini.ipk
-Source: qtbase_git.bb
-Description: qtbase version 5.15.13+git-r0 - Debugging files
-OE: qtbase
-License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
-Priority: optional
-
 Package: qtbase-dev
 Version: 5.15.13+git0+4e158f6bfa-r0
 Depends: qtbase
@@ -15103,23 +15812,6 @@ Filename: qtbase_5.15.13+git0+4e158f6bfa-r0_pulse4kmini.ipk
 Source: qtbase_git.bb
 Description: qtbase version 5.15.13+git-r0
 OE: qtbase
-License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
-Priority: optional
-
-Package: qtdeclarative-dbg
-Version: 5.15.13+git0+6ab9856ef3-r0
-Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, qtbase-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 721d882d1fca264921eaf410dfbd12d0
-SHA256sum: 4356f3e24b79da2acf14c08735960bf8edc8ca16c76031981d91b19c8c350f7e
-Size: 161321434
-Filename: qtdeclarative-dbg_5.15.13+git0+6ab9856ef3-r0_pulse4kmini.ipk
-Source: qtdeclarative_git.bb
-Description: qtdeclarative version 5.15.13+git-r0 - Debugging files
-OE: qtdeclarative
-HomePage: http://www.qt.io
 License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
 Priority: optional
 
@@ -15449,22 +16141,6 @@ OE: qtquickcontrols
 License: GFDL-1.3 & BSD-3-Clause & ( GPL-3.0-only & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial ) & ( GPL-2.0-or-later | LGPL-3.0-only | The-Qt-Company-Commercial )
 Priority: optional
 
-Package: qtwebkit-dbg
-Version: 5.15.13+git0+ac8ebc6c3a-r0
-Recommends: abcom-mali-3798mv200-dbg, glibc-dbg, libgcc-dbg, libicui18n-dbg, libicuuc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsqlite3-dbg, libstdc++-dbg, libwebp-dbg, libxml2-dbg, libxslt-dbg, qtbase-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b92e9212140d8fe224b1336ff9eebaef
-SHA256sum: 08b71da35ab581b72c1015cf326d075de471a4fc9a282bcbee9f05dd954f4c33
-Size: 660562302
-Filename: qtwebkit-dbg_5.15.13+git0+ac8ebc6c3a-r0_pulse4kmini.ipk
-Source: qtwebkit_git.bb
-Description: qtwebkit version 5.15.13+git-r0 - Debugging files
-OE: qtwebkit
-License: BSD-3-Clause & LGPL-2.0-or-later | GPL-2.0-only
-Priority: optional
-
 Package: qtwebkit-dev
 Version: 5.15.13+git0+ac8ebc6c3a-r0
 Depends: qtbase-dev, qtwebkit
@@ -15735,6 +16411,75 @@ OE: shadow-securetty
 License: MIT
 Priority: optional
 
+Package: stb-kodi-pulse4kmini-dbg
+Version: 22-Piers-r2
+Recommends: abcom-mali-3798mv200-dbg, alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, exiv2-dbg, fmt-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libgcc-dbg, libgstpbutils-1.0-dbg, libinput-dbg, libiso9660-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre2-dbg, libplist-dbg, libpostproc-dbg, libpulse-dbg, libpulse-simple-dbg, libpython3-dbg, libsqlite3-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1a2d4765dca8e6610a7691db119a8399
+SHA256sum: 41f80a90bf383700a5b538d5eeb80ed3bde2120ee0a94c4962abf5fb53a88564
+Size: 222710216
+Filename: stb-kodi-pulse4kmini-dbg_22-Piers-r2_pulse4kmini.ipk
+Source: stb-kodi-pulse4kmini_22.bb
+Description: Kodi Media Center - Debugging files
+OE: stb-kodi-pulse4kmini
+HomePage: https://kodi.tv/
+License: GPL-2.0-only
+Priority: optional
+
+Package: stb-kodi-pulse4kmini-dev
+Version: 22-Piers-r2
+Recommends: abcom-mali-3798mv200-dev, alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dav1d-dev, dbus-lib-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gnutls-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660-dev, libmicrohttpd-dev, libnfs-dev, libpcre2-dev, libplist-dev, libpostproc-dev, libpulse-dev, libpulse-simple-dev, libpython3-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, mpeg2dec-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, spdlog-dev, sqlite3-dev, stb-kodi-pulse4kmini (= 22-Piers-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 96961e00495880e1a215d1996df266dc
+SHA256sum: e513741cd82b619ba01f748cd20372a933cb204b5c373cbc7566c982d5f93bba
+Size: 292832
+Filename: stb-kodi-pulse4kmini-dev_22-Piers-r2_pulse4kmini.ipk
+Source: stb-kodi-pulse4kmini_22.bb
+Description: Kodi Media Center - Development files
+OE: stb-kodi-pulse4kmini
+HomePage: https://kodi.tv/
+License: GPL-2.0-only
+Priority: optional
+
+Package: stb-kodi-pulse4kmini-doc
+Version: 22-Piers-r2
+Section: doc
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f0e4d77c17a9894ee7fcc55203e851e5
+SHA256sum: dd8e58bffb4a2848e09b2778225103c2f44788ff40d9dbbcdcf88f822fa88f50
+Size: 7084
+Filename: stb-kodi-pulse4kmini-doc_22-Piers-r2_pulse4kmini.ipk
+Source: stb-kodi-pulse4kmini_22.bb
+Description: Kodi Media Center - Documentation files
+OE: stb-kodi-pulse4kmini
+HomePage: https://kodi.tv/
+License: GPL-2.0-only
+Priority: optional
+
+Package: stb-kodi-pulse4kmini
+Version: 22-Piers-r2
+Depends: abcom-mali-3798mv200 (>= 1.0), bluez5 (>= 5.82), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.26.0), lcms (>= 2.16), libasound2 (>= 1.2.13), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libavfilter10 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libavformat61 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libavutil59 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libbluray (>= v1.3.4+git3061+40667440+4066744f4f), libc6 (>= 2.41+git0+0a7c7a3e28), libcap (>= 2.75), libcdio19 (>= 2.1.0), libcec7 (>= 7.0.0), libcrypto3 (>= 3.5.0), libcurl4 (>= 8.12.1), libdbus-1-3 (>= 1.16.2), libfmt11 (>= 11.1.4), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 15.1.0), libglib-2.0-0 (>= 2.84.0), libgstpbutils-1.0-0 (>= 1.26.0), libharfbuzz0 (>= 11.0.1), libinput10 (>= 1.28.1), libiso9660-11 (>= 2.1.0), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.45), libplist-2.0-4 (>= 2.6.0), libpostproc58 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.3), libsqlite3-0 (>= 3.48.0), libstdc++6 (>= 15.1.0), libswresample5 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libswscale8 (>= 7.1.1+git117403+48c0f070+48c0f071d4), libtag1 (>= 1.13.1), libtinyxml2-11 (>= 11.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.1.2+git119+a089d1b0+a089d1bd41), libuuid1 (>= 2.40.4), libxkbcommon0 (>= 1.8.1), libxml2 (>= 2.13.6), libxslt (>= 1.1.43), libz1 (>= 1.3.1)
+Provides: kodi, virtual-kodi
+Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-charmap-utf-8, glibc-gconv-ibm437, glibc-gconv-ibm850, glibc-gconv-unicode, glibc-gconv-utf-32, glibc-localedata-en-us, kodi-addon-inputstream-adaptive-piers, kodi-addon-inputstream-ffmpegdirect-piers, kodi-addon-inputstream-rtmp-piers, kodi-addon-inputstreamhelper, kodi-addon-visualization.goom-piers, kodi-addon-visualization.matrix-piers, kodi-addon-visualization.pictureit-piers, kodi-addon-visualization.shadertoy-piers, kodi-addon-visualization.spectrum-piers, libcec, libcurl, libnfs, nss, os-release, python3, python3-compression, python3-crypt, python3-ctypes, python3-datetime, python3-db, python3-difflib, python3-html, python3-image, python3-json, python3-mechanize, python3-multiprocessing, python3-netclient, python3-pillow, python3-profile, python3-pycryptodome, python3-pycryptodomex, python3-regex, python3-setuptools, python3-shell, python3-six, python3-sqlite3, python3-xmlrpc, tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdata-asia, tzdata-atlantic, tzdata-australia, tzdata-europe, tzdata-pacific, xkeyboard-config
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b30188d29fec089c9d9edea57e11d1d5
+SHA256sum: c7c954a271914103faea9311d27ca26f25102892c5056246ac736cc73d5cb388
+Size: 28261068
+Filename: stb-kodi-pulse4kmini_22-Piers-r2_pulse4kmini.ipk
+Source: stb-kodi-pulse4kmini_22.bb
+Description: Kodi Media Center
+OE: stb-kodi-pulse4kmini
+HomePage: https://kodi.tv/
+License: GPL-2.0-only
+Priority: optional
+
 Package: streamproxy-dbg
 Version: 2+git148+0b4eddc0+0b4eddcc7f-r0
 Recommends: boost-program-options-dbg, glibc-dbg, libgcc-dbg, libstdc++-dbg, libxcrypt-dbg
@@ -15813,23 +16558,6 @@ Size: 9656
 Filename: webkit-classic-browser_1.1+git15+6570b0b0+6570b0bb47-r0_pulse4kmini.ipk
 Source: webkit-classic.bb
 Description: WebKit web rendering engine for the GTK+ platform
-OE: webkit-classic
-HomePage: http://www.webkitgtk.org/
-License: BSD-3-Clause & LGPL-2.0-or-later
-Priority: optional
-
-Package: webkit-classic-dbg
-Version: 1.1+git15+6570b0b0+6570b0bb47-r0
-Recommends: at-spi2-core-dbg, cairo-dbg, directfb-dbg, fontconfig-dbg, freetype-dbg, gdk-pixbuf-dbg, glib-2.0-dbg, glibc-dbg, gtk+-dbg, harfbuzz-dbg, libgcc-dbg, libjpeg-turbo-dbg, libpng-dbg, libsoup-2.4-dbg, libsqlite3-dbg, libstdc++-dbg, libxml2-dbg, pango-dbg, zlib-dbg
-Section: devel
-Architecture: pulse4kmini
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b97b709f3788333f72b8359823056c80
-SHA256sum: 3006ced4e6caaefc3689645e113c65ac044b82fb7bd1a075f3e1175798735c2d
-Size: 191809716
-Filename: webkit-classic-dbg_1.1+git15+6570b0b0+6570b0bb47-r0_pulse4kmini.ipk
-Source: webkit-classic.bb
-Description: WebKit web rendering engine for the GTK+ platform - Debugging files
 OE: webkit-classic
 HomePage: http://www.webkitgtk.org/
 License: BSD-3-Clause & LGPL-2.0-or-later
