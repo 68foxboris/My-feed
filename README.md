@@ -7,3 +7,6 @@ https://drive.google.com/file/d/1VahIwH-8jWseMCCW8IPkXxMJ7lWhPd1o/view?usp=shari
 
 pulse4kmini
 https://drive.google.com/file/d/1g4JcggJHbZWDrBnI43GYaDwaJZ8FZOrW/view?usp=sharing
+
+vuduo4kse
+https://drive.google.com/file/d/1aq4oEAUdplfxA1dGPClSlAaxW82qNNeB/view?usp=sharing
