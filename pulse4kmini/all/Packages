@@ -13365,56 +13365,6 @@ HomePage: https://www.realtek.com/
 License: CLOSED
 Priority: optional
 
-Package: livestreamersrv-dbg
-Version: 0.4-r0
-Section: devel
-Architecture: all
-Maintainer: SatDreamGR
-MD5Sum: 44f90a295ae692f31ebb70e7546c2158
-SHA256sum: be1acc1f8ca88ab670f57aebdd801a6ef0653803753adbdbf2123888f94a1bb4
-Size: 580
-Filename: livestreamersrv-dbg_0.4-r0_all.ipk
-Source: livestreamersrv_0.4.bb
-Description: livestreamersrv version 0.4-r0 - Debugging files
-OE: livestreamersrv
-HomePage: www.satdreamgr.com
-License: GPL-2.0-only
-Priority: optional
-
-Package: livestreamersrv-dev
-Version: 0.4-r0
-Recommends: livestreamersrv (= 0.4-r0), python3-core-dev, streamlink-dev
-Section: devel
-Architecture: all
-Maintainer: SatDreamGR
-MD5Sum: 8f8101e35342c96e1ffabd0b4d1ffd2d
-SHA256sum: bf1d1ad9e4190711ee368f30cb11eac10f83744fac59399efd7aa994271c2ba5
-Size: 636
-Filename: livestreamersrv-dev_0.4-r0_all.ipk
-Source: livestreamersrv_0.4.bb
-Description: livestreamersrv version 0.4-r0 - Development files
-OE: livestreamersrv
-HomePage: www.satdreamgr.com
-License: GPL-2.0-only
-Priority: optional
-
-Package: livestreamersrv
-Version: 0.4-r0
-Depends: python3-core, streamlink
-Section: devel/python
-Architecture: all
-Maintainer: SatDreamGR
-MD5Sum: ace44c16440c5db6be170997e421e6fd
-SHA256sum: 5342dce84861769bbeec991954bca42ffdf13f529dd566b73f3666c694c395ec
-Size: 77072
-Filename: livestreamersrv_0.4-r0_all.ipk
-Source: livestreamersrv_0.4.bb
-Description: livestreamersrv version 0.4-r0
-OE: livestreamersrv
-HomePage: www.satdreamgr.com
-License: GPL-2.0-only
-Priority: optional
-
 Package: mm-common-dbg
 Version: 1.0.6-r0
 Section: devel
@@ -13811,6 +13761,56 @@ Filename: softcam-support_2-r0_all.ipk
 Source: softcam-support.bb
 Description: Start, stop and select softcams.
 OE: softcam-support
+License: GPL-2.0-only
+Priority: optional
+
+Package: streamlinksrv-dbg
+Version: 1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0
+Section: devel
+Architecture: all
+Maintainer: SatDreamGR Billy2011
+MD5Sum: 87eeec7d7424d599644a961ca540f0d9
+SHA256sum: 98484202bc83ea6390f603f85aa96c34ce2c34b2a209e9f418292814c9291005
+Size: 606
+Filename: streamlinksrv-dbg_1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
+Source: streamlinksrv.bb
+Description: streamlinksrv version 1.8.4+git-r0 - Debugging files
+OE: streamlinksrv
+HomePage: www.satdreamgr.com
+License: GPL-2.0-only
+Priority: optional
+
+Package: streamlinksrv-dev
+Version: 1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0
+Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0)
+Section: devel
+Architecture: all
+Maintainer: SatDreamGR Billy2011
+MD5Sum: c8c8fcddd124f207be8bf6c44e021683
+SHA256sum: 56e7511c8b0c2a17e16c3c1ac98ba06990f752d2a231d203204f88c28d9a3862
+Size: 658
+Filename: streamlinksrv-dev_1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
+Source: streamlinksrv.bb
+Description: streamlinksrv version 1.8.4+git-r0 - Development files
+OE: streamlinksrv
+HomePage: www.satdreamgr.com
+License: GPL-2.0-only
+Priority: optional
+
+Package: streamlinksrv
+Version: 1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0
+Depends: python3-core, streamlink
+Section: devel/python
+Architecture: all
+Maintainer: SatDreamGR Billy2011
+MD5Sum: 683c23f63a6905f2ce2af053845c943b
+SHA256sum: e7e33ee69808ad395488a3af29fd3e0de1d1ef61856d9df04348777d6866f3d6
+Size: 85880
+Filename: streamlinksrv_1.8.4+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
+Source: streamlinksrv.bb
+Description: streamlinksrv version 1.8.4+git-r0
+OE: streamlinksrv
+HomePage: www.satdreamgr.com
 License: GPL-2.0-only
 Priority: optional
 
