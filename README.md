@@ -9,3 +9,6 @@ https://drive.google.com/file/d/18565JlJuSQ--XIskeguj-aBDRzXPHX1o/view?usp=shari
 
 vuduo4kse
 https://drive.google.com/file/d/1CtlMcO1u_XV5Zoo-pHmI_MDEil74LJr0/view?usp=sharing
+
+pulse4kmini
+https://drive.google.com/file/d/1mXXYOihS806ECZMN72o9NMMi_KaMzMSL/view?usp=sharing
