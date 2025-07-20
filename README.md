@@ -10,7 +10,7 @@ sf8008
 https://drive.google.com/file/d/1LBiDrNmFUJpp3QCAEdLmQW0q7UDRgNRn/view?usp=sharing
 
 vuduo4kse
-https://drive.google.com/file/d/1HB1lB1p15kdyoq6Ck6BhtQLjP7c7rDkh/view?usp=sharing
+
 
 pulse4kmini
 https://drive.google.com/file/d/1IKCV2DwShPNNBZ7y5kPyAwiSRO3W98Yg/view?usp=sharing
