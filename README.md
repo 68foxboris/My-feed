@@ -12,6 +12,9 @@ https://drive.google.com/file/d/1LBiDrNmFUJpp3QCAEdLmQW0q7UDRgNRn/view?usp=shari
 vuduo4kse
 https://drive.google.com/file/d/1HB1lB1p15kdyoq6Ck6BhtQLjP7c7rDkh/view?usp=sharing
 
+vuzero4k
+https://drive.google.com/file/d/1arudD7hUg84zHhqU9CycwpPp3_F8qBxn/view?usp=sharing
+
 pulse4kmini
 https://drive.google.com/file/d/1IKCV2DwShPNNBZ7y5kPyAwiSRO3W98Yg/view?usp=sharing
 
