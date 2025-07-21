@@ -9,6 +9,9 @@ https://drive.google.com/file/d/1N5BsD4LFbA2Rz5yG81A9niAWh2Wn1T-8/view?usp=shari
 sf8008
 https://drive.google.com/file/d/1LBiDrNmFUJpp3QCAEdLmQW0q7UDRgNRn/view?usp=sharing
 
+vusolo2
+https://drive.google.com/file/d/1_peMdsIFpANCa7MbcswsnwAS7TMqN3iM/view?usp=sharing
+
 vuduo4kse
 https://drive.google.com/file/d/1HB1lB1p15kdyoq6Ck6BhtQLjP7c7rDkh/view?usp=sharing
 
