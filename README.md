@@ -23,3 +23,6 @@ https://drive.google.com/file/d/1A2VY3sjPHmWBWiLuKh15hDJmnXwqpxv9/view?usp=shari
 
 vuultimo4k
 https://drive.google.com/file/d/1wU72EYxzpotKqjc6wKrthuAbfCUI65kb/view?usp=sharing
+
+vusolo4k
+https://drive.google.com/file/d/1SUd-oQ6FOXVCcuSQc-UJs8lHRpNZEQ3s/view?usp=sharing
