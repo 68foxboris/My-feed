@@ -29,3 +29,6 @@ https://drive.google.com/file/d/1SUd-oQ6FOXVCcuSQc-UJs8lHRpNZEQ3s/view?usp=shari
 
 vuzero4k
 https://drive.google.com/file/d/191tUNQxnWgCa3xWCUx9_NTSU1mSWMqb0/view?usp=sharing
+
+vuduo4k
+https://drive.google.com/file/d/1frtgZAYw_B1FDo_BGHNlYlONYlvExd9t/view?usp=sharing
