@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1erThCnbSPCY7QD5_2iOHPjrZzXH4r8t7/view?usp=shari
 
 pulse4kmini
 https://drive.google.com/file/d/1MOBHuOFXXTqp4HG_UFRYKzefUTsvVv07/view?usp=sharing
+
+sf8008
+https://drive.google.com/file/d/1Cy1e6fehdjLs1izCPIEjcgXYG6FhnbqR/view?usp=sharing
