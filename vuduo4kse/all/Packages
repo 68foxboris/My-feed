@@ -5918,14 +5918,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-skins-octetfhd-dbg
-Version: git929+03d9be60+03d9be68d3-r0
+Version: git933+9a29b730+9a29b73f22-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision Developers
-MD5Sum: f83d6ec38a6ee00d8b0dcab065e134be
-SHA256sum: 8857c3a1eba3111ab0b73489390c982c80c989f125174bbe41e8331a1f2f347e
+MD5Sum: c368659ea395900c05bda8f8c9db937f
+SHA256sum: a66a586745eb0ebe91d13cd54fe05a87b23a415a3e7dc1b5fab4efad6cd66490
 Size: 582
-Filename: enigma2-plugin-skins-octetfhd-dbg_git929+03d9be60+03d9be68d3-r0_all.ipk
+Filename: enigma2-plugin-skins-octetfhd-dbg_git933+9a29b730+9a29b73f22-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Debugging files
 OE: enigma2-plugin-skins-octetfhd
@@ -5933,15 +5933,15 @@ License: GPL-2.0-only
 Priority: required
 
 Package: enigma2-plugin-skins-octetfhd-dev
-Version: git929+03d9be60+03d9be68d3-r0
-Recommends: enigma2-plugin-skins-octetfhd (= git929+03d9be60+03d9be68d3-r0)
+Version: git933+9a29b730+9a29b73f22-r0
+Recommends: enigma2-plugin-skins-octetfhd (= git933+9a29b730+9a29b73f22-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision Developers
-MD5Sum: b3738efc1eb428405c328fca8e6f2333
-SHA256sum: 50c40bd9c3257e6d3261e73c6b6fca640f65d7317079a5d69c9b47e5cd48dd77
+MD5Sum: 0df64cd9bc9c4011ad23de77c1742646
+SHA256sum: 6cfb66fa7cd9e4d7188547d81494f465b52e5cd9afbfb8fa7914c0f04d47dceb
 Size: 618
-Filename: enigma2-plugin-skins-octetfhd-dev_git929+03d9be60+03d9be68d3-r0_all.ipk
+Filename: enigma2-plugin-skins-octetfhd-dev_git933+9a29b730+9a29b73f22-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Development files
 OE: enigma2-plugin-skins-octetfhd
@@ -5949,15 +5949,15 @@ License: GPL-2.0-only
 Priority: required
 
 Package: enigma2-plugin-skins-octetfhd
-Version: git929+03d9be60+03d9be68d3-r0
+Version: git933+9a29b730+9a29b73f22-r0
 Recommends: enigma2-plugin-extensions-weatherplugin
 Section: base
 Architecture: all
 Maintainer: Open Vision Developers
-MD5Sum: 47db23294ada4aa477b38fc0206e09ad
-SHA256sum: bf83bc0d57f2f29b95c3f5ca3461fa135c150efe1166d0327eb59d5e1372b43a
-Size: 2081404
-Filename: enigma2-plugin-skins-octetfhd_git929+03d9be60+03d9be68d3-r0_all.ipk
+MD5Sum: 6ef881d9b18847724d26cf56d25a6943
+SHA256sum: cf454d47b6b030595b7e1d296964fa1d4669a68321bf2cc18837748ab2307ed4
+Size: 2081774
+Filename: enigma2-plugin-skins-octetfhd_git933+9a29b730+9a29b73f22-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD
 OE: enigma2-plugin-skins-octetfhd

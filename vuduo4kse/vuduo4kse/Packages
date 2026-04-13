@@ -324,9 +324,9 @@ Conflicts: enigma-kernel-module
 Section: base
 Architecture: vuduo4kse
 Maintainer: foxbob
-MD5Sum: 6b185d0119085afe570f777f4d5e4a5a
-SHA256sum: 5fd6fe3248e3ce19bbceeb9cc01dbb260e0142d286daddc77e700d8146b72aa1
-Size: 1380
+MD5Sum: c7baa422722d261ee996f957c85a2330
+SHA256sum: 2d19c55f11ce5827849e90a837363c133943163dfdc7743ae1f33a2545eecefc
+Size: 1378
 Filename: enigma-info_GCC-15.2-r0_vuduo4kse.ipk
 Source: enigma-info.bb
 Description: enigma.info used by BoxInfo
@@ -17841,9 +17841,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: be4609a3cc59a9b4045df1e46247ea3c
-SHA256sum: f40e08d3a3d54622dd53665fb30a195bba6457645eeb38ceb4fcff76f3a7db71
-Size: 1964488
+MD5Sum: fe0f1cd12e808bcd23f09a9c73c25116
+SHA256sum: cbd1e586685cd35256f95d765fe8c53bb6001f853b2260f7462ce15855769aee
+Size: 1964164
 Filename: kodi-addon-pvr-argustv_22.3.4+git0+e55346d023-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-argustv.bb
 Description: Kodi Media Center PVR plugins
@@ -17889,9 +17889,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 54595ecd9757f4499a1453a69e41097f
-SHA256sum: d0e34048726c2c818af055da7c43310c20a8ada21ad4ac03cfd9af9e5ab50882
-Size: 848770
+MD5Sum: 02023222d1071eb4fd62700cbf78bcf9
+SHA256sum: b7c95aa28f9b90c9f360b5747a8df6205e8cab2686d4b5f7fd747a7c7fa6ec7a
+Size: 848790
 Filename: kodi-addon-pvr-demo_22.4.4+git0+944f4c65be-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins
@@ -17937,9 +17937,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fef60938c23d93a9665897a3a6a48f3f
-SHA256sum: 035cced6b79feaa8f735e65d6eac2ce6779a6434b4bf91e01ced371e397accd7
-Size: 6936314
+MD5Sum: 62dbc5f5f4dd1ba8349b6b0660b45ce5
+SHA256sum: 884406bf827775daea9ee83b83f7638655303001c7a6116494594cedbb8b3dc2
+Size: 6936264
 Filename: kodi-addon-pvr-dvblink_22.3.1+git0+f05ec0e828-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins
@@ -17985,9 +17985,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6e1e68d6b0c06e34ca0aba405105d52e
-SHA256sum: 31f2470e858812c646c1949302804b0b5f5ede1ca85367ec8368e4f8a3de99f7
-Size: 2302266
+MD5Sum: 5f93565085781f9b61b86bdf30fa6849
+SHA256sum: f76d67be8d403a46766a41d020c79ae82aad7a38b544ca10ce3d93741e455a1c
+Size: 2302304
 Filename: kodi-addon-pvr-dvbviewer_22.3.1+git0+839b28fa59-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
 Description: Kodi Media Center PVR plugins
@@ -18033,9 +18033,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bc53dd95c5e6609f3fe8a7755981365a
-SHA256sum: 8a85b91fc18a555a23f5d4d8150948ebff75bbda9ef5cec69942f2ad4de56903
-Size: 881176
+MD5Sum: 713e758eb08c078c67e9630938c421da
+SHA256sum: 4900c4a27a299eb711f88676966cf6b65e7d944844e9c5b0f12089e6c4762b41
+Size: 881116
 Filename: kodi-addon-pvr-filmon_22.2.4+git0+138fa70d82-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-filmon.bb
 Description: Kodi Media Center PVR plugins
@@ -18081,9 +18081,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dad9fff85029f51cf251fe83995c5f14
-SHA256sum: 817b3004f20f16e748c382ff038737902aa534cab5b1e8ae8d74aa132eb5ee5e
-Size: 10102558
+MD5Sum: 7ca36fe8783df40b32904cc08a68befc
+SHA256sum: d7a88317d32e0a2e625fe3074ba14efdb0ac1549b78a5b21dba3c63384fb78ee
+Size: 10102466
 Filename: kodi-addon-pvr-hts_22.8.2+git0+7a45b317a6-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins
@@ -18129,9 +18129,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1d2088d3901746c3b4a99ecb14fc6eda
-SHA256sum: f72b11b7e4e9230942544aced508f96734b4ca0963250bd67ac58dd602f89f03
-Size: 20033546
+MD5Sum: 10034828859fc43864e90894eb9829ea
+SHA256sum: 6f4780fe8bc7ebc92c5211fe167e24e5b7acf8f1c35725049cbe88d19e8c0932
+Size: 20032442
 Filename: kodi-addon-pvr-iptvsimple_22.6.4+git0+739177cad2-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
@@ -18177,9 +18177,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d21910cb1ee81ba07b8da20247784a9c
-SHA256sum: 666dc23f9e9d28481128b79f990d254f21aed0ab425696580c4d1089bb43eb43
-Size: 11635014
+MD5Sum: 788671b1002c4e70cdc95a3437c37734
+SHA256sum: 6bd86f1ac1182a5f886577fa22691adb576a0a212d203d3d690549658b78257a
+Size: 11634902
 Filename: kodi-addon-pvr-nextpvr_22.5.2+git0+b868201bcd-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins
@@ -18225,9 +18225,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e77c6aed059486c5d31f2fc527f494a1
-SHA256sum: de47df05e80e81ad5324828f61b25b977e102d6626d114262f397ac723b9efe9
-Size: 434530
+MD5Sum: 607864dc082e4b0c5c72bf8576b61d24
+SHA256sum: 41e1e17860dcd974e88f05ef148725a62e035aa8bc9f44012d7b59cedd24a6ad
+Size: 434454
 Filename: kodi-addon-pvr-njoy_22.2.3+git0+7dc57ba727-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-njoy.bb
 Description: Kodi Media Center PVR plugins
@@ -18273,9 +18273,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libjsoncpp26 (>= 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 958d40a63c9152a90a4c3cd23835a521
-SHA256sum: 92e2e61fa9c4b7677a11d8def5175772e7fdb3d9497d5455f99dc7914fbd38ae
-Size: 901036
+MD5Sum: 3ea8a58b764f796b6d235b6804a9b690
+SHA256sum: c4b2485d01b76819a06c930adaa31096bca5a347408830a6e7cbd078350befec
+Size: 900912
 Filename: kodi-addon-pvr-pctv_22.2.4+git0+eac85bfe5a-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-pctv.bb
 Description: Kodi Media Center PVR plugins
@@ -18321,9 +18321,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5772adc8a1ba6bf4919cdf67efa8debf
-SHA256sum: 220b32432d6776773c5634e9e641dbfa11fee573d219a73fb2842b09eac41866
-Size: 4505790
+MD5Sum: 70978f2245c53426d252bd7e15b4d134
+SHA256sum: ca187a3ef90649e0848cfee16cfc693dacfdffa4ae40ca8e939fdeed16eb4d60
+Size: 4505418
 Filename: kodi-addon-pvr-vbox_22.2.4+git0+2ee26e6a83-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins
@@ -18369,9 +18369,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9f24890b4f595126f8678bdbaebeb6b5
-SHA256sum: c2b1a89aba3524b77fd588454887e629559890cc5a4d6222ce169067c88bc3c0
-Size: 2174660
+MD5Sum: fb6e65506fd70ac9600e0010be34f8c4
+SHA256sum: 06c32249a4309bb0d709f180510893e957e042faa5104e0e848cebfdf5bb9490
+Size: 2174760
 Filename: kodi-addon-pvr-vdr.vnsi_22.3.1+git0+35a8542898-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
 Description: Kodi Media Center PVR plugins
@@ -18417,9 +18417,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 33ea375a5b1b91b42fae5d044b297bb8
-SHA256sum: ac3648fc100f4107d3dcbd33f6bbf9f6c14a3e73eafea9069273381814441d1b
-Size: 28814260
+MD5Sum: 486523d2344f42aa21c1e2de07d987cd
+SHA256sum: 3080f4247fc31610de73de858726f218245a9c138821b39f3a01e72eee9cccfb
+Size: 28814258
 Filename: kodi-addon-pvr-vuplus_22.3.5+git0+dfc5fa3078-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins
@@ -18465,9 +18465,9 @@ Depends: libc6 (>= 2.42+git0+912d89a766), libgcc1 (>= 15.2.0), libkodiplatform, 
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0ff48117eae56c65ca63e63d41b2019a
-SHA256sum: 33c29fd920d7cfb179eb54e323de4703c722cb507d7024631c3d1774d8688d1a
-Size: 1200996
+MD5Sum: 1c928d92c21179ae4eb2e0b51cf7b3ff
+SHA256sum: 3cf61ead1ad4305454e0511a0f19b6520ae3557d96912583f78cf0930aeae180
+Size: 1201040
 Filename: kodi-addon-pvr-wmc_22.2.4+git0+e37a123088-r0_vuduo4kse.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins
@@ -19254,9 +19254,9 @@ Recommends: glibc-dbg
 Section: devel
 Architecture: vuduo4kse
 Maintainer: oe-alliance team
-MD5Sum: 77dd65516d3647aa9c7e9a6d2d418ddf
-SHA256sum: 489e2c488ff3747c7236a629aa988bf62585e1540ca8143d208fd1c03e493e51
-Size: 95124
+MD5Sum: 563f2b0ce2884d17a1fa738b1fd0c9b0
+SHA256sum: 3d9489780f9b6ddeab1c7f912409c62f562fb14142500db1d753de034afb3119
+Size: 95094
 Filename: oe-alliance-branding-dbg_git1168+d16feff0+d16feffca1-r0_vuduo4kse.ipk
 Source: oe-alliance-branding.bb
 Description: oe-alliance-branding version git-r0 - Debugging files
@@ -19301,8 +19301,8 @@ Depends: libc6 (>= 2.42+git0+912d89a766)
 Section: base
 Architecture: vuduo4kse
 Maintainer: oe-alliance team
-MD5Sum: e4165a54b356ebf2f1dd2f550caa2fcc
-SHA256sum: c805f1a4b99a24ba284c3a7b294254042290dc527cad009fb53207729fbc9391
+MD5Sum: 3437145994b145f269bdf1f41d7e0873
+SHA256sum: 67e78dc27b89596067d3ae9cd3ef9d07ba88e1b1d3cdc64c6e5b01933a224951
 Size: 160800
 Filename: oe-alliance-branding_git1168+d16feff0+d16feffca1-r0_vuduo4kse.ipk
 Source: oe-alliance-branding.bb
@@ -21279,9 +21279,9 @@ Recommends: alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, exiv2-dbg, fmt-dbg, freetype
 Section: devel
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 26ce5f1e41d6163e15dc37fe8f26079d
-SHA256sum: 3cc0bcd4dd82e7c0cf9e56305ba1f9421fe9963e846761fd861deaa6b0003a88
-Size: 227111246
+MD5Sum: 6319c9fd4eeef34cf5e09b9d5e75b79f
+SHA256sum: 886f512cd12bd11f55ae3d07df1615049ed1ac0f3d37b7b2e2fb744b14b4ec74
+Size: 227111254
 Filename: stb-kodi-vuduo4kse-dbg_22.0+gitr0+27cedf1fb4-r3_vuduo4kse.ipk
 Source: stb-kodi-vuduo4kse_22.bb
 Description: Kodi Media Center - Debugging files
@@ -21325,15 +21325,15 @@ Priority: optional
 
 Package: stb-kodi-vuduo4kse
 Version: 22.0+gitr0+27cedf1fb4-r3
-Depends: bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.28.2), kodiegl, lcms (>= 2.16), libasound2 (>= 1.2.14), libass9 (>= 0.17.4), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec62 (>= 8.1+git123323+a3475e20+a3475e2554), libavfilter11 (>= 8.1+git123323+a3475e20+a3475e2554), libavformat62 (>= 8.1+git123323+a3475e20+a3475e2554), libavutil60 (>= 8.1+git123323+a3475e20+a3475e2554), libbluray (>= v1.4.1+git3127+4dfb9b00+4dfb9b0123), libc6 (>= 2.42+git0+912d89a766), libcap (>= 2.76), libcdio19 (>= 2.2.0), libcec7 (>= 7.1.1), libcrypto3 (>= 3.6.0), libcurl4 (>= 8.17.0), libdbus-1-3 (>= 1.16.2), libfmt11 (>= 11.2.0), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 15.2.0), libglib-2.0-0 (>= 2.86.4), libgstpbutils-1.0-0 (>= 1.28.2), libharfbuzz0 (>= 11.4.5), libinput10 (>= 1.29.1), libiso9660-12 (>= 2.2.0), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.2), libpcre2 (>= 10.46), libplist-2.0-4 (>= 2.6.0), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.11), libsqlite3-0 (>= 3.48.0), libstdc++6 (>= 15.2.0), libswresample6 (>= 8.1+git123323+a3475e20+a3475e2554), libswscale9 (>= 8.1+git123323+a3475e20+a3475e2554), libtag2 (>= 2.1.1), libtinyxml2-11 (>= 11.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread3 (>= 1.2.0+git126+139a2190+139a219452), libuuid1 (>= 2.41.1), libxkbcommon0 (>= 1.11.0), libxml2 (>= 2.14.6), libxslt (>= 1.1.43), libz1 (>= 1.3.1)
+Depends: bluez5 (>= 5.79), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.28.2), kodiegl, lcms (>= 2.16), libasound2 (>= 1.2.14), libass9 (>= 0.17.4), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec62 (>= 8.1+git123323+a3475e20+a3475e2554), libavfilter11 (>= 8.1+git123323+a3475e20+a3475e2554), libavformat62 (>= 8.1+git123323+a3475e20+a3475e2554), libavutil60 (>= 8.1+git123323+a3475e20+a3475e2554), libbluray (>= v1.4.1+git3127+4dfb9b00+4dfb9b0123), libc6 (>= 2.42+git0+912d89a766), libcap (>= 2.76), libcdio19 (>= 2.2.0), libcec7 (>= 7.1.1), libcrypto3 (>= 3.6.0), libcurl4 (>= 8.17.0), libdbus-1-3 (>= 1.16.2), libfmt11 (>= 11.2.0), libfreetype6 (>= 2.13.3), libfribidi0 (>= 1.0.16), libgcc1 (>= 15.2.0), libglib-2.0-0 (>= 2.86.4), libgstpbutils-1.0-0 (>= 1.28.2), libharfbuzz0 (>= 11.4.5), libinput10 (>= 1.29.1), libiso9660-12 (>= 2.2.0), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.2), libpcre2 (>= 10.46), libplist-2.0-4 (>= 2.6.0), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.13-1.0 (>= 3.13.11), libsqlite3-0 (>= 3.48.0), libstdc++6 (>= 15.2.0), libswresample6 (>= 8.1+git123323+a3475e20+a3475e2554), libswscale9 (>= 8.1+git123323+a3475e20+a3475e2554), libtag2 (>= 2.1.1), libtinyxml2-11 (>= 11.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread3 (>= 1.2.0+git126+139a2190+139a219452), libuuid1 (>= 2.41.1), libxkbcommon0 (>= 1.11.0), libxml2 (>= 2.14.6), libxslt (>= 1.1.43), libz1 (>= 1.3.1)
 Provides: kodi, virtual-kodi
 Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-charmap-utf-8, glibc-gconv-ibm437, glibc-gconv-ibm850, glibc-gconv-unicode, glibc-gconv-utf-32, glibc-localedata-en-us, kodi-addon-inputstream-adaptive, kodi-addon-inputstream-ffmpegdirect, kodi-addon-inputstream-rtmp, kodi-addon-inputstreamhelper, kodi-addon-visualization.goom, kodi-addon-visualization.matrix, kodi-addon-visualization.pictureit, kodi-addon-visualization.shadertoy, kodi-addon-visualization.spectrum, libcec, libcurl, libnfs, nss, os-release, python3, python3-compression, python3-crypt, python3-ctypes, python3-datetime, python3-db, python3-difflib, python3-html, python3-image, python3-json, python3-mechanize, python3-multiprocessing, python3-netclient, python3-pillow, python3-profile, python3-pycryptodome, python3-pycryptodomex, python3-regex, python3-setuptools, python3-shell, python3-six, python3-sqlite3, python3-xmlrpc, tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdata-asia, tzdata-atlantic, tzdata-australia, tzdata-europe, tzdata-pacific, xkeyboard-config
 Section: base
 Architecture: vuduo4kse
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 499d280f66a4ecf299dddec778866fce
-SHA256sum: b666ecb7c2bda9d9fb6a7b65258f227cb617de4716d8c4de41d2bc94d22bc1e4
-Size: 28356126
+MD5Sum: b4a866fda1453fee8c2fc84a2f83bd32
+SHA256sum: 3fa780b8a9b60c59a1cce7db03a4c543bef2a26c0bc1b86f797badc24383ff0f
+Size: 28356124
 Filename: stb-kodi-vuduo4kse_22.0+gitr0+27cedf1fb4-r3_vuduo4kse.ipk
 Source: stb-kodi-vuduo4kse_22.bb
 Description: Kodi Media Center
