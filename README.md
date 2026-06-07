@@ -10,7 +10,7 @@ pulse4kmini
 https://drive.google.com/file/d/1rl2SINaIgxQZxJ5DWfoxW81sVxmlGrZu/view?usp=sharing
 
 vuduo4kse
-https://drive.google.com/file/d/1aNoLZv9Bp20_0j8YixjbaW4pX2fXhkng/view?usp=sharing
+
 
 vuultimo4k
-https://drive.google.com/file/d/11GEyBFfvISWVZE8FqGIsLvcbKXJPzpXT/view?usp=sharing
+
