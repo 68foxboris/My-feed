@@ -10,6 +10,9 @@ https://drive.google.com/file/d/1kfgyU4ae4lvIQIslaN2ao-u8jvUfj56C/view?usp=shari
 pulse4kmini
 https://drive.google.com/file/d/1MoUzr5U4XtK_UevE8QatYZ_EIsYJTd-t/view?usp=sharing
 
+vuduo4k
+https://drive.google.com/file/d/1bGcFdchaw9Hu9gLFqxwTFsGXBddiB51w/view?usp=sharing
+
 vuduo4kse
 https://drive.google.com/file/d/14S72UePb-fEFDnF-VHzTGoLs5h-j_OQ2/view?usp=sharing
 
@@ -17,4 +20,4 @@ vuultimo4k
 https://drive.google.com/file/d/1qtKHwv9CBThOnwKPWzugRSXLBDQy790T/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/1r3bBcY-kRMF2fX-JaLDJKiYtlV8fBl0b/view?usp=sharing
+
