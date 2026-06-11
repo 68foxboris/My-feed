@@ -8,7 +8,7 @@ et11000
 https://drive.google.com/file/d/1kfgyU4ae4lvIQIslaN2ao-u8jvUfj56C/view?usp=sharing
 
 pulse4kmini
-https://drive.google.com/file/d/1T5EFUqscARij2lJN3eYtkAYYBITzxgaa/view?usp=sharing
+https://drive.google.com/file/d/1s4E2o8-b3FR6qQ_EIeoZRZhnrO5hNRZc/view?usp=sharing
 
 vuduo4k
 https://drive.google.com/file/d/1bGcFdchaw9Hu9gLFqxwTFsGXBddiB51w/view?usp=sharing
@@ -20,4 +20,3 @@ vuultimo4k
 https://drive.google.com/file/d/1qtKHwv9CBThOnwKPWzugRSXLBDQy790T/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/17Vyu1V5W4PeYOUY8qz9e5z2j5pImrT7y/view?usp=sharing
