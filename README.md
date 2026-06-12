@@ -19,6 +19,9 @@ https://drive.google.com/file/d/14S72UePb-fEFDnF-VHzTGoLs5h-j_OQ2/view?usp=shari
 vuultimo4k
 https://drive.google.com/file/d/1qtKHwv9CBThOnwKPWzugRSXLBDQy790T/view?usp=sharing
 
+vusolo2
+https://drive.google.com/file/d/1nAf7edXjnwx8uDZ8SzZn3kzcHZjafGgc/view?usp=sharing
+
 h9combo
 https://drive.google.com/file/d/1HxMeU91AmBePC_4J1B-NMFjssSbZqoOO/view?usp=sharing
 
