@@ -20,7 +20,7 @@ vuultimo4k
 https://drive.google.com/file/d/1qtKHwv9CBThOnwKPWzugRSXLBDQy790T/view?usp=sharing
 
 vusolo2
-https://drive.google.com/file/d/1nAf7edXjnwx8uDZ8SzZn3kzcHZjafGgc/view?usp=sharing
+https://drive.google.com/file/d/1xa-bCsy9KEbY_sc_VkhnsYkkum3YmCh7/view?usp=sharing
 
 h9combo
 https://drive.google.com/file/d/1HxMeU91AmBePC_4J1B-NMFjssSbZqoOO/view?usp=sharing
