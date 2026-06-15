@@ -11,7 +11,7 @@ pulse4kmini
 https://drive.google.com/file/d/16FGdteE6Eysx1KjzEsBmCRuLOUXk-vwx/view?usp=sharing
 
 vuduo4k
-
+https://drive.google.com/file/d/1rY0-Fgq09fCcqxdNQJL4vFtTm1x4uWrk/view?usp=sharing
 
 vuduo4kse
 
