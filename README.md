@@ -25,3 +25,6 @@ https://drive.google.com/file/d/1iphrg-QDdfb0v-gmO-qf7q8aBO54h7ox/view?usp=shari
 
 ultimo4k
 https://drive.google.com/file/d/1ovR4aqMJlMYwTdqgdcHWjITLQc0NZqS9/view?usp=sharing
+
+solo4k
+https://drive.google.com/file/d/10dFgcGWIpZEenx5tNiQQs3sD6hty99Uc/view?usp=sharing
