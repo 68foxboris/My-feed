@@ -31,3 +31,6 @@ https://drive.google.com/file/d/10dFgcGWIpZEenx5tNiQQs3sD6hty99Uc/view?usp=shari
 
 zero4k
 https://drive.google.com/file/d/1Qv9YHW-m8DLoVb-O1Nx0rBWWkExgBASp/view?usp=sharing
+
+duo4k
+https://drive.google.com/file/d/1mmVtgX5kM54nN9jzTxWcbTgF9qrogQlx/view?usp=sharing
