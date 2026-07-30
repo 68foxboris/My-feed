@@ -9,7 +9,7 @@ pulse4kmini
 https://drive.google.com/file/d/1c1e8PB7G7dRDn_iZ7DjwB09pmKFq4Mzy/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/1aFFfiOTLS3jrXRv7QtSoZjb0C4OdaWjQ/view?usp=sharing
+https://drive.google.com/file/d/1M3Y_QV9rrMejHTeABH53Q8ILmeaqNBLz/view?usp=sharing
 
 dm920
 https://drive.google.com/file/d/1hHpGhMEz2urdjeHmj72mr4T9w_zBjsn2/view?usp=sharing
