@@ -9,7 +9,7 @@ pulse4kmini
 
 
 sf8008
-https://drive.google.com/file/d/1MIMZeGM5EQtG7EDJzzKkv-8ulPbeqVUy/view?usp=sharing
+
 
 dm920
 
