@@ -1,6 +1,6 @@
 Submodules bitbake, openembedded-core and meta-openembedded from master branch. GCC 16.2.0-Glibc 2.44-ffmpeg 9.0.1-GStreamer 1.28.6-Python 3.14.7-OpenSSL 4.0.1-Busybox 1.38.0.
 
-24.08.2026. Не обновлять.Ставить только по новой.
+04.09.2026. Не обновлять.Ставить только по новой.
 
 et11000
 
