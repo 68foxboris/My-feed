@@ -1,18 +1,18 @@
-Submodules bitbake, openembedded-core and meta-openembedded from master branch. GCC 16.2.0-Glibc 2.44-ffmpeg 9.0.2-GStreamer 1.28.7-Python 3.14.7-OpenSSL 4.0.2-Busybox 1.38.0.
+Submodules bitbake, openembedded-core and meta-openembedded from master branch. GCC 16.2.0-Glibc 2.44-ffmpeg 9.0.2-GStreamer 1.28.8-Python 3.14.7-OpenSSL 4.0.2-Busybox 1.38.0.
 
-20.09.2026. Не обновлять.Ставить только по новой.
+11.10.2026. Не обновлять.Ставить только по новой.
 
 et11000
 
 
 pulse4kmini
-
+https://drive.google.com/file/d/19qU6-tv7Knsg_Vn5Kordk4xdJXPUdWiX/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/1o495hN_oeNvKIWhSGQiyW3X16YTMQoM9/view?usp=sharing
+
 
 dm920
-https://drive.google.com/file/d/1JgaOAecu0tscO9DBB6wF-AG0fzL3HLHM/view?usp=sharing
+
 
 h9combo
 
