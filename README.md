@@ -3,7 +3,7 @@ Submodules bitbake, openembedded-core and meta-openembedded from master branch. 
 20.10.2026. Не обновлять.Ставить только по новой.
 
 et11000
-
+https://drive.google.com/file/d/1DE7mn7n2Gx82Oxhxn1DCxLw94IXIfyNU/view?usp=sharing
 
 pulse4kmini
 
