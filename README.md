@@ -6,7 +6,7 @@ et11000
 https://drive.google.com/file/d/1DE7mn7n2Gx82Oxhxn1DCxLw94IXIfyNU/view?usp=sharing
 
 pulse4kmini
-
+https://drive.google.com/file/d/1OKsTd1btn0-FSkRudS0t5sVAlZ5wF6DE/view?usp=sharing
 
 sf8008
 https://drive.google.com/file/d/1fiELOvGPpjqeevAXPNK6SZ2Xk_jC6lbw/view?usp=sharing
