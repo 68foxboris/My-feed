@@ -1,0 +1,679 @@
+Package: 3rd-party-feed-configs-dbg
+Version: 1.2-r0
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: f1283e89bbf85f57a445b98aacbb4aa8
+SHA256sum: be003035025944609804c298cbcacececfdf208677d9f7277e2ced4f07fb90cd
+Size: 566
+Filename: 3rd-party-feed-configs-dbg_1.2-r0_pulse4kmini.ipk
+Source: 3rd-party-feed-configs.bb
+Description: 3rd-party-feed-configs version 1.2-r0 - Debugging files
+OE: 3rd-party-feed-configs
+License: GPL-2.0-only
+Priority: optional
+
+Package: 3rd-party-feed-configs-dev
+Version: 1.2-r0
+Recommends: 3rd-party-feed-configs (= 1.2-r0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 30ae1dea132b21c1ea5326293ed54e1a
+SHA256sum: 7d2f247bd5cdc327ac49df2f52dff8ac413476658d8cb5e5df959be77b9953e5
+Size: 604
+Filename: 3rd-party-feed-configs-dev_1.2-r0_pulse4kmini.ipk
+Source: 3rd-party-feed-configs.bb
+Description: 3rd-party-feed-configs version 1.2-r0 - Development files
+OE: 3rd-party-feed-configs
+License: GPL-2.0-only
+Priority: optional
+
+Package: 3rd-party-feed-configs
+Version: 1.2-r0
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 89f0a81e1b1abdf9d16795eadfadc614
+SHA256sum: a5eb7675de5635b7dc12e94a2466aff756c834754d27954ca590c3fb0635f67b
+Size: 862
+Filename: 3rd-party-feed-configs_1.2-r0_pulse4kmini.ipk
+Source: 3rd-party-feed-configs.bb
+Description: 3rd-party-feed-configs version 1.2-r0
+OE: 3rd-party-feed-configs
+License: GPL-2.0-only
+Priority: optional
+
+Package: abcom-bootargs-pulse4kmini-dbg
+Version: 1.0-20210624
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 37efbe9e4fe97bc914a24f2dc71c09b1
+SHA256sum: 4390fb92c5ea306b1db63c113aad32b3c5449e66eb42f2b610014ad147ed8937
+Size: 564
+Filename: abcom-bootargs-pulse4kmini-dbg_1.0-20210624_pulse4kmini.ipk
+Source: abcom-bootargs-pulse4kmini.bb
+Description: pulse4kmini partitions bootargs files - Debugging files
+OE: abcom-bootargs-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-bootargs-pulse4kmini-dev
+Version: 1.0-20210624
+Recommends: abcom-bootargs-pulse4kmini (>= 1.0-20210624), abcom-bootargs-pulse4kmini (<< 1.0-20210624.0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: c94c3c08b37f44de05c83625b0de6b83
+SHA256sum: 962eb17c6009655364d6ecd677f35f2963d8d677528cd9d4c389b9bf581a6aaf
+Size: 614
+Filename: abcom-bootargs-pulse4kmini-dev_1.0-20210624_pulse4kmini.ipk
+Source: abcom-bootargs-pulse4kmini.bb
+Description: pulse4kmini partitions bootargs files - Development files
+OE: abcom-bootargs-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-bootargs-pulse4kmini
+Version: 1.0-20210624
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 00c44c2e1273023596e654b4633522c3
+SHA256sum: 5457b57b371f4f747bc0c8b6d886f2e2541e439ff718ea981d71fc317f68823f
+Size: 1764
+Filename: abcom-bootargs-pulse4kmini_1.0-20210624_pulse4kmini.ipk
+Source: abcom-bootargs-pulse4kmini.bb
+Description: pulse4kmini partitions bootargs files
+OE: abcom-bootargs-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-bootlogo-pulse4kmini-dbg
+Version: 1.0-20210624
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 923b33d6b808d06ec6fb5ff2d50ddad8
+SHA256sum: f50f7d5c4e925283056213b24f252defe2f428553b1687a53ea8ee8c66671789
+Size: 556
+Filename: abcom-bootlogo-pulse4kmini-dbg_1.0-20210624_pulse4kmini.ipk
+Source: abcom-bootlogo-pulse4kmini.bb
+Description: pulse4kmini bootlogo files - Debugging files
+OE: abcom-bootlogo-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-bootlogo-pulse4kmini-dev
+Version: 1.0-20210624
+Recommends: abcom-bootlogo-pulse4kmini (>= 1.0-20210624), abcom-bootlogo-pulse4kmini (<< 1.0-20210624.0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 392d8195308e48f286ce2af1f7b4e20b
+SHA256sum: cf84d45eae05bff26916aec6188ac5a88d06539ab1fc3c65ced6a90acf23a05f
+Size: 604
+Filename: abcom-bootlogo-pulse4kmini-dev_1.0-20210624_pulse4kmini.ipk
+Source: abcom-bootlogo-pulse4kmini.bb
+Description: pulse4kmini bootlogo files - Development files
+OE: abcom-bootlogo-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-bootlogo-pulse4kmini
+Version: 1.0-20210624
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 617399496e273daee506f137c5fb6b10
+SHA256sum: c780f0aae5c8205aa2a3de7ac210488a241e73d79620cb6c8da7c78a9187fc1a
+Size: 492
+Filename: abcom-bootlogo-pulse4kmini_1.0-20210624_pulse4kmini.ipk
+Source: abcom-bootlogo-pulse4kmini.bb
+Description: pulse4kmini bootlogo files
+OE: abcom-bootlogo-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-dvb-modules-pulse4kmini-dbg
+Version: 4.4.35+20220505-r0
+Recommends: glibc-dbg, libgcc-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: e391cd9d96fc0bc961e92f0a17bd7151
+SHA256sum: a946fae7ddba34e9015135ad8b8913a14811c66f4e4108c92a3717455d0a9ef0
+Size: 598
+Filename: abcom-dvb-modules-pulse4kmini-dbg_4.4.35+20220505-r0_pulse4kmini.ipk
+Source: abcom-dvb-modules-pulse4kmini.bb
+Description: Hardware drivers for pulse4kmini - Debugging files
+OE: abcom-dvb-modules-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-dvb-modules-pulse4kmini-dev
+Version: 4.4.35+20220505-r0
+Recommends: abcom-dvb-modules-pulse4kmini (= 4.4.35+20220505-r0), glibc-dev, initscripts-dev, libgcc-dev, libjpeg-turbo-dev, pulseaudio-lib-rtp-dev, update-rc.d-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 18dc2a0f21ef0368fdf692835b8d2b37
+SHA256sum: 5ea93a73ef8e8a12ccd44868f0ef06600d3a0b4a2af76374a9bdc1083746dfcb
+Size: 660
+Filename: abcom-dvb-modules-pulse4kmini-dev_4.4.35+20220505-r0_pulse4kmini.ipk
+Source: abcom-dvb-modules-pulse4kmini.bb
+Description: Hardware drivers for pulse4kmini - Development files
+OE: abcom-dvb-modules-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-dvb-modules-pulse4kmini
+Version: 4.4.35+20220505-r0
+Depends: libc6 (>= 2.44+git0+34106fee69), libgcc1 (>= 16.2.0), libjpeg-turbo, pulseaudio-lib-rtp
+Recommends: update-rc.d
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 9ed419241656a755dd98512f8924ea28
+SHA256sum: c0b83d9d37dd56a4bf8ad6ebcb22ad0b9c6c16187584e5fcfbb5855d6a82f9e7
+Size: 4536678
+Filename: abcom-dvb-modules-pulse4kmini_4.4.35+20220505-r0_pulse4kmini.ipk
+Source: abcom-dvb-modules-pulse4kmini.bb
+Description: Hardware drivers for pulse4kmini
+OE: abcom-dvb-modules-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-fastboot-pulse4kmini-dbg
+Version: 1.0-20210624
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: de0d50ace94841c4e9b79bb5f411148b
+SHA256sum: bc0ed43f2d5f0ef1e99e4f2f55f685d45e4384eca81a685a5b896843d6cf104f
+Size: 556
+Filename: abcom-fastboot-pulse4kmini-dbg_1.0-20210624_pulse4kmini.ipk
+Source: abcom-fastboot-pulse4kmini.bb
+Description: pulse4kmini fastboot files - Debugging files
+OE: abcom-fastboot-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-fastboot-pulse4kmini-dev
+Version: 1.0-20210624
+Recommends: abcom-fastboot-pulse4kmini (>= 1.0-20210624), abcom-fastboot-pulse4kmini (<< 1.0-20210624.0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: dcc5afb25a59ac591de5e095e0f2f22b
+SHA256sum: 0850a364d4eacfd2d3eb5afeadb50db1a6cced6f977bebc5f65d6f2ef2362cca
+Size: 604
+Filename: abcom-fastboot-pulse4kmini-dev_1.0-20210624_pulse4kmini.ipk
+Source: abcom-fastboot-pulse4kmini.bb
+Description: pulse4kmini fastboot files - Development files
+OE: abcom-fastboot-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-fastboot-pulse4kmini
+Version: 1.0-20210624
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: d2ab00fe30e3880d2f9fd85f9398d4bb
+SHA256sum: b48533ff41c36ef59fa792581e789dd43015ee11fdab29e3fc5c1419db943b0f
+Size: 419982
+Filename: abcom-fastboot-pulse4kmini_1.0-20210624_pulse4kmini.ipk
+Source: abcom-fastboot-pulse4kmini.bb
+Description: pulse4kmini fastboot files
+OE: abcom-fastboot-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-param-pulse4kmini-dbg
+Version: 1.0-20210624
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 4b100344cc5cb7779ff8e991235ea76b
+SHA256sum: 3d05569fd5803ce68de1c9ea86ec29b026b4d35b8107a31f51bf88793f08d604
+Size: 558
+Filename: abcom-param-pulse4kmini-dbg_1.0-20210624_pulse4kmini.ipk
+Source: abcom-param-pulse4kmini.bb
+Description: pulse4kmini parameters files - Debugging files
+OE: abcom-param-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-param-pulse4kmini-dev
+Version: 1.0-20210624
+Recommends: abcom-param-pulse4kmini (>= 1.0-20210624), abcom-param-pulse4kmini (<< 1.0-20210624.0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: c58b0470a406ab8367101ff12e153873
+SHA256sum: 0513c18496651f8c7afd1753fca198ba4e6131d74c79993b0b667be94bea92d8
+Size: 606
+Filename: abcom-param-pulse4kmini-dev_1.0-20210624_pulse4kmini.ipk
+Source: abcom-param-pulse4kmini.bb
+Description: pulse4kmini parameters files - Development files
+OE: abcom-param-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-param-pulse4kmini
+Version: 1.0-20210624
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 2e1a7a3994d84cc554a06f85a7d9f08b
+SHA256sum: 3f6d82a46e0456a7c9e20f622ff12f1d12464639604e962b8f712469c2332078
+Size: 492
+Filename: abcom-param-pulse4kmini_1.0-20210624_pulse4kmini.ipk
+Source: abcom-param-pulse4kmini.bb
+Description: pulse4kmini parameters files
+OE: abcom-param-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-recovery-pulse4kmini-dbg
+Version: 1.0-20210624
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 599ff8fdbf51b063257637a6b9387f30
+SHA256sum: 59ba2007c5c3a2ad97b8c391fe6cea4d41f32c791049ad4418af743993373e00
+Size: 562
+Filename: abcom-recovery-pulse4kmini-dbg_1.0-20210624_pulse4kmini.ipk
+Source: abcom-recovery-pulse4kmini.bb
+Description: pulse4kmini parameters files - Debugging files
+OE: abcom-recovery-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-recovery-pulse4kmini-dev
+Version: 1.0-20210624
+Recommends: abcom-recovery-pulse4kmini (>= 1.0-20210624), abcom-recovery-pulse4kmini (<< 1.0-20210624.0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: bd6e39aa47ebf652d08e31bdad158944
+SHA256sum: 3837285ddf663f9035c8a380479770575c5acf0f7dc3055eae1a8bf06a4761a9
+Size: 608
+Filename: abcom-recovery-pulse4kmini-dev_1.0-20210624_pulse4kmini.ipk
+Source: abcom-recovery-pulse4kmini.bb
+Description: pulse4kmini parameters files - Development files
+OE: abcom-recovery-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: abcom-recovery-pulse4kmini
+Version: 1.0-20210624
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 911d64996121da067ea6af9876bc9b35
+SHA256sum: 72f3051503edb862f74674d85a6fc7717b623beb6d8ec60b25ed0642468a82cc
+Size: 496
+Filename: abcom-recovery-pulse4kmini_1.0-20210624_pulse4kmini.ipk
+Source: abcom-recovery-pulse4kmini.bb
+Description: pulse4kmini parameters files
+OE: abcom-recovery-pulse4kmini
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: base-files-dbg
+Version: 3.0.14-rGCC~162
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 715606b7a5a8851297a4ac8582ebd9ca
+SHA256sum: bcf0e0b3a55836f9267fefcab251dd3d69ddc6a45db2d2e02e9d665b9f12cf16
+Size: 632
+Filename: base-files-dbg_3.0.14-rGCC~162_pulse4kmini.ipk
+Source: base-files_3.0.14.bb
+Description: Miscellaneous files for the base system - Debugging files
+OE: base-files
+License: GPL-2.0-only
+Priority: optional
+
+Package: base-files-dev
+Version: 3.0.14-rGCC~162
+Recommends: base-files (= 3.0.14-rGCC~162)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 5e73a30dadbdf7f998a3670657b2fb53
+SHA256sum: 0566e4fb109d3d0f7923548c756bc54e1ef15b033efa804c0ddb3d815cf47f92
+Size: 668
+Filename: base-files-dev_3.0.14-rGCC~162_pulse4kmini.ipk
+Source: base-files_3.0.14.bb
+Description: Miscellaneous files for the base system - Development files
+OE: base-files
+License: GPL-2.0-only
+Priority: optional
+
+Package: base-files-doc
+Version: 3.0.14-rGCC~162
+Section: doc
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 04d37938c0d4bf8ac020a4e29da3585f
+SHA256sum: f0b8e99cd8c5090154c5636976cda4514dcf02a2d3347ab2c4071dea6609fc7b
+Size: 744
+Filename: base-files-doc_3.0.14-rGCC~162_pulse4kmini.ipk
+Source: base-files_3.0.14.bb
+Description: Miscellaneous files for the base system - Documentation files
+OE: base-files
+License: GPL-2.0-only
+Priority: optional
+
+Package: base-files
+Version: 3.0.14-rGCC~162
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 449e255d2484c0e85b805dc1c72f0208
+SHA256sum: c6165a4b120b95bf2ba7cdb662f8c9cd706135c77ef82a4fc36dcfb85555f61a
+Size: 3654
+Filename: base-files_3.0.14-rGCC~162_pulse4kmini.ipk
+Source: base-files_3.0.14.bb
+Description: Miscellaneous files for the base system
+OE: base-files
+License: GPL-2.0-only
+Priority: optional
+
+Package: dmxcsa-dbg
+Version: 2.0-preview2-r0
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: aae9374075d9f75ad0fa54c4cc13cf40
+SHA256sum: d5e6e0c15844a5694503b413407b3430625ebfcdd104010cc622895f2fe9f0ec
+Size: 636
+Filename: dmxcsa-dbg_2.0-preview2-r0_pulse4kmini.ipk
+Source: dmxcsa_2.0-preview2.bb
+Description: dmxcsa - in-kernel CSA-ALT descrambler - Debugging files
+OE: dmxcsa
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: dmxcsa-dev
+Version: 2.0-preview2-r0
+Recommends: dmxcsa (= 2.0-preview2-r0), initscripts-dev, kernel-4.4.35-dev, kernel-module-dmxcsa-4.4.35-dev, update-rc.d-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 80208bb2933f7480a9c9c022a33e27ee
+SHA256sum: d2752bc01b919d240fce51601c2cca3e2aa6ddb1257e7ea743631ff852761a38
+Size: 706
+Filename: dmxcsa-dev_2.0-preview2-r0_pulse4kmini.ipk
+Source: dmxcsa_2.0-preview2.bb
+Description: dmxcsa - in-kernel CSA-ALT descrambler - Development files
+OE: dmxcsa
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: dmxcsa
+Version: 2.0-preview2-r0
+Depends: kernel-module-dmxcsa-4.4.35
+Recommends: update-rc.d
+Section: kernel/modules
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 51c5c8f005aee50b143227d2c0041ece
+SHA256sum: 9fd6e42d4fe4fb9213c0fe5c5a5078850b06e688213d17d03064bd4a35702c9f
+Size: 1188
+Filename: dmxcsa_2.0-preview2-r0_pulse4kmini.ipk
+Source: dmxcsa_2.0-preview2.bb
+Description: dmxcsa - in-kernel CSA-ALT descrambler
+OE: dmxcsa
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma-info
+Version: GCC-16.2-r0
+Replaces: enigma-kernel-module
+Conflicts: enigma-kernel-module
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 7d9a2d2a6028d82b249217e6b80d2710
+SHA256sum: 9040ecd5a29c6a739bca4fa5dac6b4117d6e8f75cd01fce2a9cfc51654ef95c3
+Size: 1404
+Filename: enigma-info_GCC-16.2-r0_pulse4kmini.ipk
+Source: enigma-info.bb
+Description: enigma.info used by BoxInfo
+OE: enigma-info
+License: GPL-2.0-only
+Priority: required
+
+Package: kernel-module-dmxcsa-4.4.35
+Version: 2.0-preview2-r0
+Depends: kernel-4.4.35
+Provides: kernel-module-dmxcsa
+Replaces: kernel-module-dmxcsa
+Conflicts: kernel-module-dmxcsa
+Section: kernel/modules
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 6251bb7904cf862a3e6b35afc00f4651
+SHA256sum: 760be6d1165c914bb54da9fa993e5fb55f536397e2ee39cdcc29a5e8489af03a
+Size: 57790
+Filename: kernel-module-dmxcsa-4.4.35_2.0-preview2-r0_pulse4kmini.ipk
+Source: dmxcsa_2.0-preview2.bb
+Description: dmxcsa kernel module
+OE: dmxcsa
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: oe-alliance-branding-dbg
+Version: GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini
+Recommends: glibc-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: oe-alliance team
+MD5Sum: c2cfa890fef0a241ae3a2a15088d5d70
+SHA256sum: 5b06cd24b6b106a82943de42cab078bee62cf1c3ba6cafb14f0922122ced170f
+Size: 101320
+Filename: oe-alliance-branding-dbg_GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-branding.bb
+Description: oe-alliance-branding version GCC-16.2+git-r4-pulse4kmini - Debugging files
+OE: oe-alliance-branding
+License: GPL-2.0-only
+Priority: optional
+
+Package: oe-alliance-branding-dev
+Version: GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini
+Recommends: glibc-dev, oe-alliance-branding (= GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini), python3-dev
+Section: devel
+Architecture: pulse4kmini
+Maintainer: oe-alliance team
+MD5Sum: e73a174cdfad28c1db3100873aaeb3d0
+SHA256sum: efd03f80abc3c11dc1256440b26133236e1b4b5da3c8bc503ae3a1ec9777774e
+Size: 644
+Filename: oe-alliance-branding-dev_GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-branding.bb
+Description: oe-alliance-branding version GCC-16.2+git-r4-pulse4kmini - Development files
+OE: oe-alliance-branding
+License: GPL-2.0-only
+Priority: optional
+
+Package: oe-alliance-branding-src
+Version: GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini
+Section: devel
+Architecture: pulse4kmini
+Maintainer: oe-alliance team
+MD5Sum: 31288b4042636485501399a7ae43bb30
+SHA256sum: 1f560ded8ef73915fb6723462be0db931102bc5d77ae203da886126933e8602c
+Size: 4392
+Filename: oe-alliance-branding-src_GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-branding.bb
+Description: oe-alliance-branding version GCC-16.2+git-r4-pulse4kmini - Source files
+OE: oe-alliance-branding
+License: GPL-2.0-only
+Priority: optional
+
+Package: oe-alliance-branding
+Version: GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini
+Depends: libc6 (>= 2.44+git0+34106fee69)
+Section: base
+Architecture: pulse4kmini
+Maintainer: oe-alliance team
+MD5Sum: adcf934a6c0a0b5bcd8ffb8bf2eea155
+SHA256sum: ec32f50a490ed938e02384a1fa5eb310e89b4ea7b57daa6a8116c55b58b97bfa
+Size: 145324
+Filename: oe-alliance-branding_GCC-16.2+git1172+eec06ad0+eec06ad05a-r4-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-branding.bb
+Description: oe-alliance-branding version GCC-16.2+git-r4-pulse4kmini
+OE: oe-alliance-branding
+License: GPL-2.0-only
+Priority: optional
+
+Package: oe-alliance-remote-dbg
+Version: GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Alliance
+MD5Sum: 1b40c7fab9a98a3fad14bc514e3f902d
+SHA256sum: 63027eb7c40e3fcbf1170125fae6837d06e65abd86842f66b819a89b0d6a5301
+Size: 612
+Filename: oe-alliance-remote-dbg_GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-remote.bb
+Description: oe-alliance-remote version GCC-16.2+git-r3-pulse4kmini - Debugging files
+OE: oe-alliance-remote
+License: GPL-2.0-only
+Priority: optional
+
+Package: oe-alliance-remote-dev
+Version: GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini
+Recommends: oe-alliance-remote (= GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: OE-Alliance
+MD5Sum: 0492b112d2591ff84de4e546fe98d248
+SHA256sum: b5c11f81205730413521e64dcf5440ab89c65a4778da79195dc7b344f03a7cd6
+Size: 648
+Filename: oe-alliance-remote-dev_GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-remote.bb
+Description: oe-alliance-remote version GCC-16.2+git-r3-pulse4kmini - Development files
+OE: oe-alliance-remote
+License: GPL-2.0-only
+Priority: optional
+
+Package: oe-alliance-remote
+Version: GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini
+Section: base
+Architecture: pulse4kmini
+Maintainer: OE-Alliance
+MD5Sum: 8938489ae4bbf7baa213e0c0a62d2728
+SHA256sum: e33f92bc0ae557023e527cafc2d21b5b48dc02a9ddc7cde09e41d86e19f0e8d5
+Size: 1127032
+Filename: oe-alliance-remote_GCC-16.2+git145+4ab74f30+4ab74f3348-r3-pulse4kmini_pulse4kmini.ipk
+Source: oe-alliance-remote.bb
+Description: oe-alliance-remote version GCC-16.2+git-r3-pulse4kmini
+OE: oe-alliance-remote
+License: GPL-2.0-only
+Priority: optional
+
+Package: opkg-arch-config-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: bb6daf271b800a0f28a90c1a16796ed2
+SHA256sum: 85b912cec9509cc313ea5720b4ce6e362d4db9b37b2712411fbbf5905ecaa325
+Size: 588
+Filename: opkg-arch-config-dbg_1.0-r0_pulse4kmini.ipk
+Source: opkg-arch-config_1.0.bb
+Description: Architecture-dependent configuration for opkg - Debugging files
+OE: opkg-arch-config
+HomePage: https://git.yoctoproject.org/opkg/
+License: MIT
+Priority: optional
+
+Package: opkg-arch-config-dev
+Version: 1.0-r0
+Recommends: opkg-arch-config (= 1.0-r0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 96fc27a2a4171c6b5946799f31c9e648
+SHA256sum: 4bb59a6553c9f2c5bf93c7370c59fb9f4693587116d7c514d71d3a9f0ce4111d
+Size: 622
+Filename: opkg-arch-config-dev_1.0-r0_pulse4kmini.ipk
+Source: opkg-arch-config_1.0.bb
+Description: Architecture-dependent configuration for opkg - Development files
+OE: opkg-arch-config
+HomePage: https://git.yoctoproject.org/opkg/
+License: MIT
+Priority: optional
+
+Package: opkg-arch-config
+Version: 1.0-r0
+Provides: opkg-config-base
+Replaces: opkg-config-base
+Conflicts: opkg-config-base
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 75a674b75b61ab3a9347fd42dce8d6f6
+SHA256sum: f4d5cc3d20219f82c6bb255de8cbc7895735173eee41613643506e06565ba743
+Size: 812
+Filename: opkg-arch-config_1.0-r0_pulse4kmini.ipk
+Source: opkg-arch-config_1.0.bb
+Description: Architecture-dependent configuration for opkg
+OE: opkg-arch-config
+HomePage: https://git.yoctoproject.org/opkg/
+License: MIT
+Priority: optional
+
+Package: webkit-hbbtv-plugin-dbg
+Version: 2.0-r0-79+078d3e90+078d3e9c54-r0
+Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: f8d530ab6800e098f845c2b974a723d9
+SHA256sum: ac3c815ca96abb66aa50144a7dc798117898367da06b5074bb3dfd3ab1642e7a
+Size: 616
+Filename: webkit-hbbtv-plugin-dbg_2.0-r0-79+078d3e90+078d3e9c54-r0_pulse4kmini.ipk
+Source: webkit-hbbtv-plugin.bb
+Description: webkit-hbbtv-plugin version 2.0-r0--r0 - Debugging files
+OE: webkit-hbbtv-plugin
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: webkit-hbbtv-plugin-dev
+Version: 2.0-r0-79+078d3e90+078d3e9c54-r0
+Recommends: glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugin-dvbmediasink-dev, gstreamer1.0-plugins-bad-autoconvert-dev, gstreamer1.0-plugins-bad-dash-dev, gstreamer1.0-plugins-bad-faad-dev, gstreamer1.0-plugins-bad-hls-dev, gstreamer1.0-plugins-bad-mpegpsdemux-dev, gstreamer1.0-plugins-bad-mpegtsdemux-dev, gstreamer1.0-plugins-bad-mpegtsmux-dev, gstreamer1.0-plugins-bad-rtmp-dev, gstreamer1.0-plugins-bad-smoothstreaming-dev, gstreamer1.0-plugins-bad-videoparsersbad-dev, gstreamer1.0-plugins-base-alsa-dev, gstreamer1.0-plugins-base-app-dev, gstreamer1.0-plugins-base-audioconvert-dev, gstreamer1.0-plugins-base-audiorate-dev, gstreamer1.0-plugins-base-audioresample-dev, gstreamer1.0-plugins-base-dev, gstreamer1.0-plugins-base-ivorbisdec-dev, gstreamer1.0-plugins-base-ogg-dev, gstreamer1.0-plugins-base-opus-dev, gstreamer1.0-plugins-base-playback-dev, gstreamer1.0-plugins-base-rawparse-dev, gstreamer1.0-plugins-base-subparse-dev, gstreamer1.0-plugins-base-typefindfunctions-dev, gstreamer1.0-plugins-base-videoconvertscale-dev, gstreamer1.0-plugins-base-vorbis-dev, gstreamer1.0-plugins-good-apetag-dev, gstreamer1.0-plugins-good-audioparsers-dev, gstreamer1.0-plugins-good-autodetect-dev, gstreamer1.0-plugins-good-avi-dev, gstreamer1.0-plugins-good-flac-dev, gstreamer1.0-plugins-good-flv-dev, gstreamer1.0-plugins-good-icydemux-dev, gstreamer1.0-plugins-good-id3demux-dev, gstreamer1.0-plugins-good-isomp4-dev, gstreamer1.0-plugins-good-matroska-dev, gstreamer1.0-plugins-good-rtp-dev, gstreamer1.0-plugins-good-rtpmanager-dev, gstreamer1.0-plugins-good-rtsp-dev, gstreamer1.0-plugins-good-soup-dev, gstreamer1.0-plugins-good-udp-dev, gstreamer1.0-plugins-good-wavpack-dev, gstreamer1.0-plugins-good-wavparse-dev, libgcc-dev, libstdc++-dev, libupnp1.6-dev, webkit-classic-browser-dev, webkit-classic-dev, webkit-hbbtv-plugin (= 2.0-r0-79+078d3e90+078d3e9c54-r0)
+Section: devel
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: d9eaf8323d822334e04b791849e3a4a5
+SHA256sum: cd20a59a1dc82df468ccc3d7787622d0557841b22a6864c86bb417f927dad74f
+Size: 936
+Filename: webkit-hbbtv-plugin-dev_2.0-r0-79+078d3e90+078d3e9c54-r0_pulse4kmini.ipk
+Source: webkit-hbbtv-plugin.bb
+Description: webkit-hbbtv-plugin version 2.0-r0--r0 - Development files
+OE: webkit-hbbtv-plugin
+License: LicenseRef-Proprietary
+Priority: required
+
+Package: webkit-hbbtv-plugin
+Version: 2.0-r0-79+078d3e90+078d3e9c54-r0
+Depends: gstreamer1.0, gstreamer1.0-plugin-dvbmediasink, gstreamer1.0-plugins-bad-autoconvert, gstreamer1.0-plugins-bad-dash, gstreamer1.0-plugins-bad-faad, gstreamer1.0-plugins-bad-hls, gstreamer1.0-plugins-bad-mpegpsdemux, gstreamer1.0-plugins-bad-mpegtsdemux, gstreamer1.0-plugins-bad-mpegtsmux, gstreamer1.0-plugins-bad-rtmp, gstreamer1.0-plugins-bad-smoothstreaming, gstreamer1.0-plugins-bad-videoparsersbad, gstreamer1.0-plugins-base, gstreamer1.0-plugins-base-alsa, gstreamer1.0-plugins-base-app, gstreamer1.0-plugins-base-audioconvert, gstreamer1.0-plugins-base-audiorate, gstreamer1.0-plugins-base-audioresample, gstreamer1.0-plugins-base-ivorbisdec, gstreamer1.0-plugins-base-ogg, gstreamer1.0-plugins-base-opus, gstreamer1.0-plugins-base-playback, gstreamer1.0-plugins-base-rawparse, gstreamer1.0-plugins-base-subparse, gstreamer1.0-plugins-base-typefindfunctions, gstreamer1.0-plugins-base-videoconvertscale, gstreamer1.0-plugins-base-vorbis, gstreamer1.0-plugins-good-apetag, gstreamer1.0-plugins-good-audioparsers, gstreamer1.0-plugins-good-autodetect, gstreamer1.0-plugins-good-avi, gstreamer1.0-plugins-good-flac, gstreamer1.0-plugins-good-flv, gstreamer1.0-plugins-good-icydemux, gstreamer1.0-plugins-good-id3demux, gstreamer1.0-plugins-good-isomp4, gstreamer1.0-plugins-good-matroska, gstreamer1.0-plugins-good-rtp, gstreamer1.0-plugins-good-rtpmanager, gstreamer1.0-plugins-good-rtsp, gstreamer1.0-plugins-good-soup, gstreamer1.0-plugins-good-udp, gstreamer1.0-plugins-good-wavpack, gstreamer1.0-plugins-good-wavparse, libc6 (>= 2.44+git0+34106fee69), libgcc1 (>= 16.2.0), libstdc++6 (>= 16.2.0), libupnp1.6, webkit-classic, webkit-classic-browser
+Section: base
+Architecture: pulse4kmini
+Maintainer: foxbob
+MD5Sum: 17cf492aa960980ca05930d465d3de18
+SHA256sum: 5ac86211f20b2270349dc234d0d313851299bcc78faebf4705da241c98237b8f
+Size: 350144
+Filename: webkit-hbbtv-plugin_2.0-r0-79+078d3e90+078d3e9c54-r0_pulse4kmini.ipk
+Source: webkit-hbbtv-plugin.bb
+Description: webkit-hbbtv-plugin version 2.0-r0--r0
+OE: webkit-hbbtv-plugin
+License: LicenseRef-Proprietary
+Priority: required
+
